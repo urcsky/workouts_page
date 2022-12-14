@@ -13393,5 +13393,20 @@
 "average_speed": 3.304,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8247858747,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 7144.9,
+"moving_time": "0:40:21",
+"type": "Run",
+"start_date": "2022-12-14 14:02:32+00:00",
+"start_date_local": "2022-12-14 22:02:32",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 129.4,
+"average_speed": 2.951,
+"source": "strava",
+"streak": 1
 }
 ]
