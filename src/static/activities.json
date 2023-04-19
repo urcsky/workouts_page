@@ -14053,5 +14053,20 @@
 "average_speed": 3.209,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8919801694,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 7031.8,
+"moving_time": "0:41:20",
+"type": "Run",
+"start_date": "2023-04-19 13:51:24+00:00",
+"start_date_local": "2023-04-19 21:51:24",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 132.0,
+"average_speed": 2.835,
+"source": "strava",
+"streak": 1
 }
 ]
