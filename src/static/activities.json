@@ -14428,5 +14428,20 @@
 "average_speed": 2.988,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 9214464433,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 6015.8,
+"moving_time": "0:33:26",
+"type": "Run",
+"start_date": "2023-06-06 14:13:56+00:00",
+"start_date_local": "2023-06-06 22:13:56",
+"location_country": "China",
+"summary_polyline": "gsb~Cwr}vUGOc@s@ECKAKHKLUb@m@z@KJOBKFu@x@Ub@aArAa@fAmAdBQ^q@jA[p@]l@[b@Yf@a@h@MTg@|AS`@U\\E@EFq@`B{BjDS^Of@o@tAs@`AEVBZHTZh@f@d@p@^z@r@LP@RGNQPu@dA{AdBkApBe@b@s@`Ak@j@cAl@qAf@o@L}ANy@@_@AuA@o@C{@LoADWHENBHPPVDxAEzDPdBEnAOrA[nAq@b@]v@{@v@yAx@cAVa@n@q@j@u@v@gAvBoCx@qAvAgBn@aAlCkDj@}@`B{BtD}ErEkGj@_@TYb@y@vAqBtAeBv@oA`BsBPM^OJIdBcCTUBKC@KXSZWX{BzCuA~AGNc@h@_AvAa@h@i@l@KRe@l@q@dAcAnAsAhBe@d@}AjA[`@oBnCo@v@k@z@[\\}ExG_BtBELEF?DhBoC|@iAzB_Dd@e@Ve@v@gAp@_A\\]|A{B",
+"average_heartrate": 135.4,
+"average_speed": 2.999,
+"source": "strava",
+"streak": 5
 }
 ]
