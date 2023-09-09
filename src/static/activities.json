@@ -15148,5 +15148,20 @@
 "average_speed": 2.838,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 9815970011,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 1000.0,
+"moving_time": "0:21:44",
+"type": "Swim",
+"start_date": "2023-09-09 12:21:47+00:00",
+"start_date_local": "2023-09-09 20:21:47",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 102.7,
+"average_speed": 0.767,
+"source": "strava",
+"streak": 1
 }
 ]
