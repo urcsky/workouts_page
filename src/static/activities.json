@@ -15313,5 +15313,50 @@
 "average_speed": 3.08,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10025592293,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1648.3,
+"moving_time": "0:09:19",
+"type": "Run",
+"start_date": "2023-10-12 11:30:40+00:00",
+"start_date_local": "2023-10-12 19:30:40",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wsb~C}r}vUCKGG[i@IEQGIBUTOF[^W\\Q^[d@UTa@x@u@z@i@x@c@bAoBbDgAdCU\\UPMT}@pBg@v@k@xAi@j@Yv@gAjB[`@i@b@]h@URCF[TAHKJCHI@IVEAM[Oq@Ca@Bq@X{@DY?_@G{AOu@Yk@So@SiA",
+"average_heartrate": 130.8,
+"average_speed": 2.949,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10025592429,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 8020.5,
+"moving_time": "0:41:22",
+"type": "Run",
+"start_date": "2023-10-12 11:43:32+00:00",
+"start_date_local": "2023-10-12 19:43:32",
+"location_country": "\u798f\u5dde\u5927\u5b66\u81f3\u8bda\u5b66\u9662, 50, \u6768\u6865\u897f\u8def, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "cad~Cag}vUAe@KYUQIEg@?qCr@[NKLI`@@ZLX^V\\DDARCv@WTIb@Ih@SLONa@?WG[WUOIOCW@}@Z{@Tc@FQDIHQ\\I`@?LHR`@ZRDX?HA@OxCw@NGJMHU@SESIQIIMGSAWDmD~@MJIPCPBZBJNPLFX@pBe@pA_@NQFS@SCQISOMOES?{DbAOLKVCTDXHNNJ\\Dh@KfCs@TIFGL[?[AKKSIIQGY?kD~@QFQXEP?PDTLPJHLBP?hD}@VKHEJUBYCQGQMOSGUAkD~@UJMPEJATBVHPTNJBR?lD_APGJMFQBSCWIQOMSIQ@qD~@KFQPGT?LDZLPPLJ@R?jD_ANGJMHQBSCYMUMIQGQ?iD|@UJKLIPARBZHNNJNFN?rD_APILODOBUEWIOMMSGO?eDz@[JKLKZ?PBTHLNLNFT?hD}@RILMFUBQCSEOOQWIM?uD~@MFMPGNAT@PLVNLNDR?vDcALKHODUAWIUIMYKO?{DbAKHMTC\\BRFNPPRDN?xDcANOJS@QCYEOOOSIS?yDbAMJIPEV@XFNRRRDR?vDeANOHS@WAOGQUSQEO?mD~@QHKJIRAR@RLVHHPHR?fD{@XKJMHU@QCWKUKIUGQ?iD|@SJMLGPAXDVHNNJPDR?hD}@PIJMHS@SAUIQOOQGQ?sCr@k@RMJITAR@TFNNNPHT?zDeAJKLU@SAUISOOUGQ?iD|@SJONGT?TBPJPLLNDT?xDeANMFQBSAUGQKOUKS?wCt@i@RMLIZ?RJ\\TRJBT?lD_ANGLQFO@SAUIQOOQGU?oD~@KFSVEP?VHXTRPDP?lD_ALGJKJU@WCSIQOMSGS?yDfAOPGNATDXJRJHRDN?nD_ARKLQDWAWGSMQUIQ?[F",
+"average_heartrate": 152.2,
+"average_speed": 3.231,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10025592104,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1527.2,
+"moving_time": "0:09:11",
+"type": "Run",
+"start_date": "2023-10-12 12:27:31+00:00",
+"start_date_local": "2023-10-12 20:27:31",
+"location_country": "\u798f\u5dde\u5927\u5b66\u81f3\u8bda\u5b66\u9662, 50, \u6768\u6865\u897f\u8def, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "{yc~C}w|vUBL@ZH^b@p@Lb@JTGpAKf@I|@Ad@OnA?\\Fd@X\\HTbAo@`A_APUJWBOn@{@v@kB`@c@`@eAb@w@h@uAn@y@JIJYBSVe@L[\\c@h@OL[^g@\\s@",
+"average_heartrate": 137.0,
+"average_speed": 2.772,
+"source": "strava",
+"streak": 1
 }
 ]
