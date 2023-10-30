@@ -15403,5 +15403,50 @@
 "average_speed": 3.267,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10130296086,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1793.3,
+"moving_time": "0:09:53",
+"type": "Run",
+"start_date": "2023-10-30 11:25:14+00:00",
+"start_date_local": "2023-10-30 19:25:14",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "}sb~Cys}vU[i@MGI@MJcBdCC@GKEAi@bAsBvCkBfD]f@u@~AcBlCWn@}@xAm@lAWr@Wd@S^i@r@MZe@t@Uh@Ub@KPCPM\\GX{@lAIFC@MAUSWa@Oi@CQ?QDSZw@Js@@aCGg@Om@Sa@_@gAYiCQo@Wk@[e@SO]B",
+"average_heartrate": 135.8,
+"average_speed": 3.024,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10130296271,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 9093.9,
+"moving_time": "0:47:39",
+"type": "Run",
+"start_date": "2023-10-30 11:35:50+00:00",
+"start_date_local": "2023-10-30 19:35:50",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 157.0,
+"average_speed": 3.181,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10130295990,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1326.7,
+"moving_time": "0:08:07",
+"type": "Run",
+"start_date": "2023-10-30 12:26:18+00:00",
+"start_date_local": "2023-10-30 20:26:18",
+"location_country": "\u798f\u5dde\u5927\u5b66\u81f3\u8bda\u5b66\u9662, 50, \u6768\u6865\u897f\u8def, \u6d2a\u5c71\u6865\u793e\u533a, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "oyc~Cmw|vUJXH^\\z@Hl@@`AMpCK`A@f@J\\Zh@HFNBXKHKXSFK?GNo@d@sAT[pAsA^m@^_AdAkB\\eAn@_A",
+"average_heartrate": 141.2,
+"average_speed": 2.724,
+"source": "strava",
+"streak": 1
 }
 ]
