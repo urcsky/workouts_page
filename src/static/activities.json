@@ -15583,5 +15583,20 @@
 "average_speed": 2.566,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10211523980,
+"name": "Zwift - FTP Test (20 min) in Watopia",
+"distance": 14367.9,
+"moving_time": "0:33:24",
+"type": "VirtualRide",
+"start_date": "2023-11-13 14:59:22+00:00",
+"start_date_local": "2023-11-13 22:59:22",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "th`fAki}y^bB|Ep@`BVZ\\R`@AjAg@b@KtBSp@BnBd@z@Fr@Ar@OtAcAh@Sn@Gb@?VDPN~@|AJVEVOTwAxA[?w@S]A[DsBt@g@b@{@hBKn@@^Hd@h@xANTTPf@Nf@EVOj@q@\\Sb@DnAd@^Gd@_@vAmBL[j@kBJIZCr@Nj@^NXXhBb@r@rBdBRFf@CPIJOVu@\\mBJiAByAAeAi@wH?eBFwALsAb@yC\\_B^_AXc@l@g@~AaAZ[h@y@h@_@|@Wr@G`@Dl@^d@Lb@?ZOJYEWQSq@QCSLI`@GxABNIJODa@KWWQy@Dc@Oe@aAc@_B@MTQvAYVKJMHY@i@Ia@S_@qA{AYi@G_@GgBGWKU_@Ue@MiAMuAEcABuBZ_CGe@L]ZUd@eA|ESj@MRQLUFU?iBm@sLgCoDcAw@Ku@EwBDwD`@cEp@aFzAk@F]MIMI[GaAB_BJmAFWNSVO`A]LQBUMoA?u@B]J[z@qAHa@Ac@@OP]Da@Cg@Ou@oBmHEe@@[NMbBU`BMdA[lAy@rE_E`@Wv@]|@MvCBhCHdBNn@Nl@Vd@d@h@|@Tv@Fd@@h@Gf@_@p@wBzB]p@Id@CrANpECjAIVUJWAkCy@[E[BWJ_@XwBdCo@Ze@H}BRuIrAyAZqBr@a@^IPOzAEhA@t@Hr@JVTRZB\\Ax@SfDgAv@SxG}@fBMjAAvBVtDfAbL`CxAf@RBTCPG\\_@Vw@bAmETi@RUZMRCrBHtC]jA@hADt@Jj@TRPLj@DvAFd@\\p@xAfBL`@Bd@I^MLmBd@QLER@Rd@zA?PM^KJ_@@[OqC}Cc@Y]EYH]b@sAjEQZODYOUUiBkDWQYCMBy@n@}HxE_@n@IJOBUOOS_CwFs@kAWWg@WcAMoAD_AP]RIPCR@j@Lj@Ph@LRb@XhAh@HL?PGNSVw@p@eAl@MA{@aAMGm@GII[yA[i@Y[QIc@A_@FWJWXO\\Ib@BVRRz@\\LLBPK`AHX\\ThA^LP?JEHg@XOP?TJb@CHe@T{@P_@B_@Ak@Ym@}@_@y@yAkEi@eA[a@s@c@y@_@cGcBmCyAkA}@s@u@i@}@m@}A_@_BIaA?}@R}@Xe@j@k@rE{Cv@q@PWFYA]MW",
+"average_heartrate": 118.1,
+"average_speed": 7.17,
+"source": "strava",
+"streak": 2
 }
 ]
