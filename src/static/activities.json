@@ -15733,5 +15733,20 @@
 "average_speed": 3.181,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10257164173,
+"name": "Zwift - The Long Ride in Makuri Islands",
+"distance": 15938.4,
+"moving_time": "0:31:43",
+"type": "VirtualRide",
+"start_date": "2023-11-21 14:45:01+00:00",
+"start_date_local": "2023-11-21 22:45:01",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "flv`Aeafs^aA`BQ~@RpAf@jA@j@O~@Fh@Td@nCbC`Gx@p@Xn@t@xAvCbDtCt@~@DlAMXw@Z]b@Q~@Vf@xBhC?x@e@pCFjAVv@h@h@fC`Ab@p@TjDdAtB@v@U^u@L{Bk@iBGkDn@eDC][Y_BUe@sBaBq@We@?cBv@a@@kBuAgCaAyAmA_A?_BrA]FaAYm@c@QUQgAy@]e@B}@l@_Bb@gAKo@_@[s@GgCW[q@Sc@B{C|AYVq@`BmBx@mDIgC^o@U{AkAqD}@w@cCo@c@u@QI[FgAdAwAVeAIi@y@wAE_AFcA`@u@zByAPq@DuAQcEOo@c@}@wAkAWs@?i@t@sATw@Ig@cA}@Ie@Bg@Ts@XYpDg@n@oBvDs@Zi@Fm@]y@s@[kHk@Ms@JyAVMlAHPSIMuBDa@KUW@a@TOPDXp@j@o@dBXJx@n@NJH@b@^PZIXs@b@LTh@f@HnAaArDQzAYjCfAvAFLQu@oBcAoABk@Vk@ZKb@FdBbA`ANp@Ox@g@T_@Ai@Uw@a@_@qC\\qCa@oCbAgEBwC|AYAgBeBtAoC?Q}FeEO@}@x@mEmCi@XeCxDkAtAkBaAsA_@cA?MXAp@RRbBXlAx@x@Nz@r@f@FhAU`ByBj@Y~@?tAv@\\b@PzAWb@oB_AoA_AuA|ANv@O^HRbBpA^I`A_AnA|@zBJxBl@hBK~AaAn@K~BJTHVp@Gt@WNcF\\y@x@UDYGi@w@SA]t@i@DOKEm@w@UIq@[MsAKUd@M@Wi@MIYVBRZVlC@HRGPgB?Od@CbA@RNNdGb@x@Rh@b@Pr@Mv@WXoDn@WZa@tAa@RqCVe@p@Ij@@h@dAdALd@UfAm@bAEj@Pn@pAbAr@tALv@NtDGzAUr@sBpAc@z@AzBv@xAJp@WbAeApAGvAfBv@Zh@TjARVdDt@jCbBj@?bB]`DFnA]b@[n@{A\\a@v@WlAw@x@Mv@XRX@lBLl@Zf@t@\\v@DjBm@p@g@b@C~@`@N~@Xb@p@b@l@L^C~AqAt@Ez@d@`A|@lBl@fBtA`@BtB}@vA\\nB|AR`@XfBb@X~C?vBi@~@EhBLfBf@x@MLa@C_AaAkBYmD]g@}CuAe@q@OmA",
+"average_heartrate": 122.4,
+"average_speed": 8.375,
+"source": "strava",
+"streak": 3
 }
 ]
