@@ -15808,5 +15808,20 @@
 "average_speed": 2.518,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10279301520,
+"name": "Zwift - The Long Ride in Innsbruck",
+"distance": 15249.4,
+"moving_time": "0:50:20",
+"type": "VirtualRide",
+"start_date": "2023-11-25 13:54:59+00:00",
+"start_date_local": "2023-11-25 21:54:59",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "cxo_HiupdApR~ANCJGHQ@S@UCk@cAiLk@iEA[DWNO^OxA_@zAWV@VHlAt@d@PV@LCJGHMTs@L{@z@cMDUJQLKn@U\\Wf@s@v@yAhBaEZkAz@oDHMHEJ?n@RrB^XALGHMFe@?uAOeESuB?YBWJSZWNInFiB|@a@xBmAfC}AhAaA|CwDT_@R_ALK^E^B^IfEkC~@c@jGgBdIkBTQXi@XSLYBO@a@Ae@q@uFCm@BgAXeE@kAEiASmBs@{ES_As@eC]uBu@kFg@wEwB{WIoBEaB?qDBgAJgCJy@Ji@T{@fAyBPo@Da@Bg@?{@QeFAk@@k@HOP?JFLVDXHzAJ|@v@zDZjANd@VZZJTCJET[He@?g@YsDEs@?g@J}ANkAh@aD`@oBRs@V}@\\w@NWLKv@MROV_@Nc@Je@Da@?]GcEOqHIiB[_C}@wE]}BIy@?[Ba@Nw@Ru@f@sAxAgDRYVMr@Et@F~AXpBh@|Al@j@`@`Ax@\\`@Xd@n@|Ab@dB|BtK~@hDX|@LVf@x@f@f@f@\\`A^fDfAhBjAbBrAdA`Af@n@hAnBl@h@bAf@rDnApDxAzAx@bAt@pDxCfCnBXVHNBP?d@KrA@LFJNDZEjCwAVEP?VLRPtAbAp@\\b@FvAF`APjCv@hJ~CnBh@z@h@tBnBf@Zn@VpBf@|Dr@xA\\j@Dl@EhAY|CeAp@Gz@CjADnARfA^hBx@dBdAxBpB|AhBp@~@v@tAdAbC|@bC^vApAzFdArDd@hAh@~@n@~@p@x@t@n@nAx@dAf@bBj@tB^zEl@lCb@hBb@p@VfAn@tB~Ab@b@p@x@LTJXA\\GZWn@Yf@ONQHs@PgDb@eBPkCJgB`@uAh@s@b@gAz@mD`DyCvCuB~AQPORUp@[l@g@LgABu@J]LYTYZsBxCw@t@_B`A_@\\]^[b@iAnBcCrEaAtBYd@_@b@a@\\c@VmA\\sANoAFyB@_Dk@c@Ba@\\[h@mChGi@vAOl@W|AcArI]dASVWPs@Vq@NYDqAC[BYHYPyA`Bm@f@sAd@wAVaA@]G_DcA_@Ia@@_@X[f@iB`Ds@fAsCjDeA~@uBpAq@VWAqAu@]Ia@AeBFe@K[[a@QqDk@]M[_@Sg@Qk@",
+"average_heartrate": 125.9,
+"average_speed": 5.049,
+"source": "strava",
+"streak": 1
 }
 ]
