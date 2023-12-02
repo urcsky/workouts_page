@@ -15913,5 +15913,20 @@
 "average_speed": 3.166,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10317053438,
+"name": "Zwift - Twelve Spikes in Watopia",
+"distance": 26792.9,
+"moving_time": "1:02:36",
+"type": "VirtualRide",
+"start_date": "2023-12-02 14:43:35+00:00",
+"start_date_local": "2023-12-02 22:43:35",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "`q_fAgu~y^xAhEfBnBlDtBrH|BjAn@bA~AzCbI?`@a@DaBaByAWwAl@[`ALpAdAvDhEdMgA~AY|AyAvA{@pB?t@nBnFf@\\~@Af@]v@aBp@?dAi@|@Ld@r@\\rCGhEiBl@SxAJdApE`Dd@?tEiBz@XB`@OHgDj@Cj@TF`AOlDX`BWvDcCbAkEfBuAjFoJh@}A^yBLwCm@kK@{Bj@{Fz@sDf@y@zCsB`BiB`Ca@bBr@|@GJu@cAe@A[fCG^m@[u@cBIgAoCDk@vBi@\\aAOeAwBkCc@_EiCs@oCEsD`@w@MESF_@~Jy@xAYd@c@U[w@CqJpAu@A[[Hs@|@o@nKyAx@m@oHePI}An@uArAk@t@Tv@v@nDnLn@z@lBJrJ[x^dGn@b@H|El@j@z@]XyD~@qBt@g@`@^Lj@s@|Gz@jB~E|ApQrDt@?b@[dCcF~CgBl@gCtDuBv@aD|A{Bb@}CMoHLq@|@gAhC]pAuANo@I_BeB{@u@aCb@}AvEcDBs@c@}D^uAz@iBk@eBp@_@jAj@r@y@dBq@Jw@eAsA@y@z@iAl@eBxAQp@i@Jq@ImArAaIaCgEsBiB}FsDwDoA_Es@{EWqFVkFr@eFnA_EhBeCAo@^SxAjAdBA`CpBxBG`B}@P[KqCiCwBpBeG`Ck_@vIkXrHoAp@Ip@nBrGYb@wKnCeFp@gB?sB}@sFaH_Bo@iCIgB`@oBpAqCnGeAbAeCn@wPtBaDfA_C~A{AnC_@nCBzBlAhKgB\\[d@V|@jClBFp@w@fAaH`Fc@|ABnB`AtDz@|AnAlA|D~BxGnBxAz@pAzBdCvGBd@a@J{A}A{A]cAVs@fAVhCbGnQE`@cAhA[|AgA~@s@pAW`BlBlFl@d@zAOz@oB|@CrAk@`Aj@l@dEIlDQTqAPWjCNb@`DhCtALfFkBd@b@A`@eDh@Yb@LTxAMhETrDwA~@}@~@aEfCeCtEqIx@wCVcFk@oNl@{Fv@qDz@oAbC_BdAwAt@a@fBWrBt@t@IJu@aAe@EWjCK\\m@]w@eA@i@Yy@eCDe@xBi@\\aA[sAkB}Bc@_E_Ac@aCUoF`@{A[Ne@zK_AhA[P[O[}@CsJpAkAWAk@j@m@hLiBx@m@wGqN",
+"average_heartrate": 115.2,
+"average_speed": 7.133,
+"source": "strava",
+"streak": 1
 }
 ]
