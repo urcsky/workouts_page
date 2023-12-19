@@ -16138,5 +16138,20 @@
 "average_speed": 3.425,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10405069468,
+"name": "Zwift - The Long Ride - 6x20min Tempo in Watopia",
+"distance": 18447.7,
+"moving_time": "0:36:42",
+"type": "VirtualRide",
+"start_date": "2023-12-19 14:51:02+00:00",
+"start_date_local": "2023-12-19 22:51:02",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fp_fA_~bz^wAyFBu@r@eD?cAe@oAeAaBKq@To@b@S~BJ^OPaADeCZs@v@UdAHpBr@nAx@Lf@AvAb@Xj@@n@`@@\\cAxBHp@`@b@pBPdFe@hA{@bAcBCo@}@_BIsAL]hBgA^e@X}AGaBk@wBkAiCuBwBaC_BK_Ab@iCl@yAt@g@`B]p@]n@y@Ni@FaBOoAs@oA_CsBSs@Zi@rAaAN[@]YgAHo@vIwTTgAHwBKiAi@y@}@c@uDeAu@m@aAkBMs@@y@b@uA`FgKb@mAXcBVY|@_@dBMzAl@`AHhAk@jAkCVS`@KfBD`ASx@e@n@oB?aBUo@wBoCUu@To@lAaAjAGh@Vz@fArDnG`Av@p@BhAaAx@iD^m@f@?~@Xl@^Vb@Jx@MpBJl@x@l@dA^Zh@Dj@]v@wBn@i@fAGrABlIkAhNGtCd@hAxC~CPZF~@b@\\pB@zAd@pAEbGgBvCo@|@P`@b@^lBXrDRdF@rDW|AkB~AOpB\\dFVjAZf@f@\\|@T|BMnAn@lD\\fBhATd@ZdCl@r@d@Jp@]Vg@pCyI\\e@n@S~@RlAx@Pj@DrAP\\`@LjCG~@Tn@r@p@vAh@ZbBAbBw@f@aAJ_BMm@w@y@eBk@}@Nu@`@iApB[LqAKqC@SWEwAOi@qAaAmASk@Ng@p@}CrJ_@\\[@cAy@_@qCyAsA_A_@uCUiAi@eBJq@EgAi@c@y@WcBQsC@gBX{@|@m@d@i@P_ABuAI}Da@_HO{A[iAm@k@}@KyL|Co@AyAa@_CG_@gBgDsD]y@FuCjAiN@{KZ{@~By@TSNm@K}@_@a@sAg@c@a@Ik@HqC]w@q@i@iA[m@Dc@r@}@nDq@j@q@D}@q@yEaIy@q@_AGkAb@s@x@K`@R~@vBjCVr@BjAe@jBWZ_A^q@JgBE_@Lk@p@u@jBcAh@_AEwAo@aA@iBf@_@b@y@lDoDfHwAnDEp@J~@Z|@b@r@jA~@bEjAf@ZZd@PnAKbCSz@}IdUCj@XbAEXgB|ASf@V|@lCdC`@z@NbBQzAOb@y@r@aCj@w@l@c@~@g@nCAv@Vn@|A~@vBhB`AdBz@fCVdBGvA]~@eAr@",
+"average_heartrate": 115.7,
+"average_speed": 8.378,
+"source": "strava",
+"streak": 1
 }
 ]
