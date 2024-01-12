@@ -16333,5 +16333,20 @@
 "average_speed": 3.126,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10544143459,
+"name": "Zwift - The Long Ride - 6x20min Tempo in Innsbruck",
+"distance": 20275.7,
+"moving_time": "1:06:13",
+"type": "VirtualRide",
+"start_date": "2024-01-12 14:27:28+00:00",
+"start_date_local": "2024-01-12 22:27:28",
+"location_country": "10a, Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "ouo_H}tpdAzOpA\\KJe@?m@iAqMi@uD?YDWJQPGhE_Ad@FxA|@d@NX?VOVq@PoAx@uLDUX_@n@U\\WhAiBbCkFzAcGVGjDr@ZEHIFQF_AAaAQuDQ{B?YRi@l@_@fGwBpGqDjBcBnCeDR_@R}@JIxAInEmCjAi@`EiAzJaCXQTe@`@[FMF]?w@i@yEK{ABeAX}D@iAEcAS{B{@qFaAuD[oBy@cGk@kFcBwSQ}CIeC?uDDgBNeCVyATo@dA{BTmA@}AQcF?}AJKR?Vd@T`Dv@|Df@jBXf@XL`@CVULc@@u@YqDEyAVuCl@wDj@mCx@cC`@k@~@ORSZm@Pw@D_AG_EOeIIyAUgBaAgFc@uCEcALkAv@cCbB{DPWPKj@Iz@DhE~@xBz@~AnAx@hAt@lBn@hCR~@CBL\\nAdGvA~Ex@xAhA~@fFfBfC~A~CrC~AjCp@l@fAh@dDhA|D|AtAv@bAr@tIdHLR@PMnBBXHJl@GnCwAf@A`CdBf@VvBNjAT|MlE`Cn@|@h@~BvBjAj@nKzBh@Dn@EjF_BhBKlCT|@XlClAdBdAzBvBpBdC~@`Bz@jBhA|ClBdIxA`FzApCpA|AfA|@fAn@zChAbMjB~Ct@|@d@jCnBvAzA\\n@@^G\\Wp@[h@a@XiAVaEf@uEViBf@uAn@_CfBeHxGgCnBSXi@vASPiCP{@Zu@v@cBfC[\\_C~A_A~@iBxCoEvI{@bAc@XsBj@}BR{BB{Ci@g@Ce@Tw@rAuB~Eg@rAc@`BmAdK[dASZWPeBj@kB@w@JYPmBvB[PmAd@yAXaAB_@G}CcAc@K_@?_@XeChEqDzEo@p@eAv@uBnAYHYCuAu@aAIiBDc@Q_@[c@MsDo@[UYi@Qk@[g@c@UuBBc@YOw@@uDKy@Ws@[i@{@kAaBwAuC_BqDiCeBw@{CiBcASeA?kBRkA\\_@XYl@Ql@Uh@Y^w@r@{@\\y@@oAk@q@g@m@{@o@sBc@mCu@}FaAeJcByIe@wF]sAS[qAa@y@J{FnA{GnBwDnBcBjAORWp@I\\A|@~@fP`AhLnBb]TzBVzAx@vDl@vBDZA^KZe@f@g@Z{DzA}Cl@sBGc@L{@~@qBbDu@h@]LoCd@sEdAqAByDOkAHwA\\qEhB}Br@sD~@aFbAUVCVPlD",
+"average_heartrate": 116.9,
+"average_speed": 5.103,
+"source": "strava",
+"streak": 1
 }
 ]
