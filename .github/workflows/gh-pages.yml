@@ -40,7 +40,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - run: 
+      - run:
+          yarn config set strict-ssl false
           yarn install
       - run: |
           yarn build --prefix-paths
