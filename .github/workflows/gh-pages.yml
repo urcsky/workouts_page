@@ -41,7 +41,7 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - run: 
-          yarn yarn config set "strict-ssl" false -g
+          yarn config set "strict-ssl" false -g
           yarn install
       - run: |
           yarn build --prefix-paths
