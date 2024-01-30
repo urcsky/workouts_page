@@ -42,7 +42,8 @@ jobs:
 
       - run:
           yarn config set strict-ssl false
-          yarn install
+      - run:
+          yanrn install
       - run: |
           yarn build --prefix-paths
       - run: |
