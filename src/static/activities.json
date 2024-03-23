@@ -16933,5 +16933,35 @@
 "average_speed": 3.124,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11022175563,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 10014.1,
+"moving_time": "0:51:24",
+"type": "Run",
+"start_date": "2024-03-23 14:19:27+00:00",
+"start_date_local": "2024-03-23 22:19:27",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "yvb~Cy{|vUwCxDm@~@wDzEg@x@aCfDk@h@i@x@[^a@l@y@fAU`@wCnDgA~Ay@~@qAjBm@`@q@^iA`@u@PmAHe@Ak@@yAAaAF{B@K@QFEPDPFFVHdACt@@x@LnA@JFJZ?b@TjFDRFHJDJAhAq@TSFQ@[Pm@\\c@P]lAuApDcFx@cAf@y@fAoApAmBx@aAf@w@LMPIZq@xAqB^c@`CkDlBaC`AyAn@w@fA}Al@s@dDuEz@cAz@qAfBaC\\a@r@cAdCcD^k@~@kArAoBn@w@HGJEp@KTGh@]FKHGTIRAj@ATGZe@@o@F_@DIJGhAMLCnAs@`@I`@ATE`@SVQNMXi@LOjAeARo@HGh@UV[HUBMBu@De@Ja@RW`@Yv@WVCh@@\\GRMn@qARKZINMP[D_@?]ASM}@@{@AUMg@@[HWLKPAf@FJALMLa@F_AVmADgABWZc@d@[Vu@`@{BB]BSz@{DHgBCQU_A@KFUfAcBRq@LOTm@b@q@Z[|@Yv@]PMJMTi@Pm@PmANe@d@}@RWf@e@NUd@oAHe@DiALg@r@wAx@m@RSJU`@wAb@{@bAqAz@o@p@q@r@a@VSXc@b@mAJe@LUv@u@lAaBh@e@t@]@EAAG@k@\\_@\\_@TOPc@x@}@lAi@rASl@Yf@}@n@_Ax@cAr@i@p@g@p@GNm@pBW^a@TWR_ApBIj@@x@Kn@e@dA}@|@i@fAYx@M|@ITUv@UTm@Xk@TcAl@GJG\\c@ZIb@Sb@W\\[h@e@j@ILCJ@RPh@D^?zAEXSn@W`BQz@C^[|A]x@q@p@Wd@?RBj@CZY|@IdAGXGHOHg@GS@UPOXAR@JPx@Gh@@JThAAf@Sh@MR]PMJQZSh@YZUFq@?WB{@TYR]d@O`@EV@p@APEVIPSPa@JOHINE^IPUTw@f@k@r@YRk@XMDm@FWFoAn@u@BYFOHKNIf@M^",
+"average_heartrate": 142.0,
+"average_speed": 3.247,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11022175466,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1257.0,
+"moving_time": "0:07:20",
+"type": "Run",
+"start_date": "2024-03-23 15:11:36+00:00",
+"start_date_local": "2024-03-23 23:11:36",
+"location_country": "\u516c\u5395, \u6c5f\u6ee8\u897f\u5927\u9053, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "{db~C_n}vU}@lAi@dAc@n@oAbBi@n@kBfCsAbB?DQX",
+"average_heartrate": 132.1,
+"average_speed": 2.857,
+"source": "strava",
+"streak": 1
 }
 ]
