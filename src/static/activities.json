@@ -17158,5 +17158,20 @@
 "average_speed": 3.17,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11173377550,
+"name": "Zwift - The Long Ride - 6x20min Tempo in London",
+"distance": 13469.3,
+"moving_time": "0:33:06",
+"type": "VirtualRide",
+"start_date": "2024-04-13 14:49:30+00:00",
+"start_date_local": "2024-04-13 22:49:30",
+"location_country": "Byward Street, Aldgate, City of London, Greater London, England, EC3R 5BJ, United Kingdom",
+"summary_polyline": "_mkyHbtN^bARv@VdBHjA@p@CrB]jEeAlQ[|CSdDS|AiAnG[lCmA`Lo@|HOlCMnDIdQIpE@~@H|Af@hFFlCEvQFbD@vCGhKAdQ@|@LhEj@hIPdBXjBr@dErArG`@rAn@fBh@jAbApBp@lAZb@|@t@|B|A~BfA`@VPPJRDRBZCp@]xBKpAq@zFg@bFc@`DATBHP^ZXJ@PA|@YpCqApCgAnA]|A[jASxAO~@Gx@AnH@RBNHRTFVD`A?bCK|@MtCWjH?nBpBvb@n@|LH`A?j@Kb@[h@_@b@{B|BKHM@eAGKBKHILM`@APBzBAhBq@td@AfB@tEE`AERKJK@KKMg@AeA?iATwQ`@yVBcCA{CBu@PgA@[EWOm@cA_D_GuRqMeb@u@kC_@aBMa@[k@WYUOYGM?MCKKQe@SwAMOME]B{@V_@DMGIQEWAo@@sDGq@cFmMiAeDu@_Cm@eCCYBWLKLDTj@l@dCjCvH~GbQhAfCNF^JLHr@h@L@LAr@S`EkBjCaAfCk@vB[|BO|AA~G?bBHd@?nDJd@AbAUjBk@b@Kf@EhCE`@CtEk@lDi@|AGLKHSJgA~AeYI[MEmB[MOAY@]r@kMLc@VCXDV?Hc@R{CLoCJaAJWPUr@m@NQLSVm@HYD{@Cw@GYYc@QKkBeA_Bu@MGKQ?Uf@aE?QGKe@K_De@]Bm@LO@MEKMCW?UBSZu@@UOa@WSSAmA@m@D_A`@uC~Am@Z}@Vg@Dm@Ei@@OCMKI]C_AKsAA]B]Jw@Lo@l@_C`A{Cz@}Br@iAjBkEdCmGVe@d@s@v@y@dAq@nAk@ZSL]@SAIKMe@SW?MB{@XkBx@UNeAz@",
+"average_heartrate": 115.0,
+"average_speed": 6.782,
+"source": "strava",
+"streak": 1
 }
 ]
