@@ -17278,5 +17278,20 @@
 "average_speed": 3.153,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11275355193,
+"name": "Zwift - Day 3 in Innsbruck",
+"distance": 22755.9,
+"moving_time": "1:13:05",
+"type": "VirtualRide",
+"start_date": "2024-04-27 11:59:16+00:00",
+"start_date_local": "2024-04-27 19:59:16",
+"location_country": "Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "i`p_HwvpdAjA`@jCDxSbBb@MJc@EkA_AoKm@yEBo@h@_@~Dy@h@JrBfAb@?TOL]XwA`AyMT]jAi@nAoB|BcFbBkGREdDr@b@GNYFu@AkAOwDSgCJk@f@a@dHgC~G{DpAsAnCkDf@yAhAGZIjEkCbAe@tF_BnIoBXOZm@`@[H]@q@k@iFKwA\\eGCqCU_Cq@mEkA{EYcBuAwKcCwZK{CDcHN}BRoA^mA~@kBR}@BsBQaF?yA\\KXf@N~BPfAr@lDl@jBTV\\FVEV[Jg@?m@YmDEyAP{Bp@kEv@mDn@iBb@m@jA[\\o@Rs@FmA]qPS{BkBwKEaAH_At@cC`BwDP]\\Uf@G`AF|Dx@tBx@dBpAr@~@~@zBbD~NnAhEz@`BvAfAzE~AtBpAhDxC~AlCfA~@tKbEdB~@pA`A|HnGNj@KnBFZf@@pCyAp@CfD|BbEd@zQ|F|@d@|BvB`Bv@bKtBrAAfF_BjBK`DZxD~AxA|@xBpBzAfBrApBnAjCjAbDpBtIrAnExAlC~AhBfCbBnCbAzMrB|Cx@~@f@nCvBrA~AJZ?ZQx@g@~@a@XyG`A}DRkDdAqCpByHjHqBxAc@j@k@xAm@RoBH}@`@u@x@}A`C}@v@eBfA{@`AaC~DuDlH_@f@cAv@wBj@yBN{B@{Ci@k@?a@ZmA`CeCfGi@fCcAtI[dAk@l@{Bn@iCFo@b@oBtBoAf@uAV_BByDmAa@G_@H]`@_DlFmDjEeAz@qBnAm@R[EqAs@iDCgB{@sDm@[UcA{Ba@UsB@a@OYo@@yDIy@Ss@uA{B_ByAsC{AmDiC{GqDcAOaA?oBTeA\\c@^_A`Cu@z@w@f@wAHmAi@o@g@o@y@o@sBwAcK_A}IWaB_AcEs@kHi@wBmAi@y@DkH~AyFbBqDjBcBjAi@|@Ot@?^n@~LfAlMxB|_@\\zCz@hE|@hDBXOr@cAz@yDzA}Cp@{BGa@Ju@r@}BrDmAt@kJlBoABgDQgBJwGbCgCv@qKdCKFK\\@x@XvDZl@Mb@wBlDGb@BvBGZWj@wChDuGbLK@ISJoCI_B_@}DSmA}@qAoCw@cAmAyCsG{@}@g@SkBDYKEUHoA^qBL[h@_@h@o@f@u@La@Bk@Gc@]aAeA}AgAaAoL{GoAcAo@u@g@_A{AyDoCuEq@wAiDaL",
+"average_heartrate": 121.6,
+"average_speed": 5.189,
+"source": "strava",
+"streak": 1
 }
 ]
