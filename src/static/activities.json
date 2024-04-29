@@ -17293,5 +17293,35 @@
 "average_speed": 5.189,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11290847227,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 3384.3,
+"moving_time": "0:17:34",
+"type": "Run",
+"start_date": "2024-04-29 12:39:55+00:00",
+"start_date_local": "2024-04-29 20:39:55",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "iwb~Ci{|vUSZ_@^{@jAa@`@m@t@sAnBgAfAy@zAcDdEq@bAe@h@}@~Ak@x@c@d@IPOP{@v@]`@k@|@g@~@y@|@o@bA]Zo@f@s@^mA\\m@Lo@H]B_D?qBLo@CaABUAHAHDGNDRNLRDL?`AEp@Dr@L~@DpAA~AIbB[j@QjAo@n@i@`@g@pAuBd@e@~@iAz@uApAeBl@q@nBwCz@cAb@q@^e@h@{@jA_B\\]",
+"average_heartrate": 135.8,
+"average_speed": 3.211,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11290846783,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 5338.3,
+"moving_time": "0:31:41",
+"type": "Run",
+"start_date": "2024-04-29 13:00:59+00:00",
+"start_date_local": "2024-04-29 21:00:59",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 134.6,
+"average_speed": 2.808,
+"source": "strava",
+"streak": 1
 }
 ]
