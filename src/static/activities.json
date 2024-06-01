@@ -17578,5 +17578,20 @@
 "average_speed": 2.909,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11548273304,
+"name": "Zwift - Group Ride:  USMES Monthly Century Ride (E) on France Classic Fondo in France",
+"distance": 49714.7,
+"moving_time": "1:39:41",
+"type": "VirtualRide",
+"start_date": "2024-06-01 13:03:22+00:00",
+"start_date_local": "2024-06-01 21:03:22",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "zutcCoaeu^GdGh@dBhQpPvAfHzJdNhDdCMpCgDz@JfCoCnDS`Bz@fCdGoAfBtBHjBuBxAj@fEuAtCeFi@mHvDqA}BsH{B?sAfByA?kBgDu@wAsD_XwFkOh@{LuFoExByHgAwIlFmN~D}RhB_P}QgE[{ElAmDeBUqBfBgFHmDyCkCuDuIwRUGiCpCoFXwGtF}FOmD}SUc@mFyDuDeU{B}HoEoOiCs@_AD{DmFkDm@wAn@mDpFsBJeFzC_Al@sBpGyDfC{@tIJ|AgABcB_DqBdCwCqCqCx@cE_F}CUeAhJaO~GzCzAuExFn@nAaIxFlA`Bs@LcBgCiJrB_Bv@eFtA{AiAaElE}M`KeBlCqAtAgCbApAs@fChBbDbJkA|BoC`Cc@lDzG|@~HUrBgBfCmHxEMtH~B|FrBtAfJmCvDXlCdEb@vC{AtEiJPcBtA]tEbF~FNrCuBlFaJzHcAxFJbCxDvElGzChJmAfD}EPsCw@gH|EkKdFqDjIRfExDK|D|AlBy@pBxCx@_@vBqBFGhCyCDHx@xBfAu@jB~BEKnBnBXCxBpBBFfCdEmBbChEtBs@`@vBvAZRvApAyAt@z@n@aA|An@d@iDlA?z@iA`Ax@dAkBhE`BE_CdAi@VsBpBJl@yKbFeFfACzBdJwFxIjHdN`AxMgBnJoD~DGjNfMhOjDvB|ArHzJbNbDbCI`CmD`AJdCcDdGx@tCfGoAbBlBLrBuBxAj@dEqApCmFc@}G|DyA_CqHwBIoAbBsAHuBiD}@c@cC_Au@}WqFoCp@sJGaLsFsBRkBbBoIaAcHrEiNbEmTvBsOyQuD_@wFnAkDeBQsBfBeFHgDcD}CiDeI}R[IyBrCwF`@gHpFuFEcDeTWe@q@AaEaEyD}TwB{HmEoOiCs@_A?gEwEoCaAwBl@}CxF}BF}E~CaAp@wB~FmDpCaApIJdBoA?{A}CqBbCkCoCwCt@oEeF}CIiAhJyNzG|CfByE|ChApAU`@iGp@y@~FpApAo@J}BeCaI~B_Cn@yExAaBkAeErEyM|JaBlCuAhA_CjA~@k@hDvBxCtIuAzBqCpBg@tDrGh@rEpAfAfFg@|IbGzHyCdB_DJ}Bg@iCaDyEdHqDcP_Cc@u@|MkJsOuE`MuAIcAiHmDlEEkAaCnBeBpWzGjGbGxFnL~JbK~IYnAtVtExZgAnKlRlr@}GhHo@dLoBMSfBiAb@ArC_EgBeAjBeAw@i@bAaBHg@jDeA_A{@lA{@_AoAzAIyA{AY_@_C}Bp@mCiEqDxBGeCyBO@yBmBWNkBcCDz@eBcC}BzCGBcCtBM\\qBaDwA`AuAaBaCP{Ca@kAcFuC_GOcC~@",
+"average_heartrate": 133.1,
+"average_speed": 8.312,
+"source": "strava",
+"streak": 1
 }
 ]
