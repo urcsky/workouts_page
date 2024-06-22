@@ -17758,5 +17758,35 @@
 "average_speed": 6.74,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11712256801,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1666.3,
+"moving_time": "0:09:25",
+"type": "Run",
+"start_date": "2024-06-22 12:01:43+00:00",
+"start_date_local": "2024-06-22 20:01:43",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "u_c~Coh}vUy@|A]b@}@xBU\\c@~@]f@oAlCWt@[^c@t@Sl@e@l@}@lBc@j@[j@i@t@GPg@bAIJMFIAIEUWWm@I_@C_@Fm@XmAFg@CcBG]o@gBAUSoA",
+"average_heartrate": 135.8,
+"average_speed": 2.949,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11712257047,
+"name": "\u8170\u75db\u4e00\u5468\u6162\u6162\u6062\u590d",
+"distance": 7610.1,
+"moving_time": "0:41:45",
+"type": "Run",
+"start_date": "2024-06-22 12:13:27+00:00",
+"start_date_local": "2024-06-22 20:13:27",
+"location_country": "\u81f3\u8bda\u5b66\u9662\u8db3\u7403\u573a, \u6021\u5c71\u8def, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "_ad~Cqg}vUCa@ISWU[EWBeD~@MHMVER?^FPRXPFPBXCzC{@NGPSFUBSAQEOMUUOUCW@eD~@URINE\\@TFRPTVJX@fD_ARINQFUBWCWIQOQWKW?kD~@MFSTGRAXBRHRLNVJV@fD}@RILOJWBUASGSSUQK[AOBcD|@URIPE\\@PFRJPNJVFZCvCw@RKPQHWBUCUKWMOOG[CQBqCt@YLMLKXCRBVJXLNPFXBXGlCu@VKLQHS@O?YM[MMWMQ?e@HqCv@URIREV@VJXLNNHVBVCxCy@NILKJSDYAQGWQWSKWAQ@eD~@QNMTE\\@THTLNPJXB`@GvC{@NKJQFW?SCWGMMOQIYCSBeD~@SPINE^@RLZNNRHV@fD}@RILOJU@Q?UGUQWUKWAQBkCr@_@NIFMVET@VDRLRNJXFZCbD_APMLUBU?YGUOSUM[AuDbAMHOXEX@VFRPTNHTBXCdD_ALKNWBS?YK]KMQKUCQ@aDz@UJOTGRAXF\\JNTNPDT?fD_AJGNMHQBO?YG[IMYQUCYBaD~@SNKRE\\BVJXNNPFV@RCbD_ATSHUBUAUM[MOSIUA[DaD~@OPMXANBXJXLNNFRBXC~C}@PKHKDMDSAc@KUWUWE]BcD~@SPIPET@XFTLPPJPD\\CdD_APMJSDW?SI]OSYMQ?UBwCx@QHQTIRA\\FXNTTLNB^E~C{@NKHIFQBS?[M[QQ[IW@}Cz@SHMLIPER@T@NHPLNZLT?LCtCw@LGPOJQDU?SEWMUOKYGO?gD|@WNOVEZD`@LXXNPBTAdD_ARMLUF_@E]MWOMKEWAs@N",
+"average_heartrate": 147.9,
+"average_speed": 3.038,
+"source": "strava",
+"streak": 1
 }
 ]
