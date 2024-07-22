@@ -17968,5 +17968,35 @@
 "average_speed": 3.171,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11948602586,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 1650.0,
+"moving_time": "0:30:30",
+"type": "Swim",
+"start_date": "2024-07-18 12:10:45+00:00",
+"start_date_local": "2024-07-18 20:10:45",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 102.3,
+"average_speed": 0.902,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 11948602805,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 7252.9,
+"moving_time": "0:40:34",
+"type": "Run",
+"start_date": "2024-07-21 14:17:49+00:00",
+"start_date_local": "2024-07-21 22:17:49",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "slb~Coj}vUFR@VERKLo@v@Yd@aAhAe@r@s@l@Yd@Qb@KN]^w@jAYV}AvBmAzAiA~A{@fAU`@sA`Bu@lA_AhAsAfBaAxAuFhH_@`@iAfB}@t@}@f@iA`@}@NcAH{@EaEBoAC]@ULG\\@B@ICFBHVXTJ`@B`AAfADx@@rAC|@@~B]\\O`Ag@ZUjAmAp@iAPQh@{@|@aAf@w@tAiBp@eA|@aAnAgBt@}@~CmEdAqAxB_DjEyF`@k@v@}@NYv@gAX_@ZSVUd@{@t@gA`@q@lBeCjAuAv@iAVUVILI`CaDRMRGVa@p@OfBEb@QXe@Dk@H_@DKLMZEh@E`@MJOd@WPEfAKd@QROLMb@o@d@]l@_@JQB_@FKFEd@IPKTw@Dg@AYFi@LYXe@LKTKdAYJAh@BZELK\\y@LUNOf@UTQJ[BYCi@Qs@Fs@@QCIEC?B?TE\\?XCJYVUXUJQ@KHITE`@Y~@MDOAc@MMGAq@HWTW`@G\\AJBFDBFOdAS`@MJw@d@a@h@QNg@T]b@MXGd@CZ@f@G\\GNMLi@TMHGHKf@U\\_@ZUDGB_@\\U\\u@f@SF]Bk@J[Ne@XKB[Bo@@GBIDINIj@K`@S^CHIJQHkAPeAn@_@J]BOJy@hAu@z@}@nAi@x@_@d@gA|A}C`EgA|A_@b@k@z@kA`B_BnBwArB[VMZGF@BFE`@k@`@e@j@w@`@e@Rc@_@l@",
+"average_heartrate": 140.5,
+"average_speed": 2.98,
+"source": "strava",
+"streak": 1
 }
 ]
