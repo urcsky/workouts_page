@@ -18193,5 +18193,35 @@
 "average_speed": 0.806,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12231149595,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 1150.0,
+"moving_time": "0:30:02",
+"type": "Swim",
+"start_date": "2024-08-22 12:00:00+00:00",
+"start_date_local": "2024-08-22 20:00:00",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 116.7,
+"average_speed": 0.638,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12231137114,
+"name": "Zwift - Day 3 in Watopia",
+"distance": 31635.7,
+"moving_time": "1:04:07",
+"type": "VirtualRide",
+"start_date": "2024-08-24 14:26:31+00:00",
+"start_date_local": "2024-08-24 22:26:31",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fj`fA}e}y^tBrGqEjHe@fCjBdFz@h@rA[x@kBhCm@fAl@j@tDKzDgBj@QdChEzD|GiBj@dAyCb@c@p@xGXxDoA|A_Bv@uDvBkBnCkFFuBsCgDg@iCcBw@}@VeA|CmBtBsCe@iBtAuAi@w@_DhAyCxCsA`CNlBiBBw@_B{BoCJaD|AqFs@gCTkFnCg@nBgCfDIlBhB|Ev@b@jAU~@oBfCo@dAf@p@`EK|DcBb@OzCpEjDtGoBd@b@B`@qDl@?v@~HA~DsBzAkFnB}ApCmFJ{BoC_Dg@kCkB}@u@TkDpGyCc@eBtA{Ac@{@iDlAyCxCmAfCLfBqBiBmDcCNcD|A_Je@wFhCwDxGMxBhB|Et@b@jAU~@oBrCo@t@`@t@nEIhDiBr@MpC|EpDjFgBhA\\_ExAHh@zH@|DkB`BmFpBeBhCyEToCkCwCw@cDcBm@u@VeDjG}C_@gBvAyAe@y@eDjA{CvCoAfCNpB}BwBeD}GnBgJe@_GvCm@xB{BpCOxBhB|Et@b@vA_@r@eBhCo@dAf@p@zDIvDkBt@MhCbFxDzFqBr@d@_EzANh@`HDrEqB`BoFvBkBnCkFF}BmCwCs@{CaBm@u@VoDrGoCg@kBvA{Ae@y@iDjAwC`DqAvBPtByBkBgDgCNgCzAmIk@{FlBqEdH]nChB~Er@b@xA_@p@eBrCo@v@\\v@bEI`EkBl@KrCvElDfGoBr@h@yDpARn@jH?jE{BtAaFzBqBjCeFFqBkCyCi@sCmB}@w@VqDrGmCg@eBtAaBc@y@kDpA{CzCkAvBTpBwBeBmDiBB}DhBgJe@qFfC_EfHEpBdBvEt@d@lAU`AqBrCm@~@n@h@xDK|DgBf@MtC~EnDpFkBx@R@l@sDr@Rn@hH?fEuBvAcFlB_B`DcGBkBoC_Di@oCgBy@}@\\gDhG}Ca@eBtAwAe@y@iDlAyCrCmAlCLjBwBmBgDgCN{C|AqFs@mCT}E`CoDlGW|BnBlFv@ZhAY`AmBhCm@v@\\x@dEK`EeBd@QrCxErDzFiBx@TAj@oDn@Lr@`H@tEwBvAcFbBqAdDiGHmBmCcDk@mCmB}@u@VqDrGoCg@qBvAwAk@u@gDlAuC~CoAbCNhByBaBaD{B@yDfBuHm@mFfBmAhA_CfEq@zCnBlFr@b@vA[x@kBjCm@hAn@f@bEInDiBj@QbCtDpD~@NpFqBn@`AcDh@[p@pGVbFiBrBaGbBqAhDqGOaC",
+"average_heartrate": 127.0,
+"average_speed": 8.223,
+"source": "strava",
+"streak": 1
 }
 ]
