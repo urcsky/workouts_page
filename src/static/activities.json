@@ -18853,5 +18853,50 @@
 "average_speed": 2.698,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12903605524,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 5346.0,
+"moving_time": "0:30:05",
+"type": "Run",
+"start_date": "2024-11-10 14:18:04+00:00",
+"start_date_local": "2024-11-10 22:18:04",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 128.1,
+"average_speed": 2.962,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12903605641,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5016.0,
+"moving_time": "0:30:24",
+"type": "Run",
+"start_date": "2024-11-11 12:49:06+00:00",
+"start_date_local": "2024-11-11 20:49:06",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 126.5,
+"average_speed": 2.75,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 12903605413,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 6101.5,
+"moving_time": "0:36:39",
+"type": "Run",
+"start_date": "2024-11-13 11:48:35+00:00",
+"start_date_local": "2024-11-13 19:48:35",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 130.5,
+"average_speed": 2.775,
+"source": "strava",
+"streak": 1
 }
 ]
