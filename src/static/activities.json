@@ -19048,5 +19048,20 @@
 "average_speed": 2.799,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13009387337,
+"name": "Zwift - Triple Twist in Watopia",
+"distance": 24680.4,
+"moving_time": "0:55:51",
+"type": "VirtualRide",
+"start_date": "2024-11-29 14:25:40+00:00",
+"start_date_local": "2024-11-29 22:25:40",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fr_fA_r~y^pAhCdB|AbExBxGnBfAx@v@vAbBhFl@`A?l@a@B_BaBqAWwAd@a@v@Al@bCdJ~CtHl@T`Bo@bC]bA@jBh@jBDpA]~AeA`BMb@RfAfBGt@uAxAYJeBYuBn@{@l@_ArBIr@TtAt@zArAZtB{AfCf@~BoC|@mCf@IvAd@~@fDxBxBRtASv@uClFkBxAu@pDqAjCHx@dDpFbAPhCe@jD@fNzB|HqAxBN`HlC|DnAZp@PdBAfBe@zCb@x@vH[fF@bEh@dDrBl@bBMjCqBfGuAxIeAxB}@`A{FzDkE~EsAr@}ALkBc@gAs@_C}C{AuD{BiJaAC}BtA{Bv@cBFeA]eI{HeA{Ac@gF{@mDcFcHkBgE_@wDVyAl@iABo@_D{F_Aa@mCTgEYw@TYI^i@~Ce@Cu@k@]oFjBi@?q@]}BmBYu@NsBvASP]H}Dk@yD{@q@[?mAn@y@@y@bBoAZo@]iBeFAi@^oAtBcCX{A`AiAD[qFmPi@kDZq@hAi@dALnBhBd@NnF{@HUKw@p@c@Hi@oB}@M[@}AyA}@Ly@^i@`AU`@Lv@nARnA`ATbAdAX?rBwAh@}@M]uBoAa@uAA_An@c@rCOfBv@nD|Hv@h@pAqAhJwFp@\\hCfE^E\\c@lAcEd@k@|@V~ChDbAFZaAg@cBB_@xBm@Zc@I{A{B{Ca@wDaAc@iCU_F`@aDFq@hAmAjFy@z@sBi@kUaFyCDyHbAsGlB{@B[UQ_BJwCLo@r@k@rFuApMeBz@m@nCuCv@@tBt@x@?ZkAM}FHcBh@iA|BcCTo@MaC_AkB{@q@gCc@wJGwB`AoGlFmA`@sEj@A~AbCjJGx@SNo@Ga@i@iBuH]s@]Kw@nAIrH\\j@XDXCZe@RiAEUe@SmE?oCd@I`@Lb@rCtBJt@aAnAeElCwAtAa@rBJlBrAbEnB|BtElCnHzBx@l@v@tAxCxI]LcBaBuAYwAd@a@x@?p@jClJtCfHp@T|Ao@|B]fA@rCn@lA?r@MbBmAdAUfALlAhBHXK^}A`BmCOwBv@q@n@o@xAKx@RxAn@tAtA`@~B{AvAf@r@ExBoCz@iCj@GpAd@x@~C|B~BTtASx@aDzFcBtAq@hDoAbCD|@zCfFbA\\rCe@xC?|N|BzEs@",
+"average_heartrate": 112.2,
+"average_speed": 7.365,
+"source": "strava",
+"streak": 2
 }
 ]
