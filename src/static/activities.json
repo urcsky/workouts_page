@@ -19333,5 +19333,20 @@
 "average_speed": 2.837,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13254673979,
+"name": "Zwift - Downtown Titans in Watopia",
+"distance": 25257.4,
+"moving_time": "0:54:59",
+"type": "VirtualRide",
+"start_date": "2025-01-03 12:19:41+00:00",
+"start_date_local": "2025-01-03 20:19:41",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~p_fAcz~y^h@}AfHgFj@iAQs@cCeBWs@Z_@~AWDa@oAgLb@{FcCiDSqCh@wCbDcHl@cHOcEm@kDi@iAcAy@GiA}@gA[qA?gB|@oCx@OdCh@bA_@zAZp@g@XeAlBaAX\\MpBVR\\CdAoA~@ACd@cA|A?b@|@dBf@Fp@wC`BaBy@uABqA{@_AC}@f@k@ZsApAYbANr@p@LjBc@vA~@lBx@Id@uCfBe@lByAT{@s@mA{Bm@Eo@f@uA[wAiDgADa@zC_Ah@m@Yk@oCh@c@MAk@p@YhDOzBj@V\\SnAx@rA|Cv@l@w@eCsCGm@h@U|Ax@dAi@hBXXeBb@KjBdEz@?d@o@d@DpArDjB|@dAbB~CInCy@h@o@|@yC`Aw@b@_BGo@{@gAmA_D}BmAcCj@iCe@{AViAmAgDg@Hc@d@M`Ed@xCcAjBKp@e@K_AoAi@eAA{CvAeDqAiCSIUTc@tA]r@o@~Cc@tBsCrEbAhDYjBu@bCqCz@GrBj@]zFPb@`BEtCaBjAJbApBH~@yA|AoABcBe@QNMfBn@jEkAlDlAtD~@h@n@i@QgC\\k@lBe@`CpAX~@oA~@\\tBkAvBHj@b@ZdAUj@qBfB_ALuAd@u@|D?~@a@VoCq@cARa@bBLl@hAh@JpDoCpARLd@e@vBkBVMd@Z`@jBAHj@aBvAiEpAm@~HR~BxAnE~ErFSrGVfCK\\wa@xJiQdF_An@Gl@hBfH_MdDiFj@}BMaAm@aGkHyCu@aCPoD|BuBjFcAdAiBn@kQvBoCx@_DnBeBfDWdB?vBrA`LnFRPTG|@[r@YDe@OMa@HaH`@gARKb@b@|B~Ib@b@n@@\\]@gA{BuIGyAvGeA~JsHrGE|Eb@`BnAt@vBIxBiCrCg@fAF|IObAi@F{D_AiAn@gCpCqNpBsF|Ai@bAO`CD~Ab@bApA?tE}AzDo@rIi@lXlG`Ae@bBwGt@_ApD?dGUvBj@f@|D~BpDStAcCx@d@fCKd@_ADgCsCoAs@s@`@wAnEm@j@eC_E_Ai@sJbGqAfAmF_KyBc@}AJkAt@FxAn@tAjBbACb@{CzBcAgA_AOkA}Cu@U}@Rm@`ACr@xAv@FvBhBt@HXy@r@F`AUR_B\\cAKuAgBgDkIgAu@mHwB{D{BqByBeAqC_@yCRgB`AmAdGeEd@}@Ms@",
+"average_heartrate": 123.3,
+"average_speed": 7.656,
+"source": "strava",
+"streak": 1
 }
 ]
