@@ -20083,5 +20083,35 @@
 "average_speed": 3.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14446731284,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 6012.4,
+"moving_time": "0:33:01",
+"type": "Run",
+"start_date": "2025-05-10 12:21:55+00:00",
+"start_date_local": "2025-05-10 20:21:55",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "{wb~Ckz|vUa@h@i@j@oA`Bg@v@k@p@ONi@r@uArBk@l@KRw@~@q@dAuAzAa@n@oA|BMNIDU\\UTcDrES\\i@n@y@t@Y\\aAl@_A^c@N{@J_BJgCAeBFk@Ee@?m@EMIEIEg@UyAEgBE_@Ck@QiACe@Mo@OkBQgB?]Kc@Ac@a@mCI_AAq@SeAA_@Gc@Ak@Y_BMcBK{@m@yDgCgKE_@YgAYuAw@iD@UDMZQb@OTM^GdBg@VMz@SZOZSjAi@fAo@x@]`A[XMdA]nAm@p@Sf@Yp@Q`@OPMdC{@vAo@\\Sl@QjCmAt@Wn@]dBe@rAm@\\Cv@YP@JHBABCCEDAnAaA\\QLMf@GXM~@]r@a@jAc@bAe@h@QpB}@p@SzAo@^Q\\WVCj@Dl@l@V\\f@\\n@t@LDJV^X^l@x@|@ADFND\\@d@E^?LAFIH_@NgBd@i@RkAVQHiA^iATk@P]HGHCRBVFPDr@DFA^u@?HW@SB_BM?a@HMCSNY^aAt@WX_@R_At@ILC^FVb@r@d@h@f@v@VXV^",
+"average_heartrate": 141.9,
+"average_speed": 3.035,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 14446702232,
+"name": "Zwift - Road to Ruins in Watopia",
+"distance": 20169.1,
+"moving_time": "0:54:37",
+"type": "VirtualRide",
+"start_date": "2025-05-11 12:33:27+00:00",
+"start_date_local": "2025-05-11 20:33:27",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "xv_fAel~y^qAyAu@eBm@gCEcBVqAj@u@jFqD|@y@Nc@S_AaCcBUw@Z[nAQVQkAqKCgCl@}Cv@uAv@y@xBkA`D}@pLwAtE{@rAcArCqGdBoAdBe@|ACbCn@z@p@~CnE`A`ArAd@zA@jIkA`ZkIz@OhAJTVHl@IlOc@rDyA|Fm@hAMp@G|JR~@v_@tG^h@FnEl@j@`@AZ[ReDj@aBv@gA^?Z`@Fl@s@fGTfA^h@jDnA~ObD|Bt@RTBZiArD@xEeAbCOx@AjBVzApAjCtBlCbBlAfCh@d@Xr@r@tBnDrB~AxCh@pD\\hEDtCc@tJiDpBOlCb@rBx@~BLpCE\\b@QhADXb@^tA_@j@EjCp@T`@Qd@c@RgCF]l@?h@V\\zCdBfBlCb@nADt@m@~FP^`BfAb@|@Jr@i@jBNvAa@h@cALiC_Ak@?iBxBHl@Zn@lBtABt@Z~@WNgA_@s@\\Dn@j@jACRsAn@CnAZr@lC`AJd@A`Cd@xBX`@vBvAx@vAXrA`@r@fCr@l@j@`@v@b@VpBL|An@\\@pBy@fBB~@a@fAFvAh@V~@D`At@dAn@JbAm@j@KxAF^^x@bCr@`@zBHnAMd@Uv@uA^IfANj@\\@rANZlDvAlAGvAaA^{Al@uA@k@[w@m@s@{C_BSmAJ{B|@}BpAqAdEe@fBkAZ{@DuACk@O[qCq@iAy@[Gm@@yAl@g@Fc@SkB}Ae@Fg@rAo@Tg@Uu@sAe@]aAMoA@a@L[p@Bb@l@zA{@`BRrA[`Ai@`@iBKcB|@y@NsB{A{AYoA_ASi@@Yp@eB@e@OSoAg@q@aAViDs@kDRm@b@[TErAh@fBNxBxAj@@x@[tCX~@Mb@YHc@GgAZc@p@Iv@b@p@Un@mAYcCWc@mA_@_@qAgCi@mC^i@E}TuHc@]IqBaAc@e@w@sA[gAAs@\\Qh@JhAu@lAg@FsAg@q@c@m@y@oAaEcAoByAuAcCyA?o@\\c@vCK`@o@Gi@}@c@kB]mBn@YMQa@P{@Aa@e@a@wCHkBKsCgAgBYy@?yARcJbDiCb@}D?}Fm@cCo@qAiAcDcF_Ae@_BW}Ay@iBwBiB}C]qAGmBJ_AlAaDCiE",
+"average_heartrate": 116.7,
+"average_speed": 6.155,
+"source": "strava",
+"streak": 2
 }
 ]
