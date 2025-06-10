@@ -20233,5 +20233,20 @@
 "average_speed": 5.147,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14754759254,
+"name": "Zwift - Danger Noodle in Watopia",
+"distance": 32476.7,
+"moving_time": "1:08:37",
+"type": "VirtualRide",
+"start_date": "2025-06-10 12:11:42+00:00",
+"start_date_local": "2025-06-10 20:11:42",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pr_fAoq~y^lElFnNvFxEpKvAz@|Ci@AoA|@u@_C_B?iByAy@PcAtBo@zAhDzCtAxCkCcDiE@kAnAc@nEh@~EhJfMgIfEfFhDyG~E`ElACYmDbC{@ZkAeCeEe@_EyEy@yIZeAlAcBrGkCF[f@DhA|AbAl@|ByHpF{E{IcB_A{En@b@fD|BdBwClCuC_ByAaDkBTa@pBxAv@AjBzBpA{@r@?lAqCh@{AiAmEaKoKwDqFaEoBsFC}CvJkJUeAuCiCbC}AqAqLb@uF}BaD[eCt@cElCoFv@wHc@kHq@{BsAqAkA}COiEtAgCbFFfBZfDqDj@hDlB{Av@DiAdDhBlBj@wCdBeBaAwAHmAaAsBx@{BjAa@dCx@MnEv@bB~@Gl@aDjBe@tBcCu@sA{Bq@b@iC[oAiDeAhEiCWs@iDb@Om@r@_@fDOdCj@\\`DpDvAn@eAiCuCJi@rBn@vAk@dBZReBb@MhBbEdCi@~A`EfDvCrHgAfEaJoCsGmBiAwJXiAmAkDm@f@k@|Eb@nFiAt@m@I{@uCk@{CvA{HuB`EgCfC[vBoCtDdA|BG|Cy@|DeDbCj@M~GrBMpC{AdAVhArCeAdBcF@f@bHiAbExBlE~@_@OoCl@q@vA]zB`Ad@nAqA~@\\zBkAxBn@~@x@Mv@yBlBkAb@yBhGi@ToCk@{A`BAhB|AdEaDJ_CmBoAg@yDvDkCdAgErL}Gf@kGzB_@nBeBPqBc@eAuBcAsCz@}@pCxA`EMdF}LhHcAhEaEtCd@rDnBpACxBcEbDiBcB}A?Oj@n@`AUfCaGd@m@bCgBdAeA~Bw@GQs@hAqB_@qBpA_A[qA}BmAsB\\k@|@TxBw@d@uBgEhA}De@iHpEPrAaBIeAiBgCaHpBJgHqDa@oCxCeCx@wCNaEeAuBrC{C^oDxBVh@hHbBbDyAfCd@Lr@m@f@aGlAoEc@o@p@fDr@jAtArFLrCg@rBzAzBzFoEzI}G|@mD}CoAmDoC\\uBgE}@vBcB[kCGaAN@x@bClCg@p@cDkAQcC]m@oGa@kA\\Gx@lELuD~AOx@jDlAR~@a@nC|Bt@r@jAaChCgBd@c@pCw@Bo@uAPiE}BmAaB`@aA`CHlAv@l@KfA`AzAeBdBk@rCyA}BdA}Cw@AkB|Aa@gDyBbA}@hBoJK_AnC@nBzA|ErBlCz@bJw@|HmCnFu@lDX`D~BzCc@fGnAnLcCjAlDbEmJ~ISpB`@rC",
+"average_heartrate": 128.8,
+"average_speed": 7.888,
+"source": "strava",
+"streak": 1
 }
 ]
