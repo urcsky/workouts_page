@@ -20265,6 +20265,21 @@
 "streak": 1
 },
 {
+"run_id": 14834388915,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5008.2,
+"moving_time": "0:30:04",
+"type": "Run",
+"start_date": "2025-06-14 11:56:49+00:00",
+"start_date_local": "2025-06-14 19:56:49",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "axb~C_z|vUS\\URc@h@WNc@h@aAxAo@t@Wb@e@h@m@bAmArAEJYXo@~@s@x@OT]Z]h@]d@a@v@Qp@a@^sAfB[Xe@h@Sb@m@bAg@b@i@r@o@t@aAl@s@Xg@LuBZmABg@Ei@Ak@Fy@Bq@AmACUGKKISEc@IQKq@?_@Gy@i@wDAm@C[YcCS{CQaAa@iE]sCEw@GYOeBKk@MeBy@uEc@}Ag@{BCW[_AO_A_A_EA_@EWKa@MSCWHa@d@YhCw@r@Ml@Wf@Q\\WfCsA\\CREj@[jBi@~A_Al@WZSTC`@WjBi@zAq@RE\\Qt@UPKZ[\\O\\GNKz@YPERM`@CZYZK~@e@^ExBaA\\?NCXMRAH?JDRRHZLTLb@Rx@BVLVD^HRPPX`@\\dAb@~@\\^Rl@Z`@J`@t@bAPh@XVJ\\Vb@JJ",
+"average_heartrate": 141.2,
+"average_speed": 2.776,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 14827453049,
 "name": "Zwift - Figure 8 in Watopia",
 "distance": 30699.6,
