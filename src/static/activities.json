@@ -20293,5 +20293,20 @@
 "average_speed": 7.399,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14860292596,
+"name": "Zwift - Canopies and Coastlines in Watopia",
+"distance": 28635.6,
+"moving_time": "0:57:42",
+"type": "VirtualRide",
+"start_date": "2025-06-20 13:06:30+00:00",
+"start_date_local": "2025-06-20 21:06:30",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "vw_fAigbz^n@rAzAb@jA_@xBR|@gB|A_Af@\\O|AVf@pCaBTf@kAbCbBxBx@eD~A}AcA}AJeA}@}@A{@~@}BzA]lB|@PdBa@fBx@dBv@?j@yCrE_CV}@k@gAcCu@`@gC]uAiDiAF_@`EeBUs@aCd@w@QDc@x@[xCMdCj@RZStAn@dA`D`Al@[@e@gCuCDi@l@IhAr@tAi@vA`@^a@BiA`@MjBbEh@LxAy@rArDrBfAp@tA`CHxDaA`B_ElBaDeCoGuBsAiCf@sCe@iBTgAqA}C_@He@h@M`Ed@nFiAfAu@Ei@oCw@sDtAeDsAkCg@tDyBzCe@`BgCnE`AhDWjBq@rBeChAW~Bp@a@hFVp@`BInC_BhAJnApDkB`BqDWMxBl@tDkAxDn@zBjAxA|@YMuCt@w@lBOjBhATdAqA`A`@lBmAxBVv@bAFh@e@Z{AfBaAj@cC~Fa@Z}Cm@y@Ja@nA?hB`BtEmD@_CyAm@w@iBDqBxDiCx@{DdMqHZ{FlCi@nAaA\\}AGaElEkE~EH~FrCbFe@|DfEdAZv@i@zByFlFm@nD{CfCNjEoArGzChEVhAg@l@cAdAkKdBgCxEyAzEjClAAt@{@fAwFdByAj@_BhDwBfIMv@g@hAcCzErAn@o@d@sCt@]z@JBjB`CnAtDYtEyCzEnAn@e@PwA~A_AdC`@|CaBrAX@pClAf@nAi@lE}E~AJfCpEdDr@tCpBAp@uBjAu@bB~@tHjAb@rGNj@dDvDLzA~Bt@C`CeBlEdAz@pE`Dd@r@p@tInVvAAh@wAuAsCL_ByBmAA{@dAkAzBy@bCb@HnA{AjEKpDjMzONbHr@bBrBj@dHMrHxB~GgAdEzE`E~BfAhEg@xFnAnAd@nC[z@{Ax@oBGm@h@RtOvDt@BpIZp@xG@Vc@?yCf@_@nHvGNj@]`AiGrAk@r@Zt@nFhAl@h@YjCNdHcAx@cFLcFzC_@|@K|CkBrCO`G{BxEg@~B{@z@sC@cAt@`@nFsA|C?hAzA~@rDd@|@tAI`BaCtEOhDoEjEiHlAs@Ui@sBgBoCa@E}@b@kBbD}Hz@k@p@V|AzGhAhAbBXhIjA~AiAdMl@fCq@bADn@jAn@nCiBj@Dz@jCzApAbB?VzAk@j@}IhA\\vDaD`MiExA{@xB{LhOgAbH}DzB{AxDmBr@aHP",
+"average_heartrate": 129.9,
+"average_speed": 8.271,
+"source": "strava",
+"streak": 1
 }
 ]
