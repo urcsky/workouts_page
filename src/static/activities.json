@@ -20353,5 +20353,20 @@
 "average_speed": 6.568,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15197952362,
+"name": "Zwift - Ven-10 in France",
+"distance": 10178.7,
+"moving_time": "1:17:51",
+"type": "VirtualRide",
+"start_date": "2025-07-22 12:11:07+00:00",
+"start_date_local": "2025-07-22 20:11:07",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "`~scCssju^MuFScEKq@GMMOYG_@@qAZy@Xg@Fw@?_@Gc@U}@y@uA_BGCq@u@s@m@mAuAs@cAi@_AsAsCy@sBs@oAgAmA}AqAa@a@IC]_@{@m@GAWQOCOIe@ISKQAKEe@G_@MQAWI_@CWKSAoBc@WMMAm@WOE]OIA_Aa@_@KUKOOOYI]gC_NWcBWuCa@}CQ{@Uo@S[]]wB{Ag@i@c@y@k@_Bi@kAq@iBi@aA{@_AEAy@y@GAOSEAiAiAOKkAgAEKCUBs@r@aLR{D@w@?q@Ie@[y@A[HoAC[KQsAgAa@c@We@eAuCIi@@iAd@gHJw@LUn@w@r@s@l@WbB]h@OtAQHGBMAGGIUEaA?ECaAACCeH?ABmA@CBg@DMDk@AKMG[?_DG}@GOUM[Io@ACCwGGcE@CB}A@CByADCBk@@CBc@@ABk@BADQ?ADMBc@^I@ABa@BCBw@@ADa@@CBUBOHMDKH_Ad@WRe@Vc@Ac@Yc@?WLKTK^Yl@KJUBk@CCC{@KCCSACCUACC}@ICESACCa@CCC_AKACm@GACe@CCCSACEWAACc@CCCWACCUAAEe@CAC}@ICC}@Ic@]MYa@k@c@w@]i@g@k@GCGIWQSSSIGIKEIISIQQQI_@YUIOMGASKACIEUSGUCYHeEIg@Mc@u@eB_@i@a@We@Qa@SYUU[[s@Uq@qAyEOiAIUOUi@]s@OAEMACCSCYK]@MHK@YACCKACC[KOISCMK_@I[QQCACIAQGCCMAOKSCCC[GCCYEu@MCCMACE_@I]O]KKIKAkAm@KIi@Ye@_@QIe@c@EAgB}A[_@GCc@k@Sc@Q}@UkDYgCQcASc@iAu@OOo@_@IK_@SQO_Ae@a@AQBIDM?SIUYEAk@s@QYm@u@S_@YUMCKIi@QKIQCMKIAQKWKs@i@[i@i@{AU]OMME]?CBG?e@NUTKRm@x@OLEBGHIBEHMJ]l@IDM?KEGK?MNc@DSEUKOMACC_@CECa@Ae@OACEAIKGCcAkAOMYMKAIGYACCa@ACCUACCk@CKEYUSy@QS}@?CBu@@CB}@DCBoA?CCQEKIWIIKUIIIKCWQk@QACc@IACQAIGOAACo@ICCMACEq@IACQAACk@KCCKAACOAUMKACCa@IOISECCKAACa@IACKCACUCMIKACCm@KCCYACCq@CACiAKo@OOA",
+"average_heartrate": 130.8,
+"average_speed": 2.179,
+"source": "strava",
+"streak": 1
 }
 ]
