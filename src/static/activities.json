@@ -20340,6 +20340,21 @@
 "streak": 1
 },
 {
+"run_id": 15218218135,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1357.7,
+"moving_time": "0:10:11",
+"type": "Run",
+"start_date": "2025-07-16 12:50:31+00:00",
+"start_date_local": "2025-07-16 20:50:31",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 111.7,
+"average_speed": 2.222,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15144234142,
 "name": "Zwift - Serpentine 8 in Watopia",
 "distance": 27088.1,
@@ -20352,7 +20367,7 @@
 "average_heartrate": 127.0,
 "average_speed": 6.568,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 15197952362,
