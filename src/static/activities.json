@@ -20383,5 +20383,20 @@
 "average_speed": 2.179,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15231413871,
+"name": "Zwift - Hilltop Hustle in Watopia",
+"distance": 16768.0,
+"moving_time": "0:47:19",
+"type": "VirtualRide",
+"start_date": "2025-07-25 12:24:30+00:00",
+"start_date_local": "2025-07-25 20:24:30",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "rqofA}~az^gBCMKEO?qIKc@QMOGwBDQMGUQwN@INSVKvAH^ITSHOl@KVUJYB_@E}@_@mAOWq@[MQ?g@`@aCF}@Es@Iy@UaAO]S[[SmB}@{AkAk@m@qAsB]UQEs@@mD|@[Dg@?kAUiDuAk@K]AeC?_@O[Yc@Ma@JIP?RFNLJbA?hBM~A@r@LtCjAtA\\|@?rEeA`@?PDXTnArBb@h@vAfA|BfA`@^Vj@Pv@NdBAn@c@pCAj@LZt@\\PZZlABl@C^M\\KJm@Jk@j@gAGe@?UFY\\Af@PdNBLHLLDdC@XVB`@?xHBRJPb@LxF?JEHGHYAiCD]FKZELD`@\\xFjFHJH\\?\\I\\e@XcF`A]L}@h@]E]g@KIm@Ki@Rk@j@]DqzA?]Gc@S_CsBg@Sm@Ae@ROPMZKp@Q`CUx@[ZUFWB_@EQMMUK_AByBGw@Q[i@ScABWNMRIZCd@FlBAd@Oj@OLMBk@?YIO_@Gi@?}BGy@Qk@MMWGs@@]RQb@Ed@CxCEh@GNMFk@?SMMs@CcDK_AKSMOUG[Ai@HMNGREx@PvB@d@KX[NUEOO]g@WUg@M_@GaKAWV?^JTTFV@j@O^i@ROJCzFD~@Tt@|@XLZCVQH]QiCA_@Be@R]`@Id@DXXJb@Df@@|CHf@X^d@D`@SLc@B_DDe@Le@ZWf@Eb@JP`@Hh@@d@?tBFf@P`@`@Pd@?b@MPa@Fi@EsB@e@Ji@ZUd@Ib@@`@XN^Bd@CpB@d@Jb@RZ`@N`@?`@KXYP]Fa@RkCFc@P]XY`@G`@D\\NzBpB\\Nz@N`zAAn@Nb@d@RJXBTERMZa@x@Yl@c@tE_A`AYLILa@@e@Ka@aBcBqE}D]?MHGNG\\?nCENKF_G@QCOMEQ@gICYY]YGmBDIEMOSsNB_@RU\\E`AH`@ENGT[LI`@ELKP[F_@Au@c@}A_@e@]IMICO@k@^aCFy@G_AKo@YiAS][[gCqA{@k@q@w@{A{BMMc@My@DeDx@]Do@?y@SkCgAu@Sy@IeC?QEm@e@c@KQDONELBTHJ`@H~COvA@l@Lx@T|At@p@Th@Fv@?`B]",
+"average_heartrate": 135.0,
+"average_speed": 5.906,
+"source": "strava",
+"streak": 1
 }
 ]
