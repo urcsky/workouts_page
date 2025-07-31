@@ -20398,5 +20398,20 @@
 "average_speed": 5.906,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15297404950,
+"name": "Zwift - Hell of the North in France",
+"distance": 21009.3,
+"moving_time": "0:52:27",
+"type": "VirtualRide",
+"start_date": "2025-07-31 12:05:19+00:00",
+"start_date_local": "2025-07-31 20:05:19",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "`rtcCyjgu^uCxCe@nK[ToAi@YpBkAj@HtBGRc@AyB{A[Gc@\\k@nAS?Kg@a@QOFi@bAy@ISHOd@S`COJQCSk@USWDOr@QRUIQo@SIq@h@Oh@SJMQFaAsAQm@mCQEcAt@c@@}BaEQGe@Lu@~@yAj@MMRqAMg@g@OsA?GUXaAAUOM_A@c@SCQ^aAOYm@E}@XYSF[p@]Bk@c@c@qAa@O]DWNOfBVZGPi@G_BXU~@V\\MZcCW[kBM[UFa@l@_@Fi@}AeBNcB?mA[y@aCuBiAa@_GWmCt@_BnAaAlA{BbEiAtCInAv@nF@nAc@vB_AdBiA|@iAd@gFr@iAGeD{AcADi@b@{CdF_DfBe@p@cAtCeCxBI`AJn@\\r@j@ZhBB^^Ar@g@fAJlAM\\_@D_@KkTiOWc@Fg@\\_@x@G~A`BjBRtAjBjAPLNJj@Mb@eEhDQ\\JbAtA|Bv@zB@bAi@hAk@Xo@EqAo@{AUwA~@gB@y@XI^LrKYh@cFfF?tCWxBg@|Bg@`AaA~@@pBTZ`@B|NCvAT~CxH`@`@fAZr@pADbAMrBcBbFBnAXn@jBnAj@Lx@AbC}@`AMvA?`B`@zAjAt@|BzBtBt@|AdAr@`BfBt@^nADxBaArCYtAMhARz@ItCo@nCmAtDo@zDcBvBkBd@uA@e@SiA{@yC[OsAZa@MWqC_CoEImAVs@z@g@rIaA^g@HyAYe@oKgG_@e@Im@|AeFFiCLc@`@WjBKXm@@uBHc@h@]dBMbAqAV{A@sEfAkCSiAoAmB_UsUmByFkBgCeBeBw@e@qAUaCp@cDb@iBKwDgBsAaAiC}C_@kARmDp@yC|AsBzE}Cl@q@pAeC\\{AD}A[mA_@i@oCeCg@w@MuAl@qCb@o@b@QpETlBSbA]z@{AZ{BUqBk@wAgAsBgAo@iAOuBF}Bx@}BjAqA?_Ac@wAyBsAcEMgCT{BXo@jBcB~@e@hAWj@c@xAqBj@{Cj@W`AIlBg@~@Br@^dEzDjA`@xBO`CeAlAgA`AoAd@oAJmAOcB]uAuCwDE]^YfF}AXQFUS_@SEyNeBi@e@?[R[xCqArGaEXq@W[qM{Ci@YHWt@KnJe@V[B][c@aHcDNWzCZ`@I@e@cAcAIY~AuBJg@Aq@mCoN{A{Lm@qA}DcDaCyF",
+"average_heartrate": 133.1,
+"average_speed": 6.676,
+"source": "strava",
+"streak": 1
 }
 ]
