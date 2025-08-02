@@ -20413,5 +20413,20 @@
 "average_speed": 6.676,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15319419954,
+"name": "Zwift - Figure 8 Reverse in Watopia",
+"distance": 30435.6,
+"moving_time": "1:05:13",
+"type": "VirtualRide",
+"start_date": "2025-08-02 12:48:52+00:00",
+"start_date_local": "2025-08-02 20:48:52",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pp_fAmy~y^`@|DrBfEnFtD|GlBfBfA`AbBlBvF`B`BhA?dBg@EiA`Ay@Qc@iBw@?kB{A}@d@aBv@[t@Rr@hARnA|@PjAjAvAk@tAwACm@gB_Ae@w@OkBn@i@pCOrA`@fA~AfD|GbA}@`KmGt@^vArC~@r@d@[vByFvAb@nCzCx@D`@_Ac@iC|Bk@ZsA_@eAiB_Ca@wDgBk@mDM{B^{DHs@lAoAtFo@j@oYiGcIh@uDl@mF`B{@A]u@E{BTaCf@i@rIsBbJcArAs@lCyC|@?|Bv@~@KNqACqIlDwEHaCeAoCuA{@oDa@aI?wAn@mH`GaHrADlAbCnJYlAs@G_@i@wBsIq@]WP_@xAErGFZn@Tj@UZeAEq@sAWqCFYUkAiKJgEb@yArAsBjDmBvD_AzOoBfBq@bAuAdBoEvAmAxBy@pBElBf@jAz@vEfGrAh@~ADfJsArYgI|BB\\hAKbPqBvJeAfCCbJ[xAgB\\eIEo@kAiCkJkBqBkA?e@XaAnBX|B`H|N{@f@iKxAy@f@O`Ah@d@v@?xIoAtAR}Ap@uK|@Ul@V\\x@HjD]bDFlBp@\\hDvBxCPp@WbAaCx@d@dC_@x@m@GyCiDgA]u@r@sAnEi@XeCeEs@c@yJzFqAnA_FoJwAk@cCBsAl@@zAj@tAtBvAg@x@mBtAuAeA}@QWsAgAwAy@C}@h@UbB|Az@AhBdBr@P`@}@v@D`AoCj@q@Sm@s@cCyGmAkByK{DoEcDiBwDe@mEXoAj@q@`GcEr@_A?o@Yg@cCeBIi@LUxEc@dCFRh@YfAQVi@A]k@H_Hd@mAn@RfCnJlAZ\\]@eA{BsIE}A~Em@jAc@tF{EnCqAhJLhBVnAv@p@hA\\tBMdAqC|Cc@lAHlIOfAg@F{D_A}@b@yBlCy@\\qMbBuF|A[\\SlABrE`@j@v@?fHoBxHcAnCExWdGx@?~@{AdBkIhO}A~@c@Ac@w@MgKtAu@GU[Lq@z@k@xIiAjB}@gHqOOmBdAkBdASfBlAhD|Kv@lA`JG`AUV_@VsL~@uBnBeJDuRw@o@{BRi[vIuIz@qBk@_EkF}AuAsBm@mBBgBf@yA`A{CvGeA`AiE~@sM|AiGzBwBlCy@vDDrChAbK_BVc@p@`@x@pBrAXbAi@x@}F~DgAxAK~CpArE",
+"average_heartrate": 134.2,
+"average_speed": 7.778,
+"source": "strava",
+"streak": 1
 }
 ]
