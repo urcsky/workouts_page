@@ -20400,6 +20400,51 @@
 "streak": 1
 },
 {
+"run_id": 15348811599,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1006.0,
+"moving_time": "0:09:44",
+"type": "Run",
+"start_date": "2025-07-27 11:41:17+00:00",
+"start_date_local": "2025-07-27 19:41:17",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 101.8,
+"average_speed": 1.723,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15348811805,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2029.5,
+"moving_time": "0:11:40",
+"type": "Run",
+"start_date": "2025-07-27 12:01:59+00:00",
+"start_date_local": "2025-07-27 20:01:59",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 142.3,
+"average_speed": 2.899,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15348811501,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1009.7,
+"moving_time": "0:08:06",
+"type": "Run",
+"start_date": "2025-07-30 13:30:59+00:00",
+"start_date_local": "2025-07-30 21:30:59",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 105.4,
+"average_speed": 2.078,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15297404950,
 "name": "Zwift - Hell of the North in France",
 "distance": 21009.3,
@@ -20412,7 +20457,7 @@
 "average_heartrate": 133.1,
 "average_speed": 6.676,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 15319419954,
