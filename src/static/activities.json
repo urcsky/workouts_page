@@ -20473,5 +20473,20 @@
 "average_speed": 7.778,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15352376407,
+"name": "Zwift - Mayan 8 in Watopia",
+"distance": 27693.6,
+"moving_time": "1:06:12",
+"type": "VirtualRide",
+"start_date": "2025-08-05 11:56:44+00:00",
+"start_date_local": "2025-08-05 19:56:44",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "p|mfAum~y^u@t@NtAfHnAlAxBRtHjAzAiAhMn@zBu@nAFl@\\d@v@FdCgBh@D`ArCnAfA`BE`@bBg@j@gDNwDx@Ij@f@dCaDfMoE|Ao@jB_MpOmAfHsDnBmBjEcBj@sIJ}Ai@u@aCe@c@aJj@{CcBkE_@mDhAkCa@qALyDjBqAz@_A`BkA\\yL?iCfCuF`AuBtC]dCJrB~ChBpAzB}AvEeBv@cEkA]c@?oA}As@{@?uAhBuCTkBg@y@cCo@g@cBCuBx@cAaAa@mCsAi@mAOwAh@mBCyAp@gC{@JoDqA{C_AwAd@eAr@Db@d@HdCbA`BhBbAtB]Kg@sA[i@s@rAiHg@eA@eBeA]I[j@{@QcA\\_@?y@XSf@TX`GhBpDi@~AJx@rAHrAsBfAv@~ExBrCkApBDh@c@^_AUqA|@oBq@{B\\k@bAMvB\\dAfBt@PZGfAkB~CpBrDw@~AdAlCl@VjBt@Z|LIv@[fAgBfGaDnFRxCeAlEd@fCzAfJi@zAdDbATv@]bCwNOsBgAiD\\aBcAm@gBf@_AKmAyA{BoAhB}D{@qBF[jDWb@gAk@}@eFeA{@sC^iFf@kAhAs@l@D`CjBfCP^Y\\{BfABd@h@d@~Eq@h@mC?g@fBsFcA]a@d@mDfCgC~@{DbAUlBt@lAeAiAgChA{Hm@e@aCMwBu@gDcEH_A`BmBr@gEMmA}Ay@Uq@t@oC]_DDuCTy@jBYdAoCNsAoA_BFmAfCwAfA@lAh@v@W^w@]wA\\uCl@]lCZfAy@bAaKp@QfBp@fAK~AaAz@sBMkAs@oAoDY{C}BqA`@e@MUmAz@o@Jg@m@uAu@GyAj@i@YYoBpAyB|@}HeAsBu@UgBLmAaACuFrpAE|BdAhBcAlAv@tFnAZr@a@`BZfFUzAcAj@qEHeFtCe@bAKbDiBlCWtGwBhEm@lCs@l@iDFq@r@b@lFoAxCCdAdA~@xEp@n@~AOzAyB`EQrDyErEqCLsCv@s@]]aB_Ay@c@qAq@Sq@ZmCzD_Gb@mAx@HtAlGbAhAv@\\`AV`IjA|AiAjMn@rBs@rABj@h@l@l@BzCkBd@VR~A~AfBfBAf@`AEp@c@\\yIbAMp@f@~BgDrMiEvAeAhCkLrNiAdHeE`CeA`DcAt@_Gf@oCK_Bo@{@mCq@WqIp@{ByAiEi@eAHsB~@}EYoCfAwCvB",
+"average_heartrate": 127.4,
+"average_speed": 6.972,
+"source": "strava",
+"streak": 1
 }
 ]
