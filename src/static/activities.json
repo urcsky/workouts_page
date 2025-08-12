@@ -20503,5 +20503,20 @@
 "average_speed": 7.623,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15432542901,
+"name": "Zwift - Mayan San Remo in Watopia",
+"distance": 27335.5,
+"moving_time": "1:00:20",
+"type": "VirtualRide",
+"start_date": "2025-08-12 11:53:53+00:00",
+"start_date_local": "2025-08-12 19:53:53",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "~mffAy||y^rBWtI{CnCe@zC\\nDfAdF?Zb@O|AZ`@jCa@~C`AY`AkDXQnA~EtDzC|H`AdApCx@bAmAEcBVe@p@S~ANjCfBFfB`@f@vTtHhEQjBT`AhBlA\\`@fCU~@q@d@oAc@q@P[n@?~As@VmDMuA\\uC}AwDw@sAr@Kx@r@vCWjDd@x@lBlAu@xB@vAw@jBo@Jg@_@Aq@f@oAmB_EUyFeAOc@lBPv@k@~@Lb@`AXAbBf@nAsAxGd@x@~Ab@@h@}ARyBgAcAiBEsBc@o@cAAc@p@hBvEh@j@MtDjBdAp@?hBw@dBBdCYxAn@Z`C`AhArBq@`BEn@ZjAzCvA\\bDSxAeBx@EzAp@ArA^b@bEhAtB_AxAwEmA}B}CcBQ_BTcC~BiDvFaAjByB|MM`A]zAwBbFiCxAOxC\\~BeAbF\\vC`BbJi@`@X`AnC|AFf@o@tB}MOqBgAiDZcBcAk@sCb@aBaByBiAx@wAn@eBy@iCb@WhCIf@eAQm@k@[yEaAm@uAIgCf@kDrAeBfA?|BhBhCP`@_@PiB^Q~@NVb@XtFeDL[TSvA}FcAYc@\\{CxCiDv@iDv@WvBv@hAw@@c@cAoACi@lAeHu@s@kCOkBs@cDyDDgA`BoBr@yDKwAqBaBp@wC[wCBwCZgAjB]`AoCLmAoA_BHmAbD}AzBp@j@Oh@y@]cBZmC`@_@pC\\rAaA`A{Jt@Q`Bp@hAKjBoAn@mBaAsCqDYwC}BoA`@k@MSmAfAsAe@sA{@MgBj@c@e@U{AvAiCv@eIqAmBoC@qAcAAqFppAGdCdAxAcAvIrCRl@_@vBXzEUlAcAh@oEHyEfCo@fAOlDgBhCWtGiBpD{@hD{@n@mDHe@n@b@jFuAjDBz@|@v@vEp@v@|AUfBuBxDCjCSp@wEhEsH`Ac@Y[_BgAiAWaAo@Uq@VoC~DmGd@}@b@GlAZd@lG~@h@Zl@tAVbIjA|AiAbMn@rBw@bBLj@jAj@`DmBb@VJjAh@z@rAfAzAE^tAs@x@qI`AKt@d@fC_D|LiEzAy@tB}LnOqAjHwCtAmA~Aa@jBoB~@eBEqFP_Bg@_AoCm@[qIn@}CcBmE_@aDhAsCa@cBR}EjCsAnB{@^sMDyCnCgFz@}BpDSnCV|AxC|AhA`BIbAmAdDgBx@s@C}CqAOkBmBw@m@DaA|A",
+"average_heartrate": 128.8,
+"average_speed": 7.551,
+"source": "strava",
+"streak": 1
 }
 ]
