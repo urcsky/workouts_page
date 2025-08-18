@@ -20518,5 +20518,20 @@
 "average_speed": 7.551,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15500432442,
+"name": "Zwift - Loopin Lava in Watopia",
+"distance": 23250.0,
+"moving_time": "0:52:14",
+"type": "VirtualRide",
+"start_date": "2025-08-18 12:23:29+00:00",
+"start_date_local": "2025-08-18 20:23:29",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pq_fAus~y^rAbDzBxBrDrBpFxAvBnAt@nAnBxFl@hAA`@a@FmBkB{AMgAj@[~@JrAb@~AjFvOMh@u@v@WxAwAtAeAnCFl@p@tAr@dCn@d@l@?r@]n@}AhAG~@k@j@Jn@x@ZbCB|@IlCI\\}ATSbBLfAxCbCr@XbAMxD{A`@@VVD`@OHaBHmAh@ERJTtAMhETzBSp@NVXdCdEPl@C`@{@rBKlAHrAp@hClBrDhEdGv@bDTvDZfAzAjBrCzBbClCtAh@rA?vC_AlBoAv@K`@p@tAvGz@nC|B~DxAlAhAh@lARbBQrBwArDgEbFiDzAiBbAgCtAsIlAaD^kBFuAYqAy@cAsA{@gBi@yFa@sL^_@o@b@}C@iBSkBYi@_Ak@mCo@sGeC{@QsA?iFdAwADgJaB_D[oCDkC`@i@SaDkFg@YkAGkCT{CY{@TOW\\Y~FcAfDwA`@g@v@aChByAhA}APaBM{BWs@iAeBm@_Cg@gAo@i@iBq@_Fk@wHh@oAVcAf@iArBoAlAOr@t@pCn@vEj@dAf@\\`BFZ]N{@TQjIcBXLXlAXVfD`@t@c@XyBKmB{@yAcA{BaBaA{Aa@eE?cCdA}A~A]~@ElALfAj@rBr@nA|CzArBLhBi@hB}CHk@Ey@WsAa@{@k@i@w@[}AIgB\\k@r@_@dBHrAdAhBr@^hABpAc@j@cANaBKg@q@q@oAc@gA?sAxA]@CO^oAx@q@nAQhBLpAfAt@vCGfAmA|BcB`AcB@_DiAcAkAeA_E?kAVgAdC}BzAk@jAI|CThA`@vA`AxB~EApBShAOXo@NuCe@k@wAe@[_I~Ai@^SbAOHq@B}@S_AcBg@aEs@{BCe@Pc@tAwAf@sAfAm@hAYdIm@fA@`Ev@xAr@b@h@pAhEbAvAXjBIjCeAzAqB~AiAxCgCrAeHrAe@\\BVRJbAOtCTz@?v@Q|ABh@\\xA`C`ArBCb@w@bBM~@@pA\\jB~AxDtFfIt@|CVfEfArBfIxHhAf@hCK`C_AbBiAj@EXb@|AjHdBxEpAnBnAfArAn@nAR`BQbAk@rEeFxG{EzAeC`@wAhAmHrAoDd@kCIwB[o@eAaAwBcAmEg@oCEyH`@iAISo@d@aD?oAOgBSo@e@e@aD{@eHkC}@QqA?gFdAyADaJaBeD[{A?_Ef@g@S_DkF}@]",
+"average_heartrate": 132.2,
+"average_speed": 7.419,
+"source": "strava",
+"streak": 1
 }
 ]
