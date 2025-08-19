@@ -20520,6 +20520,36 @@
 "streak": 1
 },
 {
+"run_id": 15509466786,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2347.0,
+"moving_time": "0:13:26",
+"type": "Run",
+"start_date": "2025-08-14 12:10:38+00:00",
+"start_date_local": "2025-08-14 20:10:38",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "kvb~Cav}vUG[s@sAKa@k@eAqAmBi@kAU]}@cBy@yB_@k@S_@Me@gAeCYw@GKOEKYGIGe@OQe@cDC]_@sAUa@Og@E[[{@Uc@YaAGe@EGG[K[S_@E_@Sw@Ye@Ma@k@iAwAeDEIOMIYMSQg@UOKGKAa@Dk@LMKGYGmBEc@Bm@C}@E_@GUGi@@u@Ay@K_@Ac@M_@EKSS[OS?uAF",
+"average_heartrate": 134.6,
+"average_speed": 2.912,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15509466775,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1460.9,
+"moving_time": "0:08:13",
+"type": "Run",
+"start_date": "2025-08-14 13:24:26+00:00",
+"start_date_local": "2025-08-14 21:24:26",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "utc~C}s_wUd@bAV`A^v@dBnEXfARpANh@NVDPNt@Nb@P|@Rl@BL@VN^Df@HZ`@n@Ph@Vn@Nj@LZPp@Rd@RX^x@f@pA\\j@n@fAVv@v@dAbAhBRV",
+"average_heartrate": 138.6,
+"average_speed": 2.963,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15500432442,
 "name": "Zwift - Loopin Lava in Watopia",
 "distance": 23250.0,
