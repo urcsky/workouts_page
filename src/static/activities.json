@@ -20563,5 +20563,20 @@
 "average_speed": 7.419,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15535726232,
+"name": "Zwift - Coastal Crown Loop in Watopia",
+"distance": 24768.4,
+"moving_time": "1:00:13",
+"type": "VirtualRide",
+"start_date": "2025-08-21 12:03:38+00:00",
+"start_date_local": "2025-08-21 20:03:38",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "z~mfAan~y^uBh@AbB|@d@jEb@nAt@f@hBNvGjA|AkAtMn@zBu@lA@Xh@v@b@FrCgBh@?\\~A`@n@tAnA`BCXb@B|@g@j@eCHuE|@Md@f@rCaD`MeEtAcA`CkLtN_@|@YfDe@zAeBj@kA`Ao@`A}@fC_Bb@sDTmAGg@{@zB}NOuAiAoDZgBcAg@sCb@eBcBsBgACUp@s@x@sBw@mCpD_@VSHu@i@y@gFeAm@gAOaBh@gF^w@lAs@v@N`BxAxCX`@_@RkBhAMj@r@d@|Es@h@iC?g@fBuFcA]a@`@gDrC}Cv@kDv@W|Bv@r@a@Ti@}@qAKw@hA}FAy@cAg@gBG{Bu@gDiEDq@bAy@d@aAn@}DMsAsAq@]q@t@uC]{C@iCZiAfBWdAkCNyAqAeBJgAbD}AzBp@r@W`@q@[wCd@gBj@Q`CZjAy@\\sFd@mCt@QrBr@hAW|AgAj@eBW_B}@cAoCIeDcC}Ab@WIYmAfAuA[qAkAS{Aj@e@YYaBtAkCx@{F?kAe@gAk@g@mC@qAaAGmFbqAMhBdAlBcAtAv@xE~@t@`A_@`BXlFW~Au@b@qEDwClAwAjAe@bAMbDkBtCSdGuBjEo@rCq@j@sCBcAh@IdAd@`EsAxCB`An@n@hFz@p@rAUtBwBbEK`D}EtEqCLoCv@u@]]_BiAkAYaAq@S_Aj@uBdDqGj@eAv@HtAnHpAbAbBTrHnArBiAnMl@~Bm@z@Cl@d@n@h@HnCgBl@B^fB~AjBtBB\\x@Cp@o@b@}CLsDv@Kj@f@fCcDhMcEnAeAdCuLbOoAhHqDlBs@dAm@|BcBr@uAGqC^g@Ie@i@vBaOMcBiAmDZeB_Ak@mBf@w@IqA{A{BoAhB}Dw@gC`@SjCIXSJs@k@}@oDi@aAg@i@{AGuBd@kDjAcBhAKzBfBtCVZWRkBZWv@D^\\j@pFm@f@uC@_@dByFcAY]^gDnCyCVmBj@mAt@M|Bt@dAkAcAwAGk@LcBz@uEo@e@cCMsBu@gDaEJaA|AkBr@eEKmAeBeAMc@t@}C]iC?yB^eBtAI^a@|@qCBkAmAyAJeAnCyAdABlAh@d@Mj@_A]}AZoCn@_@lCZfAy@ZiFf@wCp@QnCp@vBeA~@{AGgBw@sAaDScDcCeB`@e@i@",
+"average_heartrate": 133.9,
+"average_speed": 6.855,
+"source": "strava",
+"streak": 1
 }
 ]
