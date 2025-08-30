@@ -20638,5 +20638,20 @@
 "average_speed": 5.358,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15637409202,
+"name": "Zwift - Sugar Cookie in Watopia",
+"distance": 39258.4,
+"moving_time": "1:24:10",
+"type": "VirtualRide",
+"start_date": "2025-08-30 12:11:55+00:00",
+"start_date_local": "2025-08-30 20:11:55",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "tcffAo}|y^nJRvQwExGbBdFCVvBb@r@hCc@nCr@AdA_DRk@vArGdGp@lCi@pGjBxAt@dCi@~AUbCkFu@mBlBT|AvBbB^lBoCRl@zB}AtAJ|AbD|Ab@jGhD~C|A~DxCdAlAbB|FnAfHwAdBN`Ap@fArD|Fa@lCdEvD?zBwBx@@nAh@\\xBhDnAdB]fC_GaAoBsDiCHsDvAuCzGgB~BaClNOnB_CdG_DtEThFeArH`CzHs@~BxDtEf@vH}@hBiExDsBzA}HrL_Ot@qBlE_B`DmMe@{C`JsAl@w@o@kBuAJmAgAkAwCqDdBgAe@j@cCo@oBhAuMoAmBWyHgBqBeGcAKsArIwApDoEfCvCtAdCvHiAvEsEPwDtBuDRmBw@aBsGcBpAeFe@iFr@q@zEy@fDaJRiGlBsCXgEpFgDzGu@XgB?aJ{HkDfH{Bj@aA_@mAcHkGs@XM~DkHMGqJ{Dy@Q}MVeAfCErBgBYuCwAwAh@gFu@iEiFgDmDiE{H~@eGqBgIDmBg@k@qA_@kIaMoOL{C|AyEUwAkC[}DfCBjAnB|@IbBtAxCi@lAcA@_J}VaE_AwAiFkEy@cDlBeBaCwDOc@aDeJw@}@mHfAqBbB{@AaAcDsBoCc@mB_EgAm@aB\\{FnF_AWIeDiAUeD~AmC[iBjAq@lB}EmAiEpC_Ed@aCoABaB_A[iAf@}@rDgFkA}BbDcIPiDrBcDlE_A~EeAlAeGsCeFrAqBnCgAlKkBjBaDE{HmDaFnAuBOkDvCyFt@oD~G_GeFcFb@kGwC}E?uEpEeERwA~@q@hCvA|DI~EqM`Iw@zDgBl@}AzBr@hDfB|@LvB|@~A]hBwBd@Cx@nBBZl@kBbBcEpAg@fJlB~G|ErFQhHp@|B|HoBrD}C|ClCnA?ZwBmBmBCoCkAiBb@}A~CAfIcDzL}A|GDrJlBbKpGhDrFsAvHBxByChA_BbDEv@hA~AOv@wC`BmAm@k@\\h@hB{AjE`@dFqFvEIbAr@lBfB~@AxBaBhB_CV{@dACrJk@|CsAdBw@bDqDrBaA|CcEzCyDdKK`G{AnFfApFhEnFxE|AhEdGzCzAlNr@bRyE`HbB`FCn@p@BnBhDWfC|@[fA}CLYvA`ErCrAvBl@~Bk@lG|BrBb@nBi@fBSzBoFu@mBlBT|AtB|A`@~BkC@j@lCsAt@Kx@h@tAjCfA\\`GpDhDfBfElCx@rAdBdFfAdHsArBL|@h@hAxDjCc@jB@tCfE~D?bDwBvAh@RrBdEvAzBu@`BmEG_AuA_B",
+"average_heartrate": 122.6,
+"average_speed": 7.774,
+"source": "strava",
+"streak": 1
 }
 ]
