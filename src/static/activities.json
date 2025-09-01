@@ -20653,5 +20653,20 @@
 "average_speed": 7.774,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15658836600,
+"name": "Zwift - Triple Flat Loops in Watopia",
+"distance": 34504.0,
+"moving_time": "1:10:07",
+"type": "VirtualRide",
+"start_date": "2025-09-01 12:12:28+00:00",
+"start_date_local": "2025-09-01 20:12:28",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "`h`fAmxdz^rAqE`DcAvAgB@{DiE{FvB}B@yDjIsS`@sCA_Bg@sA}EcBgBsAy@uBDiBtFoLvAwEpCs@nCv@|@Ep@e@~A}CxCGvBeAf@cBAgBaDoFv@sAnAe@lBt@dEdHpAjAt@C`Ay@vAsEvBX|@hADnExCjBOhBcCz@e@fAAxKoAjSvDxEv@|BjGh@|KyCnBb@v@`Ed@lMSjCiB`BSx@NnFx@dDpAp@zCElAn@xDd@~AnAd@vCvAdAz@k@lDiKxA_@tBjAd@zCzC@fBj@nA`CXxBYjDaMhHe@`ASzB}BdAmArBt@dDdBz@JtB|@|A]lBqBb@Kt@lBD`@h@cBdBkEvAg@|ItBvHpExEOdHRxCwt@lRy@rArB`Hu@\\mLtCaHb@gBs@gGqH}Bs@eCHqDhBqCnGmAdAeW`EmDdB_CvDa@jEpAdMuBf@Mh@Vn@zBxAX~@aArA{GbFc@jBP`ClAvDxBdC~D~BhJdDvD`JdApAnARfB]ZYM{@~@w@Oe@eBq@CqByAy@`@eBdBOv@fAVvAdAV~@dAnD{B?q@oBgAk@_BBkAhAc@jBGxAd@rFxJhMkI`DrEn@NzCuGjAf@lDjDpDGd@d@c@n@aCH?`@dAn@I`@u@HuBu@uARwHjGu@zBcAbIf@~Ou@bHqFlKcC`CcAhEsAhAaDdA{GKx@w@dCYCu@i@]sGlBeEyCHcDpAIRa@ByE[cCi@w@}@SeCp@oAvBeBSoBiGv@yB|A_BX{AfAoBeG_RO}B|AoApANbCtBrFw@@oA~@eAqBeAEmB_BeAHw@`@o@vAOz@`AZbBfDzAvB}A^y@_CcB]{@EcBlAg@hBG~Ah@nFtJzLiIv@VrClEp@c@xBuFt@PdDnDfA@Vw@i@{BhCaAT_A[mAmBiC[iDuC}@_IZ{@]Tg@fLaAhAq@kA_@{JpAkAg@Rs@j@_@zImArBy@_HkOOmC`BiB`BZz@fAzCpKx@bA|K_@f@eBDgJdAeCjB{ILoQs@oA{A?u\\dJwIz@_C{@qF_HqC_A}BH}DpBsCpGcBjAiVpDoCnAgCdC}AaAu@}AGwC~@iDjCwFh@aIo@gHs@gBeA{@M{AaAmAUaCbDiL^oE[wAcAwAiDw@o@cAoBwHt@}GwBgFv@eAzC?`@aF~As@fFfBZf@@lBvBp@Dh@aAtBp@tAbIQtBcBf@uAcAwBKkAvCuCVcDwByGaGgFVoD",
+"average_heartrate": 125.8,
+"average_speed": 8.202,
+"source": "strava",
+"streak": 1
 }
 ]
