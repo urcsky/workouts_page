@@ -20668,5 +20668,20 @@
 "average_speed": 8.202,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15739610097,
+"name": "Zwift - Coast Crusher in Watopia",
+"distance": 35418.6,
+"moving_time": "1:12:32",
+"type": "VirtualRide",
+"start_date": "2025-09-08 11:44:01+00:00",
+"start_date_local": "2025-09-08 19:44:01",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "pkffAs||y^jDUfOiEzG~AbGB\\^MzAXd@~C[lC~@Y`AiDXQnAzEnD`DhIlAfAbCp@fAwADwBzCKhCfBd@nC`UxHdEUfCh@\\nAvAh@\\pCaAtAwAc@w@Vc@tCgHZ}CaBmDs@_BdAr@hESnDlCrBo@vDjHjEnDgAnCY`@_AOcBv@_Bq@}B`Bw@lBVvB|Bl@GlAiBrCpBvDs@dFhB\\pBv@ZdMMhCoClEaC|A[xD^rBcApFb@xC|ApIk@rAzCpCx@pJc@~@y@fAcD`E{BlAkHvLcO`A_CfEyA`DkMc@aD|ImAl@s@c@iBaBBwAsAy@iC{@?yBbBkAi@K]x@}Aq@wBjAiMoAsBWyHsAmBuGaAQ{AdAm@nGi@lDoEdClCf@pBfA\\nG_AlFaFLeD|BoELeBo@wAmEq@oA}@rAgFg@{Er@w@lDGl@k@fD_JXyGbB_CNiDb@_AdFwCbFIt@o@RcB?}Ii@m@uFkA[s@tH_CX}AeIuHq@h@MrD{G?UgKyDs@QiOhDe@vAy@TaAi@qCkA}@h@sF_AsEaFwCoDiEuH~@eHwBeHJqBg@m@sAQqHiM{O@kCdBuFMmA_D_@oD|B@nAnB|@EnBpAjCm@pA}@B{I{Vy@o@yCa@UwCs@eAkEy@mDjB}A_CsDIo@kDuGQmAi@s@qHpAsBvAo@C_AkDyBoCe@cBsDgAq@eB^kD`EkAj@aAW@oC{@k@gAFcCzAoCYyA~@q@rBaFmA_ElCyDd@gCgAEkBeAUgAr@{@fDeFkAsAfCw@b@qITaDxBg@|AyAfAiAlFq@hAqADoEmCwCb@sBtAmAxBu@~IqBhCyDOyHgDsDjA{CEwCnCcGz@yBvFy@f@oGkFaFf@cE_CgDk@}Bb@gEfEoFf@aAtAY`BlA|B~ARrCiAf@kBKsDnFcF~E`@fFfCpEi@|E|Et@Ht@k@|B{FpFo@hDuCpCL|DmAnHfDnEB~AyBz@oJdBmCxEyAxEhCtAAz@oAnAwFlA}@n@cB~CqBzIWvBiDjFlAdA{Dr@]z@D@fB~BvA`EYtEyCbFjAz@_CzAy@~B`@~CaBpANBxChAh@vAi@pDiErA[dAj@lB`EzCd@xCrBAt@_Br@mAxB~@pHnAh@vGRh@dDhDFhBbCvDkB~Dx@j@~@f@jDtCVj@f@rHdUr@|@jAKh@uAuAqCLaBsBiAAmA|CqB~CXJhAaBdFGvChM|OVzH`@dAdCv@~HGtGrBrH_AhCpDxFtDt@lDQlC",
+"average_heartrate": 123.7,
+"average_speed": 8.138,
+"source": "strava",
+"streak": 1
 }
 ]
