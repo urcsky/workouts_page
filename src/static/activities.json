@@ -20670,6 +20670,21 @@
 "streak": 1
 },
 {
+"run_id": 15750893102,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5021.5,
+"moving_time": "0:29:44",
+"type": "Run",
+"start_date": "2025-09-05 12:18:42+00:00",
+"start_date_local": "2025-09-05 20:18:42",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "gyb~Cmy|vUi@r@q@x@c@p@iAhAOXi@l@c@p@w@~@MTwAxAw@nAm@j@c@r@UVSt@SZ]t@YRa@h@{@x@KRa@^UZCN]p@c@t@_@d@e@^w@hAEJQPy@f@eA`@s@R{@Lm@D_D?kABmAEy@?WEIEGQAi@M}@?a@IkAEe@I]@IGW?OKSWyBOs@Ak@MkAEy@McAIi@A[Fa@AUUeAYwBCo@E]?g@CKK[Ge@E_AIe@IaBe@aCIm@{A{FKk@Qi@W{Ae@kBAGBMCYMe@_@eAAKK[Ac@DQRMf@QnAm@`Ba@h@SVCVGf@g@`@Kt@]\\Uh@OzAo@z@W\\MJMh@OPKPA?EJIdBq@d@G\\UvDaBPK~Am@vAm@n@UHAbBw@bBi@hAg@d@Ud@C`@MXFPJX`ARXLZJ^NTV`ALXZh@J`@JT^t@n@`A\\d@P`@NPNZPj@d@v@^x@XVR\\ALIHYJi@NQPk@Zc@La@HsAd@",
+"average_heartrate": 141.7,
+"average_speed": 2.815,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15739610097,
 "name": "Zwift - Coast Crusher in Watopia",
 "distance": 35418.6,
