@@ -20713,5 +20713,35 @@
 "average_speed": 7.651,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15818714312,
+"name": "Zwift - Jurassic Coast in Watopia",
+"distance": 20057.8,
+"moving_time": "0:42:26",
+"type": "VirtualRide",
+"start_date": "2025-09-15 11:51:42+00:00",
+"start_date_local": "2025-09-15 19:51:42",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fx_fAewbz^t@nATtA]lDy@nCNnAtB~@rA_@tA^x@a@d@uAjB{@T\\O`BRb@f@E`AmAb@M\\LaAlBKh@Lj@lAtA^Wb@oC~A}AaAyA@yAy@}@@k@l@s@TmAlBYlAn@ZbBc@pBlArBv@]F{A^y@zAW|BsB@o@[k@_Cm@SYAi@d@uAWqAk@c@wB]MUP]dDeAT[Ca@a@O}Cb@Oe@RWhB_@~A?xBd@\\b@Uv@B`@j@z@j@f@xB\\`@MPc@oCeDJm@n@EdAt@pAk@tA`@`@[@iAn@QfBhEl@@p@u@Z?zAzDhBz@z@~AzBBbDs@fAiAn@_ChAeA`@qAEeA{@aAcAuCsBsAoCf@iCe@kBTgAqA_D_@Fe@j@M`Ed@pCcApBKp@m@Ai@iAq@yAGmBpAk@DcDqAeCQMg@dDcB|Cc@lAwBd@YlE`AdDWhBm@rBeCt@[|BPTZ_@bFPx@nBKp@s@xBk@f@N`AlBJ~@}@tA}ANaBa@c@JI|B\\|@NpBkAtDf@pBl@lAd@Xz@WFm@SgB`A_A~AIjBhAXdAkAp@GZb@xAmA|BNt@z@Rv@k@Z{AlBkAFmAZi@d@ObDF|@c@@yATu@q@eAR]nA@`@XZz@h@JpEmD@yBuAm@}@yBIw@Tu@rAqAxAe@`@uCl@_AfLmGd@uAAkDX]~B]dAy@`@aBUiCJm@dEoEz@UfDTbGtCfDi@~@Bt@d@hC`DfAZv@o@dAiD|@sAfFe@bDwCjCLdEoArAVtFtC~CDz@]x@uA`@wB\\{FjA}BfC{AzBW|@VtCrBlACt@cAjAyF|AmAl@cBfDsBrCFtDWv@i@h@iB`@UbDjA~@@b@e@ZeC`Ao@z@NBjB~@Vn@p@`Fc@|BsBv@Y|@Dz@n@xA\\v@a@XaBrAw@nCZvCaBrARH~CfA^rAi@|CyDlAm@tAd@`A~B`AnArCd@rCjB@r@kB`AcAvB^pBJpCZp@bA\\tE?dARRd@@zATd@fDD\\PdAnBfAMpB{A`Ex@j@v@ZdDd@XlCR^b@x@jDvCxG|AzFt@|@n@Bh@]VmAsAqCJaByBkAB_Av@}@dBy@jCD^b@Bn@aBhFO`BD~@r@nAfGlGbCfD^tAAvEZzApB`A~HKhHvB",
+"average_heartrate": 123.8,
+"average_speed": 7.878,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15818859178,
+"name": "Zwift - Climb Portal - Volcano in Watopia",
+"distance": 3557.6,
+"moving_time": "0:14:37",
+"type": "VirtualRide",
+"start_date": "2025-09-15 12:34:58+00:00",
+"start_date_local": "2025-09-15 20:34:58",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "fj`fAaf}y^n@jBv@hBLl@?LENGJm@j@IJI\\Gl@MZm@d@_@^_@r@OZQj@Ep@K\\m@`AeDfGq@xA_@h@WReAr@G@eAn@MBUPMBKH]Pg@ZCD_@V_@`@E@qAzA]VGHe@Tc@BEBmA?CCwBCCCm@ACCg@CCCSAiAAg@BEBQBQHg@HSJy@F]GKGe@[KKk@UwAA]@GBi@BGBcA?GCO?QGG?a@I}@a@]]Ys@]{AY}@s@oAo@y@KIGK}A}AGCIIEAMMGAKIMI[GCCm@CCCc@?EBM@k@j@a@n@]b@YT[Pw@ZoBj@uCjAg@F[@u@MgAe@IA{Au@m@Q[QYIa@SUGiAi@[IMIIAc@UaA]]SWGWOKACCSAS@MNAJB|AVpCX|A@n@",
+"average_heartrate": 130.5,
+"average_speed": 4.057,
+"source": "strava",
+"streak": 1
 }
 ]
