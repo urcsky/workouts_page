@@ -20743,5 +20743,35 @@
 "average_speed": 4.057,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15853464472,
+"name": "Zwift - Climb Portal: Hardknott Pass at 100% Elevation in Watopia",
+"distance": 8540.5,
+"moving_time": "0:34:08",
+"type": "VirtualRide",
+"start_date": "2025-09-18 12:10:13+00:00",
+"start_date_local": "2025-09-18 20:10:13",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "`h`fA{j}y^tBbGv@lBJd@?ZMTq@p@KZGh@IZQTu@l@i@z@_@bAKz@K\\c@p@qCjFmBdDYf@O^U\\UTeAn@KDKHOBk@XK@OHYHa@FGBe@BEB_@@CDm@@[A?ESAs@?G@ADSBABO@ABU@CBK@m@\\]XGBOPIBQTKt@GLSBABO?GBABM@ABOBGJC@EJAJHX?JURIDABG@ABMBABG@ABG@ADOBABI@ABU@ABI?ACe@AACO?ABQ@MNMXOBABU@ABK@ABGBGR@JLf@BZAJGFWTE@IJKBABSHKJ_@NIJG@UPKBKJKBABa@P}@n@k@p@kA|AcAbBKLGBMPOHIJMBKHK@ABQBMJa@HCBc@PKHKDGHw@h@QHQ@w@A]@[LKJKBABG@IHKBQPKBIHWJKHQBCBKBABM@ABYBABS@ABSBABm@?QBABI@MA?CKAEEQCAC[AAC_@?ABG@GRDLHHB?@B\\H@BH@@DHB?B\\^BLAXI\\QXOHS?ICQKc@_@OCACIAAEWCAC[?CBc@BADQ@AB[BABM@ABm@JCBW@CB]@CB{@DAB]@CBa@BCBM@CBi@JCBK@CBK@CBSBADK@QHq@RABUFQLG@ABWHMHKDCBUFEDYHCBS@s@?GBW@EEMg@MMSKa@Ia@BUJSLMPITAR?TDTJRNR^NVDJ?VETKXYHW@a@JCr@ALCZ?LCdAa@jB}@r@WrBk@~@M`@AhBSlBc@f@Gh@@f@PfAl@f@KTa@Jc@Ig@Y]gAm@^UzAV|AMl@Mj@Oh@UpBoAj@Kl@Bj@Id@W`@]`@UpBs@`Ao@tBcDp@y@p@u@z@i@xCeBz@k@P_@Ee@Ke@X]d@KZc@j@Gj@@j@Mh@Uf@YVsAl@Sf@[Lm@^e@d@_@f@Yl@Sp@Mn@Ep@Fn@A|ASj@Mh@OjAe@`@Uz@o@VWr@yA`CeEhC}ELMPGPBNHJNTp@VfATl@JNVL\\Fj@KXMHKL[Nm@FOJG~@ANEf@]LGP?h@VRVNn@XfC?\\Mx@?NBjACNIHKBw@?OHEFKZCTCl@@f@@JJVRRHB^^bAt@XVNH`@JL@PAj@UNILC\\QLCh@YhA[LDLFPVDNENODmAFg@Le@NQNCTJPT@h@MTAnAHv@Jb@Bb@C\\GjAa@`B_A`@c@P[Po@",
+"average_heartrate": 124.0,
+"average_speed": 4.17,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15853706309,
+"name": "Zwift - Climb Portal: Hardknott Pass at 75% Elevation in Watopia",
+"distance": 3501.3,
+"moving_time": "0:22:55",
+"type": "VirtualRide",
+"start_date": "2025-09-18 12:45:55+00:00",
+"start_date_local": "2025-09-18 20:45:55",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "bj`fAif}y^jAbD`@z@Jj@?LCNIJs@r@GLKz@IZIJo@b@STc@r@[x@I`@Gl@O^}@zAqBvDwBtDi@fAUXqAx@}@d@wAb@Q@ODW@EBY@EDS@w@?SACEYAi@@CDQBABO@ABW@ABK@EFG@ABSHKHIDONIBOPGBQTOv@EJIBI?ABYBCBK@ULINCJ@LFN?JWTGBKHKBABI@AB[JABM@ABm@@UAACM?CBO@ONOXKBCBS@ABG?MFEHCPDTJ\\@TAJ_@\\MFWRKBSPI@MJGBa@Vc@RIH_@P{@p@g@j@eAxAKJ{@xAa@b@IBOPc@NCBOBIFE?GDYFOJMBKHQF]Ze@Z_@Jy@?CA[@g@RsA|@KD]PI@KFE?CBK@IDe@FABQBCBk@?UBIDOAACIAEEQCAC[AAC]?ABI@GN@HDJLH\\H@BH@@DHB`@h@@LE\\M`@MLKFK@KAQI?CEAUSa@SIAAEWCCCW?CBM?WBADS@ABWBABO@CBM@CDYBABY@AB_@@CB}@DAB]@CBU@KDO@CBQ@CDe@HABM@ABSBCDI@QHQBMJQBWNMBWPMBs@^C?",
+"average_heartrate": 127.0,
+"average_speed": 2.546,
+"source": "strava",
+"streak": 1
 }
 ]
