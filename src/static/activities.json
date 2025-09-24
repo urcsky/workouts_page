@@ -20715,6 +20715,21 @@
 "streak": 1
 },
 {
+"run_id": 15917979645,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5504.1,
+"moving_time": "0:34:47",
+"type": "Run",
+"start_date": "2025-09-12 12:16:21+00:00",
+"start_date_local": "2025-09-12 20:16:21",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "iwb~Ci{|vUYZw@bAKRi@l@q@dA_@`@m@f@wC|De@j@q@d@qAtB[\\QNo@~@Ub@Qf@Wb@MBg@[k@w@[]WQiAiAc@YIMUs@K}@E_AHy@XeB@_AOo@K]Ye@CKCYQeAG}@GYGOS[EUa@o@COEEIAUDYJ[@k@Ek@De@@ACGa@Oa@JIBWQNe@Na@?[HCAAGESFADIvCs@RINONYDe@Ga@ISKMQIOEO?{@Nu@TkAVURIREPAXF`@PXHD\\LT@vA[rA]\\UNe@@c@Kg@GIUOOEW?a@F_@LsBf@QHS\\E^B^BJLRLLTHZDTErA[jA[TSN_@BYGq@SWOIa@Ee@FgCj@MF[TKREZ?VDVNTTN^HT?`Du@RKLML[B_@AYK[QQWI]C_@F_Cj@_@LUXGPC\\B`@LTNPPHb@Dd@K^E`Bc@TKV]H]@KCYIWMQYO[EK?a@HI?K@QJaB\\SJMPIXG`@Jd@RVFF^JZ@@@E@AHDLJ@`@K`@XRBTHBj@NFtCK^KNAHHH\\LXb@j@BH?XH~@FVB~@HPLND^HPNNJh@Ex@@x@Ch@BL?ZG~@ER?f@D^FTL\\RRA@L?HEPg@r@cAHOd@S\\]d@{@r@sAJOb@aA",
+"average_heartrate": 137.4,
+"average_speed": 2.637,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 15818714312,
 "name": "Zwift - Jurassic Coast in Watopia",
 "distance": 20057.8,
@@ -20771,6 +20786,21 @@
 "summary_polyline": "bj`fAif}y^jAbD`@z@Jj@?LCNIJs@r@GLKz@IZIJo@b@STc@r@[x@I`@Gl@O^}@zAqBvDwBtDi@fAUXqAx@}@d@wAb@Q@ODW@EBY@EDS@w@?SACEYAi@@CDQBABO@ABW@ABK@EFG@ABSHKHIDONIBOPGBQTOv@EJIBI?ABYBCBK@ULINCJ@LFN?JWTGBKHKBABI@AB[JABM@ABm@@UAACM?CBO@ONOXKBCBS@ABG?MFEHCPDTJ\\@TAJ_@\\MFWRKBSPI@MJGBa@Vc@RIH_@P{@p@g@j@eAxAKJ{@xAa@b@IBOPc@NCBOBIFE?GDYFOJMBKHQF]Ze@Z_@Jy@?CA[@g@RsA|@KD]PI@KFE?CBK@IDe@FABQBCBk@?UBIDOAACIAEEQCAC[AAC]?ABI@GN@HDJLH\\H@BH@@DHB`@h@@LE\\M`@MLKFK@KAQI?CEAUSa@SIAAEWCCCW?CBM?WBADS@ABWBABO@CBM@CDYBABY@AB_@@CB}@DAB]@CBU@KDO@CBQ@CDe@HABM@ABSBCDI@QHQBMJQBWNMBWPMBs@^C?",
 "average_heartrate": 127.0,
 "average_speed": 2.546,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15917979636,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 5023.7,
+"moving_time": "0:31:44",
+"type": "Run",
+"start_date": "2025-09-20 13:04:49+00:00",
+"start_date_local": "2025-09-20 21:04:49",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "cwb~C_y|vUeAzAq@r@mC~DiB~BYZs@hAw@bAg@h@o@~@s@z@m@z@Ud@UTaAlAOVUVs@`A{@|@aAvAg@z@a@l@m@n@YPIBEDH?p@i@LOdA_B^q@^_@nBqCpA}A~@kAPYr@{@n@iAlA}Al@m@h@o@bA{Ad@i@d@u@bAmAz@sAfAyAx@aA`@o@",
+"average_heartrate": 134.5,
+"average_speed": 2.638,
 "source": "strava",
 "streak": 1
 }
