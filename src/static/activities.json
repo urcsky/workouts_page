@@ -20848,5 +20848,20 @@
 "average_speed": 6.104,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16010174682,
+"name": "Zwift - Climb Portal: La Laguna Negra at 100% Elevation in Watopia",
+"distance": 19569.8,
+"moving_time": "0:58:35",
+"type": "VirtualRide",
+"start_date": "2025-10-02 13:37:41+00:00",
+"start_date_local": "2025-10-02 21:37:41",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "nh`fA{i}y^~CpIJd@?\\gAtAUpA_Ax@c@l@k@pAU~AyFdKgDvFoElGg@~@s@pB{DhOc@jAq@r@oAp@oN~FuDrBg@h@g@x@qDlI[hCWvH@dA\\l@RNf@DbD?nBS`Cu@r@Cz@P`@TJPAZK\\_AlAi@d@_Bx@Sj@Eb@JjBXdBlAlDLr@XnEkA|@gA^m@ByASk@FSR?l@TXh@TzC|@h@f@bAfB\\`@x@DbB[~@At@XdAt@^HhAAhAUvBs@pAgANg@f@UnGBVKn@cApE}Ih@k@r@LFNIh@wAhEiApJi@jHILcBjAeA~Be@p@{An@o@n@k@~A@^Rb@f@\\X?ZUb@w@`@Sp@GTZD|@FXLP^Bz@g@vAuAZo@JAVPFXSn@m@jACZBPPPXAr@q@X@`@Tp@p@d@rBn@j@zA^rI|ArDN`HCh@Hf@^^lA\\b@r@T`BNLLNj@N`BRp@JNjAZhDXpBb@pAh@t@j@`IdIjC|CfAdBrBvEdBjFxBjED`@e@z@Fh@j@b@tBbAn@j@jAtA|ExGxAnCHj@DfBLj@Xb@j@b@f@TjCt@Xn@pAbAb@bAWROn@Dj@PZd@ZTDX?l@UV_@Hc@?YOe@u@g@e@?WLKGk@kAaAo@Wi@gAi@sBk@s@o@S]Ic@GoBKg@{@eBkGwImAqAwDyBMe@b@y@?e@sCaGgAiDqB{EkAmBsAaBeJwJaBiAsAi@iIiAUUK[UqBSu@WMwAOw@WSWi@wAUU}@SqHDeEUgKwBk@k@g@uB]a@mAi@a@L_@`@U@KS@W`AyBA]QU[EoAvAaBrA]GO[GaAS[_@E}@Xi@x@[T_@KY[M_@Bc@`@_An@s@~Aw@j@y@dA{BtA}@PYd@mGfAkJL_ApAoDF]I[u@Si@b@gGbLWNmAGoEFUJg@`A}@p@yBv@mATqAEyA_Aq@Sw@BkBZw@KSO}@cBc@i@o@]sDkAI[D[VMZCvAP|@Ev@[jAy@H]YaEQ{@w@sBS}@]}BC_AL_Al@k@x@]tAwA`@u@B]M[WSYMy@K{@DmCx@}@HyD@_@AYOYs@@yATcHH}@XuAhDuHbAwAnBoAjQqHz@g@p@m@h@sAfFmRj@iAtH}KpBqD",
+"average_heartrate": 132.4,
+"average_speed": 5.568,
+"source": "strava",
+"streak": 1
 }
 ]
