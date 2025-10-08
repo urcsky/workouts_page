@@ -20893,5 +20893,20 @@
 "average_speed": 2.96,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16074445137,
+"name": "Zwift - The Magnificent 8 in Watopia",
+"distance": 12631.8,
+"moving_time": "1:03:01",
+"type": "VirtualRide",
+"start_date": "2025-10-08 12:08:27+00:00",
+"start_date_local": "2025-10-08 20:08:27",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "hhefAuq}y^jA~AxAtAx@\\|AT~@d@n@p@tAdCz@fAhAx@hAZrATnD\\~AFzBAfBSh@OfJeDh@KzAGtB\\TFbAf@hATjAFhAAl@In@DPNHX?ROn@BXLNPLl@Ax@a@j@?z@NhAb@JP@PGRKNc@P_BCc@F_@h@Af@P^nBbAbAx@f@n@n@hA`@jADV@n@Er@g@~C?b@BLXZv@^^Z`@|@Jd@?Ze@tAA^Nx@ERURi@T[@oC_A_@C]L[j@e@^SZARF^Xf@TTvA`AFN?j@Zv@ALOHOAm@]c@@[XEN@Rn@rA?PMNw@ZOLGf@J|@HN^XpBl@LLDj@GvAPtAT|@X^zA~@^\\z@~AP~@Pf@r@d@rAZd@TZ\\b@x@PJd@LlAF`Bl@^D^Ix@c@\\KlBBp@_@v@?tAZZRRl@JxA^l@ZTb@F^Oj@a@t@Iv@@PD\\ZFN?x@ObBaAfFo@tEu@jE]bB[`AEZ@\\HZXb@lDvDdAzAP`@rB|BZdAp@nA`A`AlAp@f@l@h@zA^vA\\`CILIEOcASq@a@}@a@e@oB_AqAQg@YoAIMEQOq@kAuAcBmDmCaByA[AKFENDPr@d@f@h@bAt@JTNh@CXO@IGQ}@KOaBo@e@SiBiBo@]W@QPANFRh@VPNtAnB|@^\\|@hAdAh@lAPp@GLQEEu@GSU[k@a@g@Qw@g@{@]]?MLKb@KdBXvB^~A?^WvBTnCKn@[z@UvAUhD]bCFZJJNBPGNSBuAFk@RaA`@eAl@e@lDsAPQZw@FGND?JSj@i@r@cCtBUb@Oh@Mx@GxDH`ANd@Ff@GZ[d@e@\\k@Ao@S]@YHo@@wAOyA_@c@CSFEVJPj@Jf@R`CxAbBX`@Z|@fANJXHl@@z@K^Uj@kAN?@JOZc@h@Ud@MLg@Vg@Rq@HYAOGu@u@g@]{BGe@IcAS}Ao@QBGHCPNTt@RVNbExAd@\\~AnB^V\\Jh@?`@I~@GDBxA?`@Oh@m@`@Ux@?RDDFALODaACWZg@|@i@Zw@FaBp@y@L_@?}@KuA]iBiAi@c@c@i@]COJCTHTvAr@~@x@`@d@v@hAl@j@v@\\|BH",
+"average_heartrate": 136.2,
+"average_speed": 3.341,
+"source": "strava",
+"streak": 1
 }
 ]
