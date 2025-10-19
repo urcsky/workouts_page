@@ -20970,6 +20970,21 @@
 "streak": 1
 },
 {
+"run_id": 16190795849,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5058.9,
+"moving_time": "0:29:51",
+"type": "Run",
+"start_date": "2025-10-17 12:26:13+00:00",
+"start_date_local": "2025-10-17 20:26:13",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "uxb~Cqy|vUYR[\\OXYVqAtBo@n@]^iA`B_@`@kB~BGPW^kCbDU\\Ob@q@tAi@n@UPUZs@t@aAtA]p@sC`Dc@XUB]Nc@\\]HeBVq@BmBCeAF{BCq@CUOEK[qBYcCEm@QmA?UKg@KeAKo@KcAA[G]EoAQeAAi@]aCEo@W{BA]S{AK_BIe@Eu@OkA]iBUgAo@cCY{A_@qAMu@Om@Ku@Ss@Ga@e@gBCIBKAGF_@LOd@OXO~@YPKh@SZE~Ae@TU\\SHIdA[j@a@|Ak@vAc@lBw@r@Ud@]ZMb@Ev@a@l@SXGl@Yd@OdAc@^UTIjAo@rAYHKTSr@YNCh@Y|@ShAg@RMHCd@Ad@M~AaAZGr@YVGJGz@WVOb@S`@MZUTM\\CFDFTD^HPDn@FHTnARh@@d@BBFr@d@fBF^Sh@u@^MLU`@g@`@o@b@YXAPDL@XFNNT",
+"average_heartrate": 142.9,
+"average_speed": 2.825,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 16187417107,
 "name": "Zwift - Climb Portal: Rocacorba at 100% Elevation in Watopia",
 "distance": 25198.4,
