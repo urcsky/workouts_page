@@ -20968,5 +20968,20 @@
 "average_speed": 7.494,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16187417107,
+"name": "Zwift - Climb Portal: Rocacorba at 100% Elevation in Watopia",
+"distance": 25198.4,
+"moving_time": "1:25:43",
+"type": "VirtualRide",
+"start_date": "2025-10-19 06:24:52+00:00",
+"start_date_local": "2025-10-19 14:24:52",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "nh`fA{i}y^bDzIFx@cAjA]bBcBdBc@fA[dB}EtIFlEIp@aEvFIbDRfD^lAMl@iEhGYx@]jBqLpO_AlBgBpGGjA`@bC?nAWpBi@tAsDxEy@Lq@a@c@AaEl@oB~@aEfDa@zAVxFM~EUb@USM{As@_Bu@EyAzA_@HKq@TUB_@MS[Aa@VStAiA~ADn@l@HFd@wC?WSZsFS_AW]aAOeBR}CmCk@E_@\\f@rGYzKFhAjJrTRfBIbIs@bFInEi@jEDzE{@hDJxDy@vDJlBOdB\\^d@O|A_E`AcA\\_Ad@SbBLxAlAz@R~CmCb@DFv@yGjHI^r@d@h@FbAURP`A~B`ApChAnDl@x@xBxAVtAw@jFTt@`Ap@j@vElBdAzCCtBzDv@|GrArANnAJjIwAxHJfFVv@p@Tr@El@]Ra@`@qD|AsFJ{AQiCHYXDf@pB|@\\|DDjGYn@TvBrC|ArA`@xARL^?n@i@lINlAb@zDb@zFjDdFsA|BGD`@y@NWv@~@~An@|D?xAnAdEg@vADhAVTf@@tC[pArA~@Nh@k@^yAhAy@vD|@n@Gj@_BV_CQUg@@g@ZQp@{@TsA_C\\{@M{@k@g@y@EaAr@Kr@Lj@dAj@bAStA~Bh@@d@[d@_Ap@CHl@w@~CWXeE}@a@Fw@l@y@|B_@JiCgBoDXUUCi@f@_BkAoEEoBc@sCgAaCRa@z@e@M]{CNoDjAc@E{E}C{GoAwIOq@f@WAc@wA}FcGuFNcFC}@Ya@cBUW]L?pFaBfGa@hDq@n@gA@_@OO]K}FtAgHI{IWyAgA{@eAyHiBiDoDE}A}@m@wEw@m@[cAn@uDEiBQc@wBuAm@y@uBuFa@kBy@cBc@IiANe@GW[|EiGv@m@Na@Gc@[Uc@LiC~BaAUsAaAoBOa@PqB|CaAnCW\\c@EHuBIwBr@qCIyDx@iDEqFj@kELaFr@{EF}HSeBuAqCwDeK{AuCI_BX}Ji@iGF]x@AnCdCbCQv@Z^|A]~ERT|BP^ARWI_@s@_@Ba@`AoA\\cB^IRVY|@F\\\\H|BgBp@d@f@zCRPXGNu@LaFWgFZkAlEqDvB_AvDc@fAb@r@Ix@s@~CyEZmANoB_@gFnBoHfAuBfLeOr@}CpE{GBy@Yw@QsB?aEPo@hAeAfBoCNgAOcD",
+"average_heartrate": 135.2,
+"average_speed": 4.9,
+"source": "strava",
+"streak": 1
 }
 ]
