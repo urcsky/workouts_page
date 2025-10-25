@@ -21028,5 +21028,20 @@
 "average_speed": 2.837,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16252091755,
+"name": "Zwift - Three Little Sisters in Watopia",
+"distance": 27690.2,
+"moving_time": "1:00:12",
+"type": "VirtualRide",
+"start_date": "2025-10-25 13:04:04+00:00",
+"start_date_local": "2025-10-25 21:04:04",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~q_fAq|~y^nHuFh@w@@i@a@s@aCeBFw@jC]dE?\\f@[rAw@L[g@HeHd@mA^@Vf@~B~IlAV\\c@?w@aCmJ?kAdG{@zHiGjC}@jLf@fAd@lApBLvCoCdDm@|A@bKe@TcEcA{EdEsNnBaFxAo@z@MlB@vB^bArADhGkBlFw@xES|XlGv@Ut@mBvAgHrOcBx@a@Cc@]IuKpAcAIS]Po@f@]bK{AtAw@uHwPJsB|AqAdAJlApAbD~Kd@r@hJAnAc@ZmABgJ`AcCrByJBcRy@o@}AHyN~D{BqHv@y@tDmAbo@ePS_DN}G{EkFoAsD]oCh@aIrDcArB}AEaAsB?Qc@~By@`@iBSy@yAOiDnCg@G}@wAaBESl@n@~@Ux@IzAsFVi@z@KrAaBx@k@nBeAP_@y@hAqB_@sBpA_A[qAqBkAuBTs@r@RjCi@b@w@e@kAeDhA{Do@gENeBzD\\dBmBkAkDcA[iDdBeBHXwGc@e@cBMkARgCxCuBh@oCNkEeAqBtCsCZeD~AMn@zCf@fDpA`DyAlCn@Fd@o@j@eBFaDdAoEc@c@VE`@\\\\rCR`AnAxBUpBb@fCi@|BnA`ArCz@bAFn@a@xAiAfA{AxDgE`AiBGu@wAoBcAmAmDo@Gq@p@k@EeAeDq@c@c@XCnAWNwA]iAl@wAy@q@N?|@bChCi@t@kB[gAeAWk@ViAWa@yBk@_DDoAd@Bx@z@JrBc@V^wD`BSb@X`@rCt@X`Ag@rBJj@dCr@d@|@Mp@{BbB{AXg@vCo@H{@aB`@kBO}A_A{@q@KaBZiApCBx@|@|@KbA`AtA_B|Ag@tCa@B_AgBBe@fA{Bs@S{BbBOc@L}Aa@e@kB|@mApBcB]mA^mCe@aA`Ai@`CLpBnAtBJnAfBzBz@tG?hDa@vDuDvI_@bDd@lCrBjCc@nFnAvLIXgBVQj@Vn@tBtA^|@aAxAyG`F_@hABfCtAtElBzBnDxBdHtBbB`AvEvK?d@WH_B}AwA_@oA\\o@fA^pCzFhQiAbBWvAmAfAgAhC@n@jBjF`@\\lACtA{BnCm@t@\\x@jEIzDiBh@MpC~CtC`AZ~FoBrBt@|DyAf@i@n@uBtDuDXeCYkCuAuBmA}D}AiAsDy@sBMsKfAkAv@i@pAcBlB?z@bBlIpAbB~AFfAmBdHyA",
+"average_heartrate": 127.1,
+"average_speed": 7.666,
+"source": "strava",
+"streak": 1
 }
 ]
