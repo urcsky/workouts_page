@@ -21058,5 +21058,20 @@
 "average_speed": 8.274,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16312616361,
+"name": "Zwift - Watopia's Waistband in Watopia",
+"distance": 29551.5,
+"moving_time": "0:57:06",
+"type": "VirtualRide",
+"start_date": "2025-10-31 14:10:31+00:00",
+"start_date_local": "2025-10-31 22:10:31",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "pq_fA_{bz^aC{It@yE?gAuB}Et@eA`DAl@wFh@WvADxDbBVf@@jBvARf@d@cAbD\\v@j@TzH]xAoAn@oAAo@cAkBCcAxCwCT}AMmB}AsEyAgBcD{BUsA^aCp@}AnDqAnAaBLaBQcBmDaES{@|B_CQoCrIiTf@mEOqAo@}@}GmCcAoBKmBhGeNbAwDrCy@rCv@|@Er@e@xA{ChDOtBiA`@iBEyA_DmFd@cAjAo@fBP|FfJ|@j@t@It@o@tAwEz@Gz@ZfAvA@bExCjBG~AaC~@o@rAAtKsA`Sn@nAhCpC^bBb@Z|Ff@`LyCbA?p@j@r@pEb@pLOdCkBdBWlAV|Ft@jCbBv@~BM~Ap@xDh@|ApAb@vCvAx@dAcApCyIh@k@l@KfCtAb@tCrC@zAZz@hAt@xBLlCYbBu@t@gKnFm@bAWdCqBv@uAzBFbAj@~AfB`AJlB~@bBi@vBiBVGt@^R`BCJd@cB~A_EfAUx@_@lHl@dDhAtCvEhFUxGPzCch@bMaJlCcBbACp@VdAvAjE\\JrN_E~AGl@l@GzQyAnH{AnEGzJWn@aAZyIFmAuBeCuI{@iAu@]aAFyAdBGfAVrA`H|NoAl@cKxAu@p@Cx@b@Zz@@hJqAj@?TZeBj@eK|@WN@j@tBXrE]zDp@f@xDhB`CZjAc@bAeB\\Oz@hAtCfBNPj@e@`@}BH?b@`A`@Mp@y@@kBq@_BXm@VyAhBiDnCs@|BaA|H?|Ch@lJKpCe@pCwF~KyBnBqA~EwDvBsANmD[}@TS]l@[nC]Cy@iAUeFfBgA_@cCsBQu@LeBzA[Pe@DkE]gCi@y@o@SyCt@u@dBk@TkAWqBqGv@uB`BeBRqA`AiAFm@aF}Ny@aEZ}@dAk@`BX|A~Aj@IDk@_DiI_AuA}A_AsH{B}EkDeBiDk@mD`@gCtH{Fh@eAYy@qCcCHi@lB]H[oA}KAiBd@yC_CgD[_C^uCpDgI`@eDF_DUaEe@aCm@mA_Au@IuA}@}@_@cCRcBnCuI^_FYkAy@oAkDy@y@oAoB_Iv@iGkByDKy@t@_A`DAZyE^i@`AOvE|Aj@p@HtBnBb@Hb@eAnCTn@j@\\lBDrEa@fCuCBs@aAeBIiATm@bCmBV_BGyAiBkFkCsCmBkAUmAb@oCl@sAfEcB|@{AHcBUaBkDwDSq@|BcCUkBPeA`JyU",
+"average_heartrate": 130.1,
+"average_speed": 8.626,
+"source": "strava",
+"streak": 1
 }
 ]
