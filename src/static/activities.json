@@ -21060,6 +21060,21 @@
 "streak": 1
 },
 {
+"run_id": 16332218765,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5382.2,
+"moving_time": "0:30:01",
+"type": "Run",
+"start_date": "2025-10-29 12:01:52+00:00",
+"start_date_local": "2025-10-29 20:01:52",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "}wb~Co{|vUGLUVS`@cAhAc@p@_ApAcCrCe@r@g@l@s@jAa@\\Yd@SRm@~@e@`@y@rAe@l@Qp@wAtAk@v@c@`@u@bA]p@U\\SVm@l@k@t@wA|@a@Rm@Pm@Ju@Hy@Bk@AsABaAC]@y@Eq@@K\\?PFJ\\PLB~@?\\Br@AnADVEpBBl@K~@Kr@Qd@Yf@S^Yh@g@d@o@`@m@X[hA_Bl@s@f@u@x@cAf@y@rCmDdBkCd@a@P]Z_@f@w@j@s@f@u@fBcCHO\\_@zAqBb@e@HUbByBdBeCJKf@WV[Zq@~@qAXk@VUxAcBRYN[t@y@^o@^]^MTW`A}A^e@DMFGD?@ACCC@OJq@z@y@nAaApA_A|@a@t@q@`Aa@b@IN[`@a@r@eAjAo@dAw@~@Wf@[^Yb@eAhAaAz@y@hA[Xa@f@Yf@e@j@sAhB_@b@s@fAy@dAe@t@a@f@}@|@Y^GNMHMPIJ?DF?HGf@k@",
+"average_heartrate": 145.9,
+"average_speed": 2.988,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 16312616361,
 "name": "Zwift - Watopia's Waistband in Watopia",
 "distance": 29551.5,
@@ -21071,6 +21086,21 @@
 "summary_polyline": "pq_fA_{bz^aC{It@yE?gAuB}Et@eA`DAl@wFh@WvADxDbBVf@@jBvARf@d@cAbD\\v@j@TzH]xAoAn@oAAo@cAkBCcAxCwCT}AMmB}AsEyAgBcD{BUsA^aCp@}AnDqAnAaBLaBQcBmDaES{@|B_CQoCrIiTf@mEOqAo@}@}GmCcAoBKmBhGeNbAwDrCy@rCv@|@Er@e@xA{ChDOtBiA`@iBEyA_DmFd@cAjAo@fBP|FfJ|@j@t@It@o@tAwEz@Gz@ZfAvA@bExCjBG~AaC~@o@rAAtKsA`Sn@nAhCpC^bBb@Z|Ff@`LyCbA?p@j@r@pEb@pLOdCkBdBWlAV|Ft@jCbBv@~BM~Ap@xDh@|ApAb@vCvAx@dAcApCyIh@k@l@KfCtAb@tCrC@zAZz@hAt@xBLlCYbBu@t@gKnFm@bAWdCqBv@uAzBFbAj@~AfB`AJlB~@bBi@vBiBVGt@^R`BCJd@cB~A_EfAUx@_@lHl@dDhAtCvEhFUxGPzCch@bMaJlCcBbACp@VdAvAjE\\JrN_E~AGl@l@GzQyAnH{AnEGzJWn@aAZyIFmAuBeCuI{@iAu@]aAFyAdBGfAVrA`H|NoAl@cKxAu@p@Cx@b@Zz@@hJqAj@?TZeBj@eK|@WN@j@tBXrE]zDp@f@xDhB`CZjAc@bAeB\\Oz@hAtCfBNPj@e@`@}BH?b@`A`@Mp@y@@kBq@_BXm@VyAhBiDnCs@|BaA|H?|Ch@lJKpCe@pCwF~KyBnBqA~EwDvBsANmD[}@TS]l@[nC]Cy@iAUeFfBgA_@cCsBQu@LeBzA[Pe@DkE]gCi@y@o@SyCt@u@dBk@TkAWqBqGv@uB`BeBRqA`AiAFm@aF}Ny@aEZ}@dAk@`BX|A~Aj@IDk@_DiI_AuA}A_AsH{B}EkDeBiDk@mD`@gCtH{Fh@eAYy@qCcCHi@lB]H[oA}KAiBd@yC_CgD[_C^uCpDgI`@eDF_DUaEe@aCm@mA_Au@IuA}@}@_@cCRcBnCuI^_FYkAy@oAkDy@y@oAoB_Iv@iGkByDKy@t@_A`DAZyE^i@`AOvE|Aj@p@HtBnBb@Hb@eAnCTn@j@\\lBDrEa@fCuCBs@aAeBIiATm@bCmBV_BGyAiBkFkCsCmBkAUmAb@oCl@sAfEcB|@{AHcBUaBkDwDSq@|BcCUkBPeA`JyU",
 "average_heartrate": 130.1,
 "average_speed": 8.626,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16332218735,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 32433.2,
+"moving_time": "1:28:40",
+"type": "VirtualRide",
+"start_date": "2025-11-02 12:10:35+00:00",
+"start_date_local": "2025-11-02 20:10:35",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "|p_fA_x~y^F{An@oAvF_ElAyAK{@oCsBOk@LYtBi@mA{K?iCz@mD~BkClGwBxRqCvAiA~B{FjBwAbBg@hBEnBf@hAt@lFzGdD`@bH_Af[wIfBOr@^Jn@GhOc@tDwCnJGlKR|@t_@rGb@l@DlEp@j@t@U^iEjA_Cd@Qn@hAs@xGTfAf@h@`F|ArQtDjAS~@wAdBEDbB}AxEUrB`@tAlA|@j@[`@wArA}LdByD`BgApALNfAc@vBmBbDYtE~B`Cx@tAhA]lAaCb@iCGcOhAeDd@c@d@?x@~@^lAeAhJN`Jx@fDp@Zz@Gt@aA@{CbAiFJeFn@yD`BsB~@]j@Fb@bAcA`FJlAb@j@Z?fC}AvC{GzAkH`DoBMmE|BaKZ@Jp@aAnHp@jFhA~ChEzEqAvGw@~@{HzDqD@{Bc@y@NqB|AIxBbBdAtAArAeA|AcD~Ce@hIyExAyHiEaFkA_Dm@kG`A}Gm@cAvCoJdFyGv@o@fASpDt@`EKv@T~@x@TrEpAdDjAt@vCt@zEQh@h@r@`Cn@v@~@PhIOdDj@~AObDiBzAwDJeDmC_Dc@uATm@vAeAx@iDfBw@lB`BbARnDkBjBcBFo@{@{HnCgFTcE_@yAcDiENqEmCiEm@i@gDs@C}B_@s@iE{BgGqFuBy@kANuGrCcB~Dy@bGeDv@sBjA_CW}@o@Sm@IaEcAs@wLKgCFu@^e@xBhAfPShGbAbFgA|Dm@d@wBU}@gAq@uC[wJm@k@wADq@bAKpAZdCs@bBkCbBy@Lu@Qi@oAFoFUwBwBcAgGaJwIsFgG_BsFi@aHTqHfA_FtAyBlA{C@k@b@MrAjAdBCzBvBnCUxAwAGmCcCkC`CeDrAun@jOyMpEArArB~FvPeEnATRbBQlPgBbIeAlCGxIY`BeBb@oHFs@q@cDyK}@kAs@a@{@@}@j@i@nAVrC|GrN{@h@sK|Aw@p@Ez@zA\\zIoAfA?LTcBn@mK|@Ul@LZ|@JlD]tCDbCx@ZdDhBbC\\lAOv@iCx@d@nCYp@cASkCwCiA]e@\\qAdEm@t@s@k@mC}D_KbGaAjAo@c@_EsIgAg@gC?uAf@EtAd@xAnBjAL^wCfCsAgA}@O_@aB}@gAgA?{@v@O`A~AdAAfBzBrA{@t@?lAkCh@_A[o@aAuBaGgAgB}A}@iGeB_DeBuBkBcBaE",
+"average_heartrate": 126.9,
+"average_speed": 6.096,
 "source": "strava",
 "streak": 1
 }
