@@ -21148,5 +21148,20 @@
 "average_speed": 3.024,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16394829634,
+"name": "Zwift - Climb Portal: Hautacam at 100% Elevation in Watopia",
+"distance": 8574.1,
+"moving_time": "1:03:55",
+"type": "VirtualRide",
+"start_date": "2025-11-08 14:10:50+00:00",
+"start_date_local": "2025-11-08 22:10:50",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ni`fAug}y^`BpE^x@Hh@?XEJg@b@W\\GTGt@MVs@j@e@j@g@bAK\\K~@EPm@`AyCzFgBvCUb@KBCCMAKG]g@_@IOO_CsDg@cAe@k@_@U]ICCc@CCCe@ACCg@CCCQCCCGACCICKMMUGa@Ay@Dc@\\yADa@CoAM}@Kc@Sc@QOGAEEKAACKAUOOSUk@g@sBEu@KUW]GWGk@CeAQiAc@qAu@sBSUGC_@_@GACGEAQOEAEGGACEOGIKKCSOUKMKIAIKOCKIYIOKa@IACKAACi@KACOACC]CAEk@GCCm@CECk@?]EMESWDOPSd@]NGn@e@N[Ja@Be@@e@GkBAQO{@AYLy@n@oBNo@Dc@?SM_@MKSICC]KMIWCACKCCCOAACYCAC[GCEMCMIMCOQICa@c@{AgCKGE?CCKAAEYCCCQACCQACC_@CCEQAACOAACQCWUWm@OUICKKIACC]CCCc@ACCu@ACEg@CCCs@IACMCCCi@ICCKACCMAAEQCOIQCWQMCMIWKKIIAOKICSKKAMKQC]OOCKKUIg@c@w@mACAMSSMIEMCCCa@ACC_@CWSIMCW?[LsAAYG_@_@gAcAaCm@iAe@qAUy@YoACSMoBEUMUi@]QACCq@?CBE?CCQAUSICi@i@iAuAkAaBGESQKEQCCCSAk@?CCcBA[SWGe@AMGCECODQVc@Z]R_@Ji@Bq@A[Iq@g@_BKi@?i@FwACo@IUQUGCIIME]?KDOLOj@MhAMl@Wh@qAtB{@jBWp@YbAM~@MbBAtABj@DVNf@N\\T\\LJ\\RLBTPJNFT@v@MvACJIDGHIBEJARDNFJLFJ@x@AZJJHF@BBRJ^\\NRHTD`@BvAJn@JPRPNFLB@BL@BBVBXRDLBfAAtBBbAHh@^~@DL@PGROBCDa@FSLMj@C|@N~CJnAPhAl@jBJj@JjA?hAGdAId@e@pAEX?TNp@Xd@`@l@Pb@@TEPKLMBQ?UCCEYGACOCACKAACMEACIACCGACCMCAE[OCCWQIIGCc@q@y@aBOQCIGCEKEC_@e@GC_@e@{@uAmAaCs@}BIUYc@][GCQQICIIGC{@q@_@k@e@kAc@s@s@q@ICIIGAWSGAMMOGCE",
+"average_heartrate": 112.1,
+"average_speed": 2.236,
+"source": "strava",
+"streak": 1
 }
 ]
