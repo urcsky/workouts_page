@@ -21238,5 +21238,50 @@
 "average_speed": 8.263,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16523509017,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 6031.6,
+"moving_time": "0:33:24",
+"type": "Run",
+"start_date": "2025-11-20 12:13:12+00:00",
+"start_date_local": "2025-11-20 20:13:12",
+"location_country": "\u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "uyb~Ckx|vUWb@Y\\[d@kAzASRq@fAsBjCaAvAmBbCk@n@s@fAaAlAS\\MJQX_@b@m@z@]\\y@bAi@v@e@ZURs@jAMXKJgAr@c@Po@PiANu@Fc@@kAK}@HuB?QA{AAGGCI@u@Gq@Ae@Kk@MgACk@Gs@KUKa@Ca@QiAEi@Ms@K_CWsAIkAIi@As@YgBQ}BKi@GcAGe@AUGYGy@SiAEs@UgA}AqFoA}FGa@Oo@Q_Ac@_BCMBKFItAg@b@Yt@]`AWb@Sn@GRQDIrAk@j@_@`@IxB}@VEjAc@pBaAJCVAFKp@]j@QTKnAa@`Ae@\\IhAe@zCwAtAa@r@_@`@ONId@KjBy@p@ELGb@Mz@k@p@[\\WPERAZK`@S`@]f@SPEN@fA_@H@P`@D\\N\\@XFHDPLXNr@J|@p@zDC^A@G?BK`@Sb@HfAMl@UrEoANA@EPGXEh@W`@Kd@Q^GDIEGK?SHsA\\mAb@u@RYLm@Hg@Xq@Hk@N[Dq@Xg@Hi@Z]\\k@TcAx@_@ZKZSRCH?NBTHRZf@X\\lA|Bh@t@f@~@LLZDFHe@z@",
+"average_heartrate": 148.7,
+"average_speed": 3.01,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16524059733,
+"name": "Mission - Challenge 3 - Points Race",
+"distance": 18346.0,
+"moving_time": "0:35:38",
+"type": "VirtualRide",
+"start_date": "2025-11-21 13:00:32+00:00",
+"start_date_local": "2025-11-21 21:00:32",
+"location_country": "Forest Route 7N27, Calaveras County, California, United States of America",
+"summary_polyline": "e}tiFhko}UI`@C\\@r@Lp@l@~@N\\DxAEdCKlBK`@YVQ\\Gf@Ef@@z@Lx@Vr@d@^|ErCf@^dB|@l@LLCZON_@b@gBPa@VUj@Gj@F|Bn@fAJzC`AZB~T@xBEn@Dn@PnBfAt@RdPBr@CPKFQBUC}G?c\\B{GG}@S_@u@k@oQiLMGaAq@uCgBkBsAMc@Dc@hByFdAwD?SEOKOiBuA}@U]?aC`@y@?m@EiBU{@ScB_A_@Ea@LuAfAiJpIsArAKPU`@[v@e@~AK|@Al@Fh@Nb@R^|@~@vNhIV\\FPCl@YhAYv@KNOHO@a@EaC_Bm@Ua@C]LUb@sA|EWr@qBtGKNOCyCiBkDiBo@?mBI[LO`@Eb@?j@Fb@FNXp@\\j@FPBlAApAKhCEd@O`@c@d@Id@Ex@?f@Dd@XbAHPXTpI`F`@Td@Hb@CX[j@}BVc@LMp@GfDv@j@BZFjDdAfU@|BEnAPn@Xn@`@bA`@d@DzO@t@KJMBk@C_G?m\\BgHCi@ESS]eAu@}ByAmBkAsE{Cu@c@oA}@gC_BeAk@g@a@OEiAcAGS?QDSdDqKHe@?SQ]eBoA[O[I_@Aw@HqAVw@?m@EaDg@mBcAa@AOBy@l@sE~D}FpFc@j@s@~A_@xAIf@Cx@Jx@Xp@RZnA`AbAh@pDxB`Bx@hC|AJJFP@RIz@Sp@a@bA[N]A[Mu@k@oAu@m@MM?]LILQ`@iAdEiAhDeApDKHOCsHmEc@KsBC]@OFIJKb@Cd@?d@Nr@r@lAJ\\BnAAvAO|CKZi@r@I`@ExABf@H`@Tr@RTfEdCJJ|BnALJj@TZF\\CLEJMRo@ZwAP]f@Yv@DhCp@dAHrBp@|@TfU@jAEnABnA\\~@j@p@Xt@LzO@p@GLIFSAye@BaHCe@ESS[{AeA}ReMYW{CiBcAy@IOESFg@~BsHh@iBBQ?UEOMMiBsA]Mq@G}@HgAVyAC{C_@[Kk@Yw@e@a@EOBgBpAwI`I_B~AWZ[p@e@nAOt@Kx@?x@Hd@L^^l@z@t@lBdAjEhChDjBVTHLBL@TEd@WdAa@|@KHMBM@]E{AcAaAk@k@Ig@PYn@mAjEqCxIM?aIqE_@IQDqBIM@ULIZ",
+"average_heartrate": 130.8,
+"average_speed": 8.581,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 16524405344,
+"name": "MyWhoosh - You know I'm right",
+"distance": 18112.2,
+"moving_time": "0:37:11",
+"type": "VirtualRide",
+"start_date": "2025-11-21 13:40:54+00:00",
+"start_date_local": "2025-11-21 21:40:54",
+"location_country": "\u063a\u062f\u064a\u0631 \u0628\u0631\u0627\u0634\u064a, \u062f\u0628\u064a, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+"summary_polyline": "krmvCwippI]yFw@oSIoAQ{AyAcJk@}Ea@iC]}Ac@}AeC}GI[@[JYd@}@|AcCt@q@PYD]Do@HqERiC^}H?w@@MJWHIb@WZIj@?jAHp@C~BSrAAr@G^Kz@g@rCwAtAy@XSR]Bc@Cc@Oq@gAaC[{@Ko@?MF_@N[HKJG\\I\\CxAE\\C\\KVSfAaAh@Q~@ElALz@[N?~@B|FC|]?jHBrACp@@p@DpBVnCT\\Hv@^xCrB|DpB`A^~Bb@b@P|@r@|CbEXV^Np@Hr@?rBQrEOnh@_CvHYbJUnBKp@@|@NlA\\z@^x@f@h@^p@p@`AlAj@|@p@pAr@lBVbAv@pFj@xBdAjCfAdCbArCp@vA\\bAHd@@f@CRMb@W\\y@f@kBl@uT~Iqm@`ViIxCgU`IqJlDeCx@mHvBoFfBwGjByBf@{Dr@oS|C}Bl@wCdAoDbB_HtDi@\\{AlA[P]N_@Fa@B_ACkAM]DYLURk@`ASVYPi@ReFtAiAXyAXkALo@BM?MIAiGK{CYmEmAmMQqC]sHa@{KIaBKqA]oCcAaG{@iHa@wBa@_BY_A}BmGKm@@Op@sA|AeCz@w@L]HcAFuDTgD^aI?u@BQHOXU^QNCb@AtAJdDUtBE`@G^MvAy@dB{@hAm@f@]VYFO@c@Ec@I_@]}@}@qBU}@A_@BODONYJIXOj@GzACj@IZQhAcAZQ^Gp@CbALN?n@WNCtABhFCp^?hHBhACj@@rAJpAPvBNVDb@JfAj@tBzA|C`BnBv@ZHlARp@P\\Td@b@fDjEb@ZZHh@Dv@AnBQzBGjNm@",
+"average_heartrate": 127.5,
+"average_speed": 8.118,
+"source": "strava",
+"streak": 2
 }
 ]
