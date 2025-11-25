@@ -21298,5 +21298,20 @@
 "average_speed": 2.901,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16562248652,
+"name": "Mission - Challenge 2 - Group Ride",
+"distance": 24624.2,
+"moving_time": "0:54:47",
+"type": "VirtualRide",
+"start_date": "2025-11-25 13:10:36+00:00",
+"start_date_local": "2025-11-25 21:10:36",
+"location_country": "None",
+"summary_polyline": "wdrwCdckpLwAKk@XOrE{IA{Ax@q@zAd@zFk@zA_BXiDoAaAj@Yp@NtCwAnBRvB]n@iF`AaNrH{@KQw@|BoE@sAm@u@y@Ew@`@yAvE}B?aCqC`@}AhBWbAeAdBEnBs@tCjB`BXbBg@d@kAEcAe@}@uGyAmBN}ChBaBHuFi@gAk@Yu@PoBtAs@rFlCjA?z@s@vGuJh@sBa@uAeAYk@TaA|BwAXc@mALcBtAgB|FyBr@gBk@mB_CW_Ap@}A|CkBb@yCs@sAyBEyCpAmA`AHr@pBt@p@dAAt@k@NcAQaAgDaC@_Al@_AbB@bArC|@x@xAOr@gBSqA{Bi@u@iBq@c@wAD}CbCaAKm@o@GyAj@gAbFE`BcAaBkKsD{CCyAz@{A~AUpAh@`@jAHjDbArApF@dK~BlBfCxA`Er@o@yA_JX_Ch@[n@b@N~DdErFhAA\\mA]w@yAa@_AqAYyAb@cAf@JbAdCfAh@rHyA~@jFz@|@`AWfA}BdAk@x@DtB`BtCL`@`@TxBtBvDHjJgAvPx@vEgArBq@?kBkBo@M{@XoB`CeAAg@m@C}@fBkCtDe@JkE}A_@iCxAmC?e@r@ItDkICyBpA]rAf@fFi@~AaBZkDoAcAl@Wr@LvCuArBRxAOx@iFfAmLzGsBT[u@Ju@xAkBZiA[gBq@UcARyAtEcA`@aAIsBwBUe@H_AxBi@hAiAjBGdBs@zDxBrB?rAoAUeCgIqByAXqCbBeDB}Dg@aAo@Uu@XoBnAk@xFlC~@?t@e@tGoJx@}B_@{AcA_@y@`@cAzBgARg@eAHeBfB{BdFeBx@eBa@qBgBe@iA^_B`DoAp@sD[aBoBSwC`AcBxABp@rBx@n@dACp@m@NcAS}@gDeCLuAf@g@bBFbArCpAx@hA[l@mBSaA_Cm@s@iBs@c@{AJsC|BeAIo@q@EyAn@gAhE@vA]^e@}AkKwDcDLcC`BeAvBf@b@jAHpDrAvAvEGlK`CnBfCz@~C`@`@n@u@yAqIT{Bj@g@r@l@FjDjE|FnAETsAa@q@eBk@k@}@[uAXiAr@Hj@hBxAbAnH}AfArFv@v@|@OlAcCjAm@hAR~AtAjDZ^dCzBlEFvJiAdPt@vC?jAoAdBi@IoBoBq@EeD`DyA]SiA~AoC`Eq@J{D_@g@wA?wBvAwCFWp@KnD",
+"average_heartrate": 129.6,
+"average_speed": 7.491,
+"source": "strava",
+"streak": 1
 }
 ]
