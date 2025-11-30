@@ -21313,5 +21313,20 @@
 "average_speed": 7.491,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16606702261,
+"name": "Zwift - 3:1 Over-Under Session - Semi Finals on Road to Sky in Watopia",
+"distance": 13183.9,
+"moving_time": "1:20:32",
+"type": "VirtualRide",
+"start_date": "2025-11-30 07:08:20+00:00",
+"start_date_local": "2025-11-30 15:08:20",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "hfefAst}y^rAxBnB|BdAn@dCf@l@\\|@fAz@zAz@nArAdA`AZvHx@xD?zCi@|IcD|@MbAAnB\\lBx@n@JpCFzAKRJVf@SdAFTLPRJV?lAe@f@?lATt@ZLNBPQd@_@RaC?MHUZEb@@PR^jB|@~@v@~@lA^x@`@nABb@EnAg@pC?h@HRVVr@\\\\X`@t@J`@Db@Mf@[x@@f@Jh@CNa@b@c@La@AwBy@[G[@q@v@u@t@CLD`@Zr@j@h@dAp@BJ?h@Xp@@LILO@{@_@O?_@LKNCL@Rl@nABNKRs@V[ZCh@Lx@XZ|Br@LLFf@G~@@h@PrALd@d@r@vAx@j@p@j@fAXpATd@`@T`Bb@d@Tz@vAd@P|AJxBr@x@Qd@[\\K`BD~@a@tAD|@X^^Ln@Bp@F\\T\\f@b@`@@\\Oh@a@`AIt@Dh@b@Bx@M|AeA~FiAzHk@|Ck@tBAh@HZTb@r@l@vBbCjBrCzA~ARZV~@r@nAbA~@|@d@^\\`@x@p@`Cb@pCKJGEMy@Sy@a@_A[]{BiAmAOSQi@M{@COGoAoBeAmA{D{CqAkA]AGDITDLbDjCX~@GRM@KMKq@S[cC}@_BaBs@c@[AQLCRFPz@j@|AtBr@Xb@dAhAbA^x@V~@EJQ?KeAQ[k@c@o@Wk@a@kAc@W?QLIZKvBXnB^zA?`@W|BThCGh@_@`AWdBSzC]bCDVZRPGPUJ{Bd@oBR_@j@a@lDsAPS^}@ND@JSj@[b@kC|BQTOb@WzAEvDDr@Rr@Db@CTe@p@c@Vc@Au@Su@JcA?{Dq@[HCRNRt@Pp@\\jBhA~AXj@d@|@bAd@Nx@?v@O\\]`@}@N?@JqArBgAj@eANUAiB{AWEcBA_AOgBg@c@UWLATPPvGbC`@\\|AnBz@\\d@?bAM|B?`@Or@u@VMz@?VH?PKDgACy@rAm@`@o@BiBt@iALsAMkA[gC}Am@u@MGY?KJCTJT~@d@l@b@z@x@rAhBfAp@z@LfCHhB`@dA?h@UTg@v@Yn@_AJ?DLEL}AhB]r@{@l@cAN{E?",
+"average_heartrate": 127.0,
+"average_speed": 2.728,
+"source": "strava",
+"streak": 1
 }
 ]
