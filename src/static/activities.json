@@ -21315,6 +21315,21 @@
 "streak": 1
 },
 {
+"run_id": 16611181450,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5488.5,
+"moving_time": "0:30:07",
+"type": "Run",
+"start_date": "2025-11-28 12:47:01+00:00",
+"start_date_local": "2025-11-28 20:47:01",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "ayb~Cay|vU_AhAIBMJa@l@cBrBmBtCcB|BWVw@lAkBvBo@dAKXONSf@U^i@f@k@x@QL[^wAxB_@\\oAdBi@b@cAf@u@Vw@Rw@HeAFoCE[Di@A[@]Eu@CIFQTBZDFd@RdFDfCCd@Gn@E|Aa@l@]bAw@PQh@s@xAaCd@k@|AqBn@s@d@q@rCqDbA}A`BoBbCkDbBqBd@w@p@{@p@iA`@e@fA_Bt@w@rBuCd@[PSn@gA~A}B~@wAPQPULKdBaC\\UTGRMl@aA^_@b@q@VU?EE?EDkA|Ae@p@Qb@a@d@]f@e@b@[`@w@nA]^q@z@oAhBY\\m@z@cAlA_B`Cc@\\a@V{@~@q@bAy@z@[f@mClD{@lAg@n@g@v@i@j@k@|@KHKP@@BCx@kAz@_AVe@RY",
+"average_heartrate": 142.4,
+"average_speed": 3.037,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 16606702261,
 "name": "Zwift - 3:1 Over-Under Session - Semi Finals on Road to Sky in Watopia",
 "distance": 13183.9,
