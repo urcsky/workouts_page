@@ -21343,5 +21343,20 @@
 "average_speed": 2.728,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16628842825,
+"name": "Zwift - Coast to Coast in Watopia",
+"distance": 25122.0,
+"moving_time": "0:51:56",
+"type": "VirtualRide",
+"start_date": "2025-12-02 13:23:18+00:00",
+"start_date_local": "2025-12-02 21:23:18",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "lnnfAgcdz^kBYoHJ{@[a@c@UeA@oFa@mAcCgDeGmGs@mAEiATeBxAeE@s@Qc@uAi@sALaBp@aAfAIh@Jf@nB|@IdBtAvCY~@k@Xc@Eo@}@gBmGiC}Fw@iDgA{@aBAe@QSe@KyBk@aAoC}@cAAcCdBi@DuA_CwDIOc@C}Aa@k@gBSeDBkAa@Sk@IeC_@wBfAuBfBcACs@eByAuAi@wBWy@kAo@oBo@i@o@O}@TaEtEgAd@_AO?sCU_@i@MsALiBpAsB]e@FwAx@OrAk@d@kAMmAw@gAG_A\\uBlB}Df@e@Ao@w@u@OCmBaAQeAh@_@nC]`@w@?sBcAy@Gm@b@g@fBi@XyIXoAhAkAd@m@`B_BpAmAzFu@~@}@DkDcCq@OsBT_CnA_BdCa@lGa@vBw@nAcA\\{BA{Ag@wCkBcB_@m@@iCdA_DGcC`Cs@Z}CJcA\\{@rAaAdDq@j@}@U{BwCiAw@m@EyBd@{A?gEcC{Ce@eAF{@`@uDzDm@RaCCkA\\s@~@e@`B~@hCXnAHbCWrAiAfAyJfFe@x@UbCgClAu@bAOl@JhAt@dBvAj@LrB|@zA_@xBiBXSt@ZVbBGR`@Qf@sA~@cDr@a@ZQdD[zDb@jChAbDzDxD`@v@SzGTpC}Al@_g@tLqHxBsAr@On@Jn@`BfFTT~N_E~AGl@l@ElQ]dCsApFaA`COzK]l@s@PeJDy@wAsCuJmAsA}AMuArAS~@FbArHlPoBv@_I`A_A`@_@j@Hv@d@PlKoApALITw@XsLdAQR?`@NRz@JdG]jBLdA\\Xj@X|ChB~BTlAWn@sBh@ON@h@dAnCZR`AE`@b@a@p@cAGaAT@^|@^Cn@s@HeBu@}B^w@b@sAdBkBhAw@fAaAhEi@`FAlCj@pJ]rF{@rCgExHy@fAkAx@y@vDiAzBF|@~CrFCn@o@pASpADbBXxA~AvDlFtHx@bDTvDT~@`BzBfBrAjDpDrAn@nA@lAW|EeCb@BXd@nBzIbCjF`AjAtA|@pCh@vAYhAs@~DuEjFqDzAaBdAaCrAqI`B{EXkD_@qA}@_AeDyAwFc@aM^]o@`@yCBkBQeBWo@}@k@kCm@iIyCeBAsFfAaABeKgBeFUaD`@kAl@s@jAUjALxC`BpEfGbJn@pCRpD^tAvAfB~HdHzBNzC_A",
+"average_heartrate": 122.5,
+"average_speed": 8.062,
+"source": "strava",
+"streak": 1
 }
 ]
