@@ -21373,5 +21373,35 @@
 "average_speed": 7.668,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16672375033,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 5111.1,
+"moving_time": "0:29:58",
+"type": "Run",
+"start_date": "2025-12-05 13:01:56+00:00",
+"start_date_local": "2025-12-05 21:01:56",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "gxb~Cez|vUU`@_BlBsAlBi@j@kA|Aw@jAgB|BKHc@n@mB`Cy@hAMZCNMLIVg@t@c@d@Y`@SNi@n@S^uAbBo@bAy@|@sAv@}A`@i@HoBHgAEu@Bw@?a@BuBGQIEKIcA?k@SqAOi@Go@@UA[KQEUM]?c@MeBMs@Gk@AeAEeAS{@C]Ke@C_@EQGuAIu@Ag@Q}@K}@G_A_@mDS{@Gk@_@iBqB}GK{@a@iBEa@Os@QoAKa@MYEQBYDG^UFAh@WTO`Ag@vAa@l@IXIZUxBmAr@UNKv@UbAe@bBg@LOx@]^Wv@Q`Bm@p@QXO`@Md@UpAs@dAe@fBk@hBy@RERGt@[tAu@NE`@Cd@QPBVHJJ\\hA\\x@Nf@Fh@`@v@TZLh@LR^z@zArCn@bATf@Z`@l@jAbAbAFJ`@v@Bd@",
+"average_heartrate": 143.1,
+"average_speed": 2.843,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16672366459,
+"name": "Zwift - Intensive Aerobic x 4 on Loopin Lava in Watopia",
+"distance": 36048.0,
+"moving_time": "1:27:45",
+"type": "VirtualRide",
+"start_date": "2025-12-07 07:03:19+00:00",
+"start_date_local": "2025-12-07 15:03:19",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "jr_fAs}~y^m@fAIvBpB`HdFbEfLhE|EtKUr@{AyA_Bc@kAXs@tA^fC|FdQoDfGeA`C@~@~AnEn@p@fACnAuBnDk@v@`A^xDQnDoAHYb@InBRh@lEvClFgBbAVGj@kDj@Hr@bKMvAh@tChFiA|El@pElIdNpArJ|B|CpI`HxBEvFoCv@@jCvKfCfFfCrBrDb@`CgAhE}EjGoElAgBzBcLnBeGNqBWsAoCcC}D}@_FMsJ^c@o@d@yEg@}DiOsFmBEgIjAmO}BqGf@_FqGmME\\k@hF{@pDyArA}CbEmEN}AUoCsAwBkA}D}@_AsH}A_Jj@mCfAqCxDIlAfBtI~@rAvATn@Yd@uAhIeB~AxBbC\\|@Qb@mADmCkCuF{DcBgE?cCdAqB`CKnCtAlE`C~AbDb@vBy@~AwC?_Bo@{BgAgAeCWcB\\w@fAWdBNhAbA~AlAd@jAGhAy@b@{Cs@_A{Bm@o@FcBxAl@_CxDc@lAd@bAzAZjBKnAeBnCyBj@mDy@aBwAgAqDHwC|C}CbBc@|DDjDbBbC~E@rBc@fBs@RaC]cAiBm@O_IbBgAjBiBSq@aAiBgJFy@rC}DzCcApJe@vE`AvAv@`B~ElAjBTbCQnB_EdEwA|CeCdAaGdAo@l@^XlEBpDSrAj@rCfFiAtEh@jEtBnEtExG|@~Dt@pFnJfJjAb@pCQpEaCx@A~DzN|BnDfBjAlCf@tBi@nF{FxHaGlAoCrAoIlBeGNyBg@gBeD{BuEq@wOX_@q@d@{Fi@}CqNgFaCMcIjAsMwBoI`@iFuGcMAn@s@zC]bFiBl@k@n@yB`EkENeBUkCoAiBiA}DoAoAiHwAyIj@iC`AyC~DIlAbBlI|@vAxAXn@Uh@yAdIeBvApBdEVj@qABoCgCmFyDiBsCGgD~@}B~BQdDnAbEzClBlCXlBm@fB_D@cBq@_CmC{AwCVw@x@_@jBHjAdAjB|@b@xCm@r@aD]y@oB}@oAB}A|AIq@t@uAfBa@lBLtAjAh@dBDjBmA`CgBfAiB@aDoAcAqA}@qDVuCjCaCtCq@vDXhCvAdCnFIhCc@dAcE[mAoBgI`BuAnBkAGeAmAgBwKzCkExC_AfJe@rEx@hBhArD|IExEaEdEyA|CyFnBgBHqAdArFTlDSfA\\~CzFiAbEZvDtB|E`FfHz@xDRpDj@pAhJ`JhA`@hCMvEeCz@AvB`JtBdFzBhClDlApDcA|EmFtHcGdAcChDiOf@eDKoAo@kA_EuBsFg@kM^a@w@d@eE",
+"average_heartrate": 127.8,
+"average_speed": 6.847,
+"source": "strava",
+"streak": 1
 }
 ]
