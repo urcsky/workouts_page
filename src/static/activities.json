@@ -21403,5 +21403,20 @@
 "average_speed": 6.847,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16693830909,
+"name": "Ride Like a GIANT Mission Stage 2",
+"distance": 8104.7,
+"moving_time": "0:17:30",
+"type": "VirtualRide",
+"start_date": "2025-12-09 13:23:38+00:00",
+"start_date_local": "2025-12-09 21:23:38",
+"location_country": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0644\u0627, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629, 20115, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+"summary_polyline": "_lfbDgv{dFaAzCa@p@UPe@TkCfA}A`Aq@t@uDlFoAvAs@t@eAr@{BhAiCfA[Hg@Fg@Bw@CcAE{BSoBAsAEaAOkAa@m@a@k@g@oEaFuJ_JCKVg@nEqGTe@DOF]HmBFm@\\yBBo@?o@OiHUmGCoC?gAPsA|@aEX}A`BeFZoAN_APoBFaAD_CXs\\H}APyA\\wAb@sAd@qAj@mArA{BzKkQd@_AJi@B{@IeA[_Ca@yBk@oDi@iFGmAK_KEw@U{B?QFa@Zk@vO_VhCgE`@}@~BeGT_ARmAXcAj@oA~@aB\\g@hBiBxDmEdDwC|CcDpAgBl@eApAgCh@y@nA{AjBoBRYn@_BP[bG{HJIL?JHlFvF",
+"average_heartrate": 123.8,
+"average_speed": 7.719,
+"source": "strava",
+"streak": 1
 }
 ]
