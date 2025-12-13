@@ -21418,5 +21418,20 @@
 "average_speed": 7.719,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16731116667,
+"name": "Zwift - Intensive Aerobic x 4 on Road to Sky in Watopia",
+"distance": 13535.6,
+"moving_time": "1:18:57",
+"type": "VirtualRide",
+"start_date": "2025-12-13 12:38:41+00:00",
+"start_date_local": "2025-12-13 20:38:41",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "dgefAes}y^bB~BrAtAv@b@pB^|@b@r@x@rA~Bj@x@tAfAbAZlGr@zAFvBAdBSnA[fJcDnBIrB^xAl@n@PbBJhAAl@Il@DZh@?TOl@BX^\\l@Ad@Yh@MpAThAb@JP?TSb@c@L_BCc@JWXEP?b@DPj@d@~@^pAbAt@|@l@tATp@FnAEv@g@rCBj@PXfAl@ZZ`@`AHp@I`@[t@CRNlAKT]Z{@Ho@OgAi@u@IYHk@~@a@XGNCLD\\Zr@vA`AZ^?j@\\|@CJMHOAi@[QAa@FKJGNBb@l@pACRgAb@MLEf@J|@V\\`@ThAT`@THj@EfBNnATt@b@l@pAt@v@|@^t@VrAR^^Zd@Rz@Nb@R\\\\^v@NLd@N|AHxAj@^D\\Ir@a@j@MdBB|@a@dAF|@T`@\\R|@Dz@Xh@d@\\NF^A~@o@|@I`AHXXDL@d@MhB_A`F{AhKi@hC]hAEx@Rj@pDzDb@j@rAvBbBfB^lAj@fA`A`AdAj@b@d@f@fAj@rB^hCGJMEQoAOi@[s@_@c@uBgAmAOa@Uc@Kw@CQG}@yAwAcBgEcDiAcAY?MP@P^^jA~@j@^T^Jb@BPGLM@IGOaAQQcC}@wAyA{@k@WASFEZHRv@d@vApBz@^d@dAbA|@^t@ZhAEJO?Ei@G[Q[k@c@o@Wu@g@_A]Y?SRShCVpB`@~A?^U|BRnCKh@]bASnASbD]fCD\\JJZ?RSD[@aAHu@XiAVo@n@e@|@WjB{@RQXw@JGJB@HSn@QVm@n@iBxAQZOb@UtAGrDFv@XxAK`@]b@c@Ve@Au@Su@JeA?uDq@WBIL?LJPd@Hn@TzAdAd@RjB`@tAzAj@Td@@`AKTKTWZy@PCBJMZsAdBcAb@u@HYAMGgAcA[QuBE}@O_Bc@e@YWDGZDL`C~@`DhAbAbAz@hAv@\\h@?fAM|B?f@Uf@o@ZMv@?ZJEPKBaACMJo@lAm@Z_AHwAn@aAL}AMiA[uBoA_AeAe@EIFGZJTdAh@|AnAxApBv@h@^Nf@DnCHXDxA\\v@AVGPMTg@n@QTU\\o@LAFLcBvBa@x@g@^w@RkF?mBXwBYk@Se@BMZ\\bB@pC",
+"average_heartrate": 127.6,
+"average_speed": 2.857,
+"source": "strava",
+"streak": 1
 }
 ]
