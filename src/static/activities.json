@@ -21523,5 +21523,20 @@
 "average_speed": 7.662,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16944788953,
+"name": "Zwift - Zwift Academy: Workout 6 | Grand Finale on Road to Sky in Watopia",
+"distance": 11979.8,
+"moving_time": "1:06:31",
+"type": "VirtualRide",
+"start_date": "2026-01-05 12:11:13+00:00",
+"start_date_local": "2026-01-05 20:11:13",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pfefAat}y^jAfBnB|Bx@h@lAZ^Bf@N`@Rn@p@lBdDp@v@lAx@z@RrATpD\\|AF|BA~@KbCm@jIuCfAMn@?xB^zAt@lANbBD`BKVBRNJR@TOn@?XJRRNl@AnAg@rATjAb@JP?TGPKPe@LaBCc@LU\\Eb@@RHN\\XpAl@x@j@fAtAn@vAT|@@zAi@fDAb@FTPP~@f@d@d@`@hABf@g@|A?TLv@ALg@j@_@Hc@AaC}@k@AYRc@r@e@ZEPAPF^NZ\\`@tAz@JZA\\@JZr@CLKHOAk@[a@?ODUZAPDLl@rACPMJu@ZOJEPAh@Pv@JN`@RzA`@NHHNDh@GpAJ~@XnAd@n@vAx@f@n@b@v@\\tARd@^Zf@RrAVPLNLn@lAx@VnAF`A^l@NN?\\Kr@c@\\GbBB`A_@t@?pAXd@^R|@@r@DPR\\f@^`@F^Of@a@p@IfAD`@NHRBP?h@KlA_AbFyAbKm@zCc@vAAZ@V\\r@bCjCn@n@bBlC`BdBNZH`@Rd@l@`An@n@j@XNPTHZZd@`Ar@bC^hCIJKEQoA[_ASc@a@e@qB_AoAQUQg@M{@CQGeAaBoA{AeEcDgAcAa@?MP@NJL|@l@~@v@\\\\Tr@BNGNK@KGMy@SY}Am@OAQKuBqBi@WW@OPANHRp@^|@fAN`@JH~@b@d@dA`Az@`@v@X`A@JCFG@MGAk@IY_@c@c@[k@S]Yo@[a@M_@?OPG\\KfBPxANx@Tt@@R?XWvB@XRxBGd@_@bAMv@QbBIzA_@jCDZBDVHRGJMFW@mADa@VgA\\_Ad@]rBu@LKPCb@UTYZw@PD?FM^Wf@]`@uBdBQVMZYvAIhDFlAVdA@RK`@_@d@_@Ti@Ac@QSA}@Lw@AuASeAY_@CSBIL?LDJFDf@Jj@RrBrA`@Nl@Ff@N`@\\j@r@ZTXHn@@NGh@Cf@c@\\y@PCBD?FIRy@bAMX]Tw@Zo@HS?WIw@w@e@[YACC}AAg@IuBi@g@YQBIHCLFRrBx@n@NJJp@P`A`@bAbA|@hARN`@Lh@?hAMxB?`@Or@w@TKz@?TDBFALMDe@E]@MJq@lAi@Z_AHyAn@u@H",
+"average_heartrate": 133.7,
+"average_speed": 3.002,
+"source": "strava",
+"streak": 1
 }
 ]
