@@ -21525,6 +21525,21 @@
 "streak": 1
 },
 {
+"run_id": 16951975625,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 6021.2,
+"moving_time": "0:33:36",
+"type": "Run",
+"start_date": "2026-01-03 12:27:51+00:00",
+"start_date_local": "2026-01-03 20:27:51",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wxb~Cqy|vUg@x@_@b@i@d@ORKRoAvAOVw@|@sBxCi@n@}AxBe@`@{@lAi@fASVS^a@p@qAvAUPi@p@]d@Qd@i@t@gBrBc@\\g@Xq@V}@Ta@Fa@@gAH}AI]@YBq@C{B@SHE`@CI@HFLDFTLh@B~ACpBBVAtA?bAEb@ErA_@vAs@PO`@a@X_@h@_Ax@mAbByBl@m@v@mAn@q@`@u@dDeENYxBsCJUdAwAn@s@fAaB|ByCJSdAsA`@m@^c@pAkBf@o@`@QHGXe@Te@T_@zB_DZ_@Xe@jCaDROVGFGj@u@d@w@TUJSRM@EC?EBSRKXg@p@}@bAQb@a@l@e@l@w@v@STiAfB}@fA[d@o@p@y@pA_@`@_@j@o@z@{@dA[X_Ap@{@lA[Zk@v@_@`@}AzBm@r@ELk@n@uBrCUTeA|A]j@aArAUd@W\\_@\\UZCHKH?AFEv@{@Xk@t@cAPQhA_BZYR_@n@}@VS",
+"average_heartrate": 151.3,
+"average_speed": 2.987,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 16944788953,
 "name": "Zwift - Zwift Academy: Workout 6 | Grand Finale on Road to Sky in Watopia",
 "distance": 11979.8,
