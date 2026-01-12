@@ -21553,5 +21553,20 @@
 "average_speed": 3.002,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17022487783,
+"name": "Zwift - 06. Sweet Spot Summit on Road to Sky in Watopia",
+"distance": 11598.8,
+"moving_time": "1:04:19",
+"type": "VirtualRide",
+"start_date": "2026-01-12 12:03:44+00:00",
+"start_date_local": "2026-01-12 20:03:44",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ldefAmz}y^PzAJb@Xt@`A`BfBzB|@x@XLv@Tr@Hj@Nf@Zf@h@lBbDd@l@bAv@f@TbATfGn@jE?vCi@bCy@xAo@jCy@hAOr@?fBZ`Bp@r@PjBJ|BKVBRNJT?XQn@DXLRRJV?|@_@j@ErARfAf@FRCRY^e@HaBCQFOFQ`@Cb@DRHL^VnAl@\\Rz@x@b@p@f@hA\\fAB|@GfAMx@U`AC\\BX^\\v@b@`@^\\v@Jx@EV[v@ET@ZJp@ETQRi@Ta@@a@IsBw@]?YNYf@w@t@CPD\\\\v@~AdAPV?j@BLVd@@NILO@OCMM_@MS?]NIRAPDPf@`ADRGPQJe@NQJIPCh@Ff@Td@`@RlAXb@TFR@VGxA@RRrANj@X`@zA~@^\\p@lAPd@R~@Vb@d@VpAZd@R\\^`@x@PJf@LnAF~Al@`@D^It@c@\\KdADd@A`Aa@fAF`AXVVTz@@v@DLR`@h@^`@FPGx@i@r@It@@RDZVJd@C|@Iv@aAhFu@pFu@hEYvA]dAEj@BXXl@`DfDd@l@?HXX|@xAvAxAVb@Ln@v@vAbA~@`@Pl@b@Zb@\\x@j@rB^hCEHK?OcAa@oASc@a@e@qB_AiAOo@[WEw@CQGOMSg@g@q@iAuAwEqDm@o@MG[@IJCNNRrC|BLTNh@@JELM@KGO}@QUg@USC{@[kBiBi@]OGS?KDKT@PJLf@TLLnAhBNJNDb@Rb@dAz@r@NTZr@V~@ILMEGy@O]MMk@a@k@Sg@_@w@][GK?MFMVGjAGj@TjBJh@LXHh@?ZWbCRjB@XGj@_@bASnAKdAI|A_@nC@RDHLHX?RSBOBmADg@h@sBR]ZS\\KlCeA\\]Xu@FGJ?DJQl@W`@o@p@i@^}@x@MRM\\WzAGjDF`APl@Fh@K`@]b@a@Vg@ASKa@GY@YHc@@aAGs@MSK_AOc@?KJATJLj@Jh@Rr@d@NNz@b@`BXZTjArAb@Nn@@NA@E@FFGj@I^a@L[B?J]N?@DALMRi@n@]l@mAj@w@HO?QGqAmAMGQAACeBAACg@Eq@Ma@Qc@Ig@YK?QNANBFNLtCbAn@Xj@Pn@Z",
+"average_heartrate": 127.1,
+"average_speed": 3.006,
+"source": "strava",
+"streak": 1
 }
 ]
