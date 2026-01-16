@@ -21568,5 +21568,20 @@
 "average_speed": 3.006,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17070344628,
+"name": "Ride Down Under - Stage 2",
+"distance": 21489.1,
+"moving_time": "0:56:29",
+"type": "VirtualRide",
+"start_date": "2026-01-16 14:00:01+00:00",
+"start_date_local": "2026-01-16 22:00:01",
+"location_country": "Tadzong, Bagochen Boolingpang Ueling, Nubi Gewog, \u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b, 33001, \u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d",
+"summary_polyline": "u~tfDmxpgPjCStAb@r@j@j@~@hCpIxB|DbBvBlGpFpJvJfAF`DiAt@IpA\\v@~@R`BMbBYt@uBhCUx@TnAvBbDRzBUbDyC|NPl@pHfB`BD`B]rAw@~CcEhA_AxAAfGhApJAHQ@kTHyAXsAt@aAzDqAfBmAl@mAz@gDv@iAn@]`Fw@~@q@^w@l@mExA}AX{@BiASeAcAaAuEaCk@_AKkA?kJX]pDC~Am@t@eBE}By@uAiAi@iDCaBc@i@i@[y@EoAPmAv@gAnBg@nFCp@XTUrNG|Aw@b@kA?wBu@cBs@_@kAM_HIK]GkDUSqCOC{JJm@l@m@nDo@tBqD`Aq@`HMr@e@jA_Cl@[jEPt@St@s@f@yAB_AUeAyAkBo@sA_DiCwCG{AWgAi@uC?cDg@kFPmBoAcCu@sAwAc@sCw@iCq@cAe@Uk@AaAb@mCeBcCXcAm@eAM{AFcCbBcADgAUa@m@@_Do@cBe@Qo@Fs@^i@~@s@JoA_B_CiAoAcEa@k@}EgDcCm@sCE}Gv@e@_@{@sBg@Og@fAIfBOZgDXyCv@sAs@cAqCe@k@qBc@wEwB]FSVGjBq@|@m@HcBi@s@?c@To@pAc@ToACiBc@Ud@YbCy@XeDZqD~BqA@{Al@[Wy@oBu@Km@`Aw@Hi@b@Ml@Tv@[`@eLnC}E|C_Cn@sAt@oFzD_CxDoAv@}@rAuBfBgDrBcAtAgAjDE|@nIxB~@m@n@oCbCIROTs@p@a@x@HVRP`A_@`Bu@f@yAHk@j@@`At@`@RV@`@i@j@sA\\e@p@B\\VPZDr@[r@JLZQ|AF\\hAn@v@If@u@CcAe@}AF_@z@eAPw@tCGbA}BfAyAh@{BxAWz@Z\\`AOfAyCvDUz@DtAIXaAd@[l@Hr@pBhAl@nA@fASfAiAjA[hAn@bC\\nFBbBl@h@\\Bv@_@FeAa@mCJkBnAiBR_ALcCb@q@dAq@z@iB`@wFVy@`FuCzC}BbAOzBfAf@~@LnAIpAc@fA}@n@qE|AaCrAaA~Ae@nCLpB\\~@v@h@bA@lAkAZcDxAcBlFMjC?JLA`LYtAe@n@w@`@mFVWR[|@C`h@jILtE`A|A]dCqBdC}@jAGbB`@t@d@l@z@fCpIhCtEdBtBnIvH",
+"average_heartrate": 138.1,
+"average_speed": 6.341,
+"source": "strava",
+"streak": 1
 }
 ]
