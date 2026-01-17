@@ -21570,6 +21570,21 @@
 "streak": 1
 },
 {
+"run_id": 17075460360,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 4017.6,
+"moving_time": "0:24:52",
+"type": "Run",
+"start_date": "2026-01-14 12:35:31+00:00",
+"start_date_local": "2026-01-14 20:35:31",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "cyb~C}x|vUmB|Bs@jA]ZiBhCaAnA{@|@y@bAMVe@h@[f@s@p@]n@Wp@ILIBKGcA{@e@UKIoA{AEK@SZu@d@[LOVy@pAqBZu@R[P]Tu@t@{@N]LQ`A}B",
+"average_heartrate": 138.7,
+"average_speed": 2.693,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 17070344628,
 "name": "Ride Down Under - Stage 2",
 "distance": 21489.1,
