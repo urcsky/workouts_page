@@ -21613,5 +21613,20 @@
 "average_speed": 2.927,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17115053779,
+"name": "Zwift - 2004 on Road to Sky in Watopia",
+"distance": 10106.4,
+"moving_time": "0:56:29",
+"type": "VirtualRide",
+"start_date": "2026-01-20 12:07:36+00:00",
+"start_date_local": "2026-01-20 20:07:36",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "peefA{u}y^p@rAn@`Ax@dAh@l@TNFJ|@h@L@ZLhANVHTNJBt@x@`BtCn@v@d@^n@`@x@RrATd@Bh@JvCRnABjBCtASj@OtEaB`Aa@zAe@n@Mp@Er@DjAXVF`Br@t@JnAFlAAp@IXBTNJR@VOr@BXNRTJXATIj@Wn@?dAPf@Pb@ZBTGRORQHSBgBCSFOJKPGb@@TFPLL`@TbAd@fAz@t@~@h@dAPj@H\\Dx@IrAc@fC@b@LTPPx@`@RNVd@Pb@Hd@?XGXYn@ER?RLp@?RKP]X_@He@AsBy@[GO?MBMHc@r@WPWXELB`@L\\NVTT~@f@\\^@NA^JXNX@LINO@OC]UOES?OFMJINAPFP\\p@HTBNIRy@XOJIRATBh@DRHPLNt@Zv@N`@TDRBR?TGz@@TJ|@Hd@Nh@f@j@vAx@Z\\`@r@Pd@VjAP`@\\VPFnBj@\\Zn@dA`@Px@Hb@@p@Rh@TZF\\?XMn@a@ZGz@?^BPCj@[NCpAHh@NXLHJRd@Hh@@j@BLZh@VTNF^?NGh@a@NGr@Gt@@`@LLNFP@f@Ah@K|@Qr@q@tDeArHy@jEa@lAEVAX@VJTR\\xA`BFBTTJND@LRRRd@n@r@hABHDBJPDBJPFBBHFB|@~@HRDZHTVh@DB^n@t@r@^NVRF@d@b@b@x@h@jBJb@L~@Nx@?LEDM?COGg@Sy@Wo@S_@SSkAq@IAEEIAQKWCCC[ACCSC[S_@GAC{@CACKAQOUg@k@y@GCeAsAkA_AQIGKQISSUMKMEAk@g@OIWYa@?KPBTJLZNDDF@DJHBLPVN?BRJ?BHB@BD@?BLJLTNh@?RGFK?IGO}@QUYKACIAACQCCCIAAEOCACMA?CIAACKCOQGCKQYQUYu@k@QGW?IDIT@PBDLJ`@PHHt@`AZj@F@FH\\JVL\\|@hAdAb@~@Nb@FX?FGFKAEEAk@Si@[[]SOEOIKC]YIAk@[g@MI?OFMVM|BFx@PdATn@Fb@?^WtBB`@Ff@HfAE^c@rA]fCKpB]bC@RLNNFPCLKBGDO@kABc@XmA\\_An@e@NC^QJARMJAnAk@PQ`@_AJ?DJALO\\OXw@z@IBONGBOPGB?Bi@^Yj@[|AGbD?d@",
+"average_heartrate": 119.9,
+"average_speed": 2.982,
+"source": "strava",
+"streak": 1
 }
 ]
