@@ -21645,6 +21645,21 @@
 "streak": 1
 },
 {
+"run_id": 17173942783,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5002.3,
+"moving_time": "0:31:02",
+"type": "Run",
+"start_date": "2026-01-24 12:05:05+00:00",
+"start_date_local": "2026-01-24 20:05:05",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 135.2,
+"average_speed": 2.687,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 17168021292,
 "name": "\u5348\u540e\u9a91\u884c",
 "distance": 5068.2,
@@ -21657,6 +21672,36 @@
 "average_heartrate": 114.1,
 "average_speed": 7.464,
 "source": "strava",
-"streak": 1
+"streak": 2
+},
+{
+"run_id": 17172785724,
+"name": "City Beach",
+"distance": 5500.8,
+"moving_time": "0:12:53",
+"type": "VirtualRide",
+"start_date": "2026-01-25 13:45:46+00:00",
+"start_date_local": "2026-01-25 21:45:46",
+"location_country": "Langley Crescent, Innaloo, City of Stirling, Western Australia, 6018, Australia",
+"summary_polyline": "b~raEshvaUWhD?LP`@NN`@RlAJz@NJ?zARH?JBT@HBl@Dh@JR?l@Jd@BPDX@NF~@F^HT?b@Jp@DNDf@Bd@JR?b@HzBRNDPBR?d@HR?RFz@HnBXvALTFf@BfA?p@G`@Ih@WH?LIREPKD?JIF?NEFENEHEPEj@UJA~Ae@fCq@nAO~@DlBTL?\\HtCb@LHHNDPJp@?Tw@lMYvD?PH\\DHX\\VDd@@VDvBPRD`@B^JT?FBT@DBj@DFDp@DFB\\BFBr@DFDT?`@HtAN`@J`@Dn@NlBVLFZB\\HL?ZJJ?f@HtBRf@HR?HBZ@HBP?b@Jh@BNDV@FBN?f@Lf@DRH^ZR\\Lb@?`@[xDm@tJGROPWHk@Ja@?g@GS?aAKo@CiDa@WAgCYk@Ki@CSE}@ESEgCSSAe@Bc@ROLKPEVWpECPMRSTSHED_@F]?UCICe@?MCi@AMC_@?aAOa@Mc@Us@g@QKU?QHiA~@KFu@z@Uh@I`@e@vGw@fO]dFMlAMZg@TM?MEk@GO?",
+"average_heartrate": 107.0,
+"average_speed": 7.116,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 17173495323,
+"name": "Ride Down Under - Stage 3",
+"distance": 26198.3,
+"moving_time": "0:58:19",
+"type": "VirtualRide",
+"start_date": "2026-01-25 14:00:04+00:00",
+"start_date_local": "2026-01-25 22:00:04",
+"location_country": "Enterprise Street, Bohle, Townsville City, Queensland, 4818, Australia",
+"summary_polyline": "hiotBynn~ZmCuBeEcCwJ{D}JeFUTkDfIw@`AcAZiAEqDyBo@Ws@CaAv@qAzDc@v@y@^eA[Sc@AwAX_Cd@oAzDiDbB}BhA}B|AqEDw@Ey@y@gDy@{A@OxOkNTi@Ca@w@qAwDuCyAy@cCu@gBSeED_AN_ClAuBlBu@fAu@bBe@f@[v@kB~Fi@I_HcCq@y@SmAFuMKqBYkBg@gBm@sAeCaDaAiBoAiEi@eDFyE\\gCPeDDOj@?rQ~AbAJh@TXj@QrCXz@d@RhIt@fAn@Jj@StB?bANj@f@b@tCFdMaAnBm@hEKbJ}B`B_@N_@\\mF|@gJMg@i@[_DHuIW_EJeF~@kETgAG}D{@kFm@]UI_@d@_CXqGR_BQcAk@OuDXuBm@cKaF_Ca@aMcAoDeAwIm@m@k@Q}@r@}I?w@uHs@mGsAQ[?e@p@yELkBCgASm@_Aw@aAY}GeAkA_@MDs@jBiGhMi@rA[|A{Eng@B|RFl@NZb@X`AZnJ|BvC^tGpBAh@c@V_@WGm@fBcHZm@ZO`@AhG`Bd@KXc@^uFP[j@Wp@C~ANzWlCOlD_@hDEdEz@tEz@pCx@zAnCpDx@nBb@fB^hEMxKNjB\\t@`@Z|HtCqAlEs@pBS~CGlEDr@f@zA`@f@f@TVp@Jv@Cz@Wv@wBxC]t@oDdEM`@B^~ArBf@Xj@D~@c@hEqDf@Ur@A`Bt@t@|@^`AIp@s@~@kE`EeQjN}Az@uAAa@c@Iw@FaEKs@[o@}@k@o@Ms@?m@Tc@b@Wp@OdCXvCpBlFVnAEtAo@fByArB}@t@iAj@w@@q@U{CiEaAo@gBUuCb@iAfAWh@O`AA`AJ~@r@rAfAr@`J`DrCdClA`Ct@~CRdBLxFVdBz@hAf@Z|@RzB?tBo@|@u@t@cBDqBQy@Sa@iD}Bc@w@Iw@Dy@X{@h@y@rDqD|CmBjFcBlHoAnIu@vRChE`@nClAvAfBZhABrAO`@o@b@aFt@qAb@[\\g@xAIvCHhATx@b@p@VLZDv@MrVuFn@c@Pi@C_A]}BA_AN}A^w@~As@nC[jC?|Db@pAGn@[Ni@@wJOk@g@SkAGwDh@qCA_A[g@w@EcAJq@~@kAjAUlDKhEYNK}@kNYkCgBsCoC_D_FwD",
+"average_heartrate": 132.3,
+"average_speed": 7.487,
+"source": "strava",
+"streak": 2
 }
 ]
