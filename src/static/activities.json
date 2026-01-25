@@ -21643,5 +21643,20 @@
 "average_speed": 7.697,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17168021292,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 5068.2,
+"moving_time": "0:11:19",
+"type": "VirtualRide",
+"start_date": "2026-01-25 06:31:51+00:00",
+"start_date_local": "2026-01-25 14:31:51",
+"location_country": "Kela, Tangsibji Gewog, \u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b, \u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d",
+"summary_polyline": "myweDcjwfPwA\\c@Dq@?kBS_BKo@KK?cFg@g@Oe@Y_@g@Q]Oa@Ke@Ek@?k@BWVi@LWd@i@pAqAb@u@J_@Ae@Ia@O_@iAwBKc@Cc@@i@Dc@PmALa@Rc@VY\\W`@I`@?`@DnCj@XHXBTMLQvCyNNeADyAAm@M}@Mi@KOuAgBS_@Kc@AU@SDUHSLShBwBJSRm@HkAAs@Mq@MW_@e@i@[o@MW?WDWFwAn@_ATk@@g@Q{BeC_G}FeBaBkB{A}@y@cB_C{AoCi@uA]cAs@{Cg@iAe@m@m@_@c@Og@MYC[?[BqAZyAp@a@Z]`@a@ZWLe@Ps@HM?[EsBm@eAOaN@[Aw@I]?MBKFGLSf@SVi@Hw@Dg@Rk@^GHCL?z@Mb@?F?HHJp@RPHJN@NO^CV@NLRLLNFR@n@Al@JRR@JALSXs@^I?YFWAWEY?y@LqAVWLGJCN?L",
+"average_heartrate": 114.1,
+"average_speed": 7.464,
+"source": "strava",
+"streak": 1
 }
 ]
