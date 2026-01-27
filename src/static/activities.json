@@ -21718,5 +21718,20 @@
 "average_speed": 6.776,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17193406785,
+"name": "Ride Down Under - Stage 1",
+"distance": 27971.8,
+"moving_time": "1:01:01",
+"type": "VirtualRide",
+"start_date": "2026-01-27 12:01:14+00:00",
+"start_date_local": "2026-01-27 20:01:14",
+"location_country": "Hervey Range Range Complex, Hervey Range Road, Hervey Range, Townsville City, Queensland, Australia",
+"summary_polyline": "nmduB}nc}ZgGgEuKuEwL_GcEfJy@|@cAVcAIyD_CuAUcAp@kArDu@nAcAV{@g@Mc@DgBj@yCt@gAjCsBtAgBdBcDvAiE@sBu@_D}@qB|OmNRk@Oy@c@o@sGuEeDaA}AMqDDeATeCpAgA~@gDdFkGpQa@zCOtHb@~AbBpBR~@At@a@rAuClE{ChD[z@Hb@z@fAhAx@ZBbBw@rD}CxAWz@VtAnAb@~@Cx@_AlA}GhG_QtMgAHy@s@AaG{@iBcAe@kA?o@Zw@tAMnCb@hDbBfEXtAE|Au@hBcCxCeAh@kAFoAq@_BmCmAeAqB_@aBLcBx@}@bBGzBb@dBxArAfJ`DdD~ClArCh@bCPlBHrEVnB~@tAbCj@dBCfC_A`AsA\\}ACqA[cAy@y@{BsA[i@M{A`@aBfCyCnC{BvC{A`EkAbHmA`Ly@lRFdC\\|Ah@hAx@v@nA\\fADlAWp@_@TaGbAeAb@[`@c@dB?pDf@dB\\`@h@NpPkD`HmBXg@Bm@c@gD@aBTgAp@u@nAe@nCWpJ`@pAc@Lk@@gJOy@i@SyACaDd@sC?cAYk@iAHkBfAiAvLy@NE@SsAeRiC{DwBcCoCyBuFcDwH{CuL_G}DzI{AvAeBB{EqCy@GgAv@gAlDm@fAgA^}@e@Oo@D}Aj@yCr@eAdDmCdBeCnCaHLcAEcAy@iDy@iBbOuMj@y@I}@m@{@}EqDuE_BaBMqDD_E`BgCdCuCfFgFtO_@nCM|Hn@rB`Ax@Xn@LbAIdAqD~FwCdD[t@Fl@d@n@nAhAv@JfAi@~DiDr@Yr@@zAv@bArAN|@Yr@qDpDuGpFmKhIwAj@gAS]k@DgFg@}AqA{@kACq@Te@b@Up@ObBB~AVbBvB|FNzA]jBaAdByBxBiAb@o@?qAu@oAwBgAkAqBk@uBL}Ar@q@|@[dBD|A\\fAr@x@fKxD`DrCrArCn@vCR|BJbFRnAv@jAnAf@xBHvB_@rA_Ax@eBH{ASwAi@u@yCmBe@kA@gAXkAvBiCtD}C|EsBlH}A~Fs@`I]|OFrDj@vBhA`AlA^fALdAIr@{@p@oHxAk@p@[lAIhCVrBt@lAjADzVsFt@]ZgAc@uDF_Cb@gA~@k@`Ei@jJ`@n@Id@]Jm@@cJS{@aCSeDd@aCBuAe@_@e@Is@JmAfAoAjM_A_AiO",
+"average_heartrate": 131.9,
+"average_speed": 7.64,
+"source": "strava",
+"streak": 1
 }
 ]
