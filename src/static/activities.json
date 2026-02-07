@@ -21778,5 +21778,20 @@
 "average_speed": 8.558,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17318363290,
+"name": "Community Tour Mission - Stage 2",
+"distance": 20723.4,
+"moving_time": "0:43:22",
+"type": "VirtualRide",
+"start_date": "2026-02-07 14:30:02+00:00",
+"start_date_local": "2026-02-07 22:30:02",
+"location_country": "Slug Gulch Mine, Slug Gulch Road, Fair Play, El Dorado County, California, 95684, United States",
+"summary_polyline": "w{qjFt~c_Vb@VLGvDaLj@}@vEgL~@iDHiA?y@Q}GAuL@UHQzIB\\NDRf@~IEhAa@dAuBtBq@jASrBEpEo@zFHr@^zANZVN~I@VNDzNTbCj@fDLfCJ`@RXf@HXKXe@PeAFkPtM?XORa@Hs@DsMRsA\\_@b@MxIDB|ZYhBsA~CCvMILcIEk@JYRM^?lDJ\\d@RrF?v@T|IpMd@Tz@O`@Df@`@vDhIJl@G`@kBtAGl@DpCOdAe@x@mAvAOf@Ab@|@~HGlFPvB^`AnArAd@|BhAlCR~BXn@RLfDR^Wn@iAd@_@XKxAJxAe@l@i@Ns@Ks@OUUImI?MAEQ?_SeAgQi@kEOmBHs@rAcHt@m@bAIrRs@tAHb@n@d@tBh@xAlBjD~@pCh@r@t@^`@Ib@i@jAmDl@qC^aHE}BH]d@s@@c@_@WiBDQI{@kAiAW_@m@m@aBm@e@{@GqCFwAQu@g@I]Du@|AmCJs@Eq@Wg@kAy@c@y@US]ImBHq@k@Kg@IgCk@uD?q@Xg@`@E|AZz@I\\[JQHo@Eo@[yA]a@iCVuASeAg@a@e@_Be@gAy@S[a@iB}@aCSScBk@G]GeES{@k@[cB_@g@e@gA}AcByDiA_ACc@TYz@BpAr@TZp@bBXTZCP_@@e@Ki@y@eB_DkC{@Ou@R{@|@c@pAYfC?tQGLwIB]He@d@OvAEnMO~@MRg@NoL?[MEgNOi@o@c@g@LMPKv@Bt@f@|EF|BIlCO`@YBIKGi@AeBQkEEmEB{C\\u@z@Eh@Xh@`AVDPQBY?cAMyAOc@k@e@iCo@i@DMPGVA|NuJBc@e@a@{AKaAn@_GDqENyAt@yAbCgCXkAa@uJQu@SI_JCIKCcLMi@[[}AFeAm@c@HYd@sDpJKR_@Rc@KOOaBaDc@[e@LmAzC]b@i@EuBkAc@_@KWEeFE[QMcZCg@`@Qv@Pv@f@b@`K~EfATr@SNw@Ky@_@a@m@Ie@Xg@fAQpAGdBKj@[b@e@TmABeBYyLo@qAb@m@z@SjA@nAPv@Zf@t@d@tFnAp@XNXDfAe@zFBb@TVfE`Cz@Z|Cg@j@Dd@X|AlBbAt@nDx@b@f@l@|C\\p@hI|EfFdDXDp@gB",
+"average_heartrate": 137.5,
+"average_speed": 7.964,
+"source": "strava",
+"streak": 1
 }
 ]
