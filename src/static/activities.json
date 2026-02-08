@@ -21808,5 +21808,35 @@
 "average_speed": 7.964,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17329589488,
+"name": "Aus Outerloop",
+"distance": 4175.5,
+"moving_time": "0:09:15",
+"type": "VirtualRide",
+"start_date": "2026-02-08 14:19:21+00:00",
+"start_date_local": "2026-02-08 22:19:21",
+"location_country": "Ruggers Road, Mount Charlton, Mackay Regional, Queensland, Australia",
+"summary_polyline": "nbd_C{{xj[q@h@g@\\i@h@OFo@j@eAv@g@TSDW@UAWEa@e@IY?y@FqA@}@Gu@Uo@c@k@SMo@SYCq@BWHi@^OTSp@Kr@AZ?nADt@RjAh@`BfAjCPv@DX?^Ix@Ur@MZ_@p@e@l@qAvAo@^YH[D[?[EYIg@e@aBsCg@e@gAi@YGs@Eu@Ds@LYFm@ZSN_@h@Uh@Kj@En@@h@J|@Zr@b@h@h@^l@XjA`@NDLH\\Fj@TN@LDbBr@d@Xn@h@JBr@v@h@x@\\p@Vr@\\pARdARdBL`GLfAVp@Zd@TNp@ZXHL?v@HZ?pAMt@Ud@U`@_@HCXe@Tc@P{@D{@Ew@Wy@SWWUKGUQSK[SE?m@e@QQOWGUE[?o@BWLk@LYR]l@q@FMFCNUB?LOd@e@",
+"average_heartrate": 111.0,
+"average_speed": 7.523,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 17330127088,
+"name": "Community Tour Mission - Stage 3",
+"distance": 21147.1,
+"moving_time": "0:40:24",
+"type": "VirtualRide",
+"start_date": "2026-02-08 14:30:01+00:00",
+"start_date_local": "2026-02-08 22:30:01",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u0623\u0628\u0648 \u0638\u0628\u064a, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+"summary_polyline": "e_qmCgjrnIfAnCjBnC~A~AfC~AhDvAjCn@dDd@xGd@nCBz@Ub@g@Ns@?u@Kc@W]]UcAMcLhB_A?mAWg@_@S[qAiHu@wAaA}@kBy@qAQ}B?eAa@[_@W{@CcAN}@Vc@\\[fAWv@D~Br@dBnAfHzIbBfBfBdAbCn@pELfJ]rGaAfH_BdCMdBJdFt@vGjBvAp@t@`Ab@jAJ`BS|ASj@g@p@_IvHk@nAMl@KnAD~APnAbE|MFjAEl@Ov@Yr@c@h@g@`@k@TqAJm@Ii@Yc@g@Se@Kk@Am@PkAlA}CZgADsAWuAk@u@u@c@_AMg@@e@J}@j@a@j@Qp@Et@FrAd@rGZjBd@bAl@z@l@d@lAf@dBPhAEvA]nAu@x@aAj@mAVyALsC^_An@u@fK}Ht@yAPeADmBOiAMa@s@iAuBsAc@g@S_@Ow@c@iFSkA_AaDuAwCoAmBqCmCgEwCqCsAsAW}AA_BRgA^sBvAi@t@{@bBkAhBu@v@}@n@aAd@sBh@gBRmABgCSyAe@eAk@aCuBoDcF}ByBwCiB}DaBcDw@eCOcAB}@Rc@b@]|@Er@JbA^lApDrJz@|AlA~AnBdBdDhBbC|@xE|@~Ir@lCBx@UVYTm@Dw@Mu@U]]Sq@OcAFiJ~AoA@mA]g@_@Q]sAoHi@cAk@m@oAw@}@YcAMqCEs@W]][{@Ek@F_AXy@l@g@hAShALpBr@dBvAhJbL|@p@dAf@bBd@hAL`DDnI[vEk@hJqB`DSrIfApGjBpAr@x@pA\\lADdAS~ASj@g@p@sHfHq@pA[lB?nBR|A~DrMJ`BW|Aw@tAaAp@{@Rc@@qAW[Y_@i@Su@Em@RyAfB}EDeBYoAYc@s@g@y@S}@?u@Rk@`@i@x@Mr@@dBj@~HTjA`@dAv@fAtAz@pAZxB?z@OfAe@t@i@v@eAl@aBLiAPqCd@_Ap@s@rIkGz@aAXm@Pq@JwA?w@OgAi@qAe@g@uBuAk@}@o@wGc@uBoAyD_BwCwBcCqC}BwEoCgBm@iAG_BF}A^aB|@mAjAwAnCkAbBw@t@uAx@kDz@kALqB?oCc@eCqAeBaBaDoEgBkBaBqAuC{A_EyAiCe@_DGcAR[TUZSp@Ev@Bb@p@`CfD|Ip@lAhB|B~AtAtBnA",
+"average_heartrate": 139.7,
+"average_speed": 8.724,
+"source": "strava",
+"streak": 2
 }
 ]
