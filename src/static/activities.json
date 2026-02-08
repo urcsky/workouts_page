@@ -21780,6 +21780,21 @@
 "streak": 1
 },
 {
+"run_id": 17324141184,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5188.9,
+"moving_time": "0:29:20",
+"type": "Run",
+"start_date": "2026-02-05 11:48:06+00:00",
+"start_date_local": "2026-02-05 19:48:06",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wxb~Coy|vUKNYTSZ{@dAyAvB}@`AcCrD[Vw@`A_@p@a@\\Yd@g@h@s@lAUXABBJEHQZm@t@SPc@j@y@x@c@r@W\\U`@QNILw@t@g@~@ONs@b@cAb@cAVaALiAB_@A]@m@A{@DYCc@?aACk@@IEIIMe@C]Ay@K]GqA_@iCAm@Mg@KsAKUQ}@Em@@m@Go@AKM[QoAO_CMq@o@eH_@oDMu@CSw@sDc@uAk@gCK]Mu@YaASqAe@mBQi@?[H]POTK^Id@Ur@UTMr@YdBg@dAk@n@W`@Yr@SjAi@PEh@UhA_@v@c@p@MPMf@Uh@Ol@Uh@W^MdAe@n@UlCqA~CeAh@_@ZIf@Sp@U`@Sv@[j@G`@KRChBmAtBi@nAk@pAa@`@ILGJZTb@Bb@RdAFj@Lf@PnAd@lBDh@K\\KLqAt@s@Ta@\\CJYj@ER@R@JT^f@v@dAhB|@pA",
+"average_heartrate": 146.4,
+"average_speed": 2.948,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 17318363290,
 "name": "Community Tour Mission - Stage 2",
 "distance": 20723.4,
