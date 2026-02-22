@@ -21943,5 +21943,20 @@
 "average_speed": 7.807,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17485299304,
+"name": "Community Tour Mission - Stage 7",
+"distance": 12477.5,
+"moving_time": "1:00:17",
+"type": "VirtualRide",
+"start_date": "2026-02-22 14:33:53+00:00",
+"start_date_local": "2026-02-22 22:33:53",
+"location_country": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0631\u064a\u0645\u064a, \u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0633\u0646\u064a\u0646\u0629, \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0631\u064a\u0645\u064a, \u0639\u0645\u0627\u0646",
+"summary_polyline": "yyvqCqmhsISsBKa@Q_@{@gAMIOEs@AOGKKGOIw@Q_@iAgAm@s@]g@a@{@_@{AEq@@m@Fm@N{@Ty@Ti@PYbMgRbCyDtBqCjAqAf@c@l@_@lAk@`A]dCq@bASnGaA~A[nA_@z@_@PMb@]NQbA_B`@}@~AiE~@oBzAkBzDkDx@y@dAuAl@iA`@}@Nu@HiAA}AOaGU}LIiACQQc@e@m@}@w@c@We@Si@IaAGm@D_AL}@VmEzAeBh@q@LmALk@BsBAsE_@{BKoBAw@Fu@Lg@No@b@]`@QVYt@w@|CKBYIcDoA}@e@m@e@]e@Uk@I_@WeBQo@[k@[Um@Qq@Iq@Aq@@oAJ_AD_@?aAI_AU_AYyLoEw@]m@a@o@g@s@{@a@q@i@kAo@}@W_AKSmAaBg@e@}AgAm@W[Cc@?{@PWB[EWOKK_@qAWi@iCuDSg@Mo@Aa@@o@JkAAYI_@SYSM]Ia@?UFWPKNa@z@KNOLMD[B]GUQKQKi@AQBSPc@d@o@J]BYGg@q@wAE]@UBINY`@_@P[HW@QA]K]S[mAyAY[]K}@MUIUMMQIa@?c@\\sCXgBBQA[Og@[e@QIu@QWKSSGIE[@]FYX[PIr@GxB?TCTITUHQH[?WMg@Yk@iEeG_ByBa@U[C[BSFYRMTIZAZ@TDPP\\JJNJXHr@DTDTLPPHX@ZCVKXYVQFSBa@A_BOaA@_@JYNQRIRCV?VBZ~AnEJ\\F^ALEVKPQPKFM@Y?UGSOKQWsAUq@w@kA}AgBk@y@]s@o@mBQ]QU[UYGS?a@HQLQRMd@?`@BVHRVZh@^HJHRDZ?LETILONKBS@IAUISSc@_Ac@oAi@oAcAuAgAoA{AyBoBiD}C_G[y@GYA_@?yAC_@O[SQOGUCM?QB[Ro@r@]\\OH[Lg@J_BNa@NONY\\MZA\\NdA@ZGZQPa@Jk@DSAQEIEMOI]AWBQVm@FYB]Ge@Oa@WU_@Ie@AYGKOCK@GHMTIxAKRENETSLSFQDaBFo@HWT_@XWb@Ut@Sl@K\\M^UNUJc@?_@Mi@_@u@CY@WFUd@gADQ?WEQIWWYYMUAg@F[Z[n@W^qBjAsA|Am@f@o@b@k@TcDfA_AT}@LmAHoAB",
+"average_heartrate": 137.6,
+"average_speed": 3.45,
+"source": "strava",
+"streak": 1
 }
 ]
