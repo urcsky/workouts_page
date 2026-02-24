@@ -21958,5 +21958,20 @@
 "average_speed": 3.45,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17505679087,
+"name": "Zwift - 2x15 FTP Intervals on Road to Sky in Watopia",
+"distance": 10355.1,
+"moving_time": "0:53:41",
+"type": "VirtualRide",
+"start_date": "2026-02-24 12:46:46+00:00",
+"start_date_local": "2026-02-24 20:46:46",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "nlefA{l}y^`@Z`@Rj@NP@DB\\Bt@THHJBRRb@j@rBjD`@b@XTl@\\z@Xl@JvALd@JbDT~A@dBIz@MnAa@RCx@_@z@Yz@_@xBu@`AQdAAV@|AZVFbAf@p@Pp@HfB@bBGTHLTBXOn@?XLRRNV@TCf@YTGR?~@JlA^NLHN?RIRMNe@J_BCa@LU\\EP?PBTJL\\XpAn@dAx@t@~@d@~@^lAD`AGlAc@|BAX@VLPPP`Af@X\\\\x@FVBXEVWj@Kb@@XJb@?TKV]XQFk@?WEoBw@k@AWRWb@a@\\SVEL@RFZLXZ^dAj@Z\\BNCX@LXp@ALKHM?OG[Sa@A]NGNCPBNFRd@z@?RMNs@VOJIRATBd@Jb@LRbAb@v@PNHJNBj@G~@@TJ~@Pz@Tb@LNNLxAx@\\`@j@hAXrAFTJN`@Xz@Rz@XPJLH`@x@JNPJf@LjAFn@Rz@\\^@ZMr@c@\\G`@?^Db@APEj@[t@@`APh@VHLJ\\F\\@t@DNPZVZ\\PR?NGhAm@d@Eb@?d@F\\THPBPAh@ObBOp@s@xDi@dE_ApF[tAY~@C\\BZJZf@n@VRr@|@hAjAd@r@DD|@xAJHJP~@|@NRHNLn@t@tAt@v@ZTNB^TNPHBJLb@x@r@hCLbAPz@?LIFIA[iBe@gAU]sAw@MC[QWCACs@Gq@[WACCq@CACIAQO[o@[c@U[EAk@w@g@c@QKMOe@Yc@_@ICGKYOWYICOQGCUYMG[@IJCNLRj@\\t@t@ZPVVLTNh@@JGLK@KGO}@QUWKACKAACQCCCKAAE_@IACUI}AaBa@QSQc@?MT?HFTl@X^b@h@v@JRLH?B|@^`@dA^VFJNHRTd@fANp@?DIFMACM?a@K]KSGCGIQKSO[OMCSQKCOKq@[e@GOFILG\\KnBTdB\\hADb@AZUpB@VJz@F~@C^g@xAQnAGl@KfB_@pC@RFHLHP?PIHMBW@iADa@\\uARi@LOb@[`@Ij@YPCHE@CZKb@UTSXw@PEDF?DK^Wb@u@z@GBONWPq@j@SZQj@SfAE~CDpAPn@Fb@APIT]b@YTI@g@AOGCCa@GY@CBe@Fu@ACCUAACy@IOGCCo@IKEWAUHCRDLJFb@HXJf@Vd@^",
+"average_heartrate": 131.6,
+"average_speed": 3.215,
+"source": "strava",
+"streak": 1
 }
 ]
