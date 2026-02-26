@@ -21945,6 +21945,21 @@
 "streak": 1
 },
 {
+"run_id": 17531302170,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5272.2,
+"moving_time": "0:30:06",
+"type": "Run",
+"start_date": "2026-02-20 12:14:37+00:00",
+"start_date_local": "2026-02-20 20:14:37",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wxb~Cuy|vUq@x@OV]Va@d@w@fAg@j@uB~Co@r@Sb@gAdA_@p@gBzBg@|@STq@pA}@`A[b@wA`B[`@e@~@u@x@a@j@g@j@cAn@yAp@e@LmAFiC@eAD]Cs@@gBC[Y_@kEI_@QuA?YGW?}@Kg@Gq@WcAOcAIuBWwAQeBEQCk@_@qCSgDWiCS{@UmBu@}Ca@{BEIIIMg@Sk@c@mBMaA{@iDEg@BSDITQXEx@WXGTMnDiAPQ`@Wn@W`@Wr@YVG`@Q`@KdAi@`A[nCmAbAYbA_@NMXMf@Ur@U|@_@^]hC}@n@ORMf@Ql@_@l@QPBp@_@x@_@VIj@ANERM^Oh@_@fAi@LMJEJCRBTCNB^KfAw@n@Uj@[JAJ@DFH`@Rj@DXL^TzBPbANf@X`BCTOX{@f@i@t@]J]TONGNQRCLF^LVd@r@",
+"average_heartrate": 146.8,
+"average_speed": 2.919,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 17485299304,
 "name": "Community Tour Mission - Stage 7",
 "distance": 12477.5,
@@ -21971,6 +21986,21 @@
 "summary_polyline": "nlefA{l}y^`@Z`@Rj@NP@DB\\Bt@THHJBRRb@j@rBjD`@b@XTl@\\z@Xl@JvALd@JbDT~A@dBIz@MnAa@RCx@_@z@Yz@_@xBu@`AQdAAV@|AZVFbAf@p@Pp@HfB@bBGTHLTBXOn@?XLRRNV@TCf@YTGR?~@JlA^NLHN?RIRMNe@J_BCa@LU\\EP?PBTJL\\XpAn@dAx@t@~@d@~@^lAD`AGlAc@|BAX@VLPPP`Af@X\\\\x@FVBXEVWj@Kb@@XJb@?TKV]XQFk@?WEoBw@k@AWRWb@a@\\SVEL@RFZLXZ^dAj@Z\\BNCX@LXp@ALKHM?OG[Sa@A]NGNCPBNFRd@z@?RMNs@VOJIRATBd@Jb@LRbAb@v@PNHJNBj@G~@@TJ~@Pz@Tb@LNNLxAx@\\`@j@hAXrAFTJN`@Xz@Rz@XPJLH`@x@JNPJf@LjAFn@Rz@\\^@ZMr@c@\\G`@?^Db@APEj@[t@@`APh@VHLJ\\F\\@t@DNPZVZ\\PR?NGhAm@d@Eb@?d@F\\THPBPAh@ObBOp@s@xDi@dE_ApF[tAY~@C\\BZJZf@n@VRr@|@hAjAd@r@DD|@xAJHJP~@|@NRHNLn@t@tAt@v@ZTNB^TNPHBJLb@x@r@hCLbAPz@?LIFIA[iBe@gAU]sAw@MC[QWCACs@Gq@[WACCq@CACIAQO[o@[c@U[EAk@w@g@c@QKMOe@Yc@_@ICGKYOWYICOQGCUYMG[@IJCNLRj@\\t@t@ZPVVLTNh@@JGLK@KGO}@QUWKACKAACQCCCKAAE_@IACUI}AaBa@QSQc@?MT?HFTl@X^b@h@v@JRLH?B|@^`@dA^VFJNHRTd@fANp@?DIFMACM?a@K]KSGCGIQKSO[OMCSQKCOKq@[e@GOFILG\\KnBTdB\\hADb@AZUpB@VJz@F~@C^g@xAQnAGl@KfB_@pC@RFHLHP?PIHMBW@iADa@\\uARi@LOb@[`@Ij@YPCHE@CZKb@UTSXw@PEDF?DK^Wb@u@z@GBONWPq@j@SZQj@SfAE~CDpAPn@Fb@APIT]b@YTI@g@AOGCCa@GY@CBe@Fu@ACCUAACy@IOGCCo@IKEWAUHCRDLJFb@HXJf@Vd@^",
 "average_heartrate": 131.6,
 "average_speed": 3.215,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 17530198062,
+"name": "Zwift - Day 1 on Road to Sky in Watopia",
+"distance": 11671.6,
+"moving_time": "1:25:54",
+"type": "VirtualRide",
+"start_date": "2026-02-26 12:28:27+00:00",
+"start_date_local": "2026-02-26 20:28:27",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "vjefAun}y^fAfAt@`@p@PvAVf@Zt@|@|AnC\\b@v@r@~An@jDd@hDTdDA|Ba@tJkDdAMp@AV@bBZzAp@nATbCDnAKVHPPHVQjAHVRPVBVCf@Yl@MhB^t@`@DRAR[^SHeB?e@HW`@Ed@DRJLp@d@`Ab@dAz@^b@n@nAd@nADf@CtAU|AS~@@b@JTfBjA`@x@Jb@@ZG`@Yl@ET?XJx@ITYVa@L_@A_@GeBu@g@AWJa@n@k@d@GNALB\\JZLTf@b@x@f@PRBLAZZ~@ALKHO?]Ua@Ga@HKPEL@Pl@vA?PMNw@ZOLETATDh@Rd@LJx@\\z@PPLFR@VCxA@RPrANj@HP\\\\zAz@\\`@n@lAZvAHP`@`@d@Rj@H|@^Z^Tf@LNd@T~AH~Aj@^Bj@Ot@a@^ErAD~@a@v@?rAXLFTVT~@@r@FPR\\XXNHb@?NGx@i@t@Gb@?b@H\\XDNAh@OrB}@rEy@fGc@hCg@`C_@pAC^@TRd@lE`FfAfBp@x@z@z@P\\Nn@|@|Ar@r@fAj@VTV\\f@tA^vA^|BCTM?[iB]w@e@s@aAk@u@[sAQUQSGUEy@COGMMUg@k@y@eAmA{AoAKC_@_@g@YgA_AUYQCOBKJ?RJNh@\\n@n@z@n@NTJ`@BRGLM@IGMw@KUeBo@e@SgAkAk@c@e@W[@MPANLVj@X~AxB|@^Vt@HNdA|@j@lANp@ILE?IGEy@KUWYe@[k@Sq@e@gA_@U@S\\O|BTjBX`AHh@?TUbCPlB@^Id@]bASnAMhAGvA_@nCD\\LJJBVGJODSFqB^}ATi@NOTMrBu@`Ae@RSVu@HGH?DLc@bAw@z@IByArASZK\\UtAGrDFv@Tz@BZKb@_@d@_@Te@As@Sa@@UDAB_A?CC]ACCeAUoAQUBKJ?LBLFDl@Jf@RHJfAr@n@XhB`@RLhArAb@Nl@@|@Kb@[d@eAL?BJQ\\eAzAoAj@u@HUAMGoAkASIsBEACe@Es@M_@Qe@Ie@YM?IDGHANNT`@HfAh@fDhATNh@h@hAxAv@\\j@?b@I`@C|B?^Op@u@XMT??B`@CZJ?HEFoA?KJq@lAs@\\",
+"average_heartrate": 112.2,
+"average_speed": 2.265,
 "source": "strava",
 "streak": 1
 }
