@@ -22048,5 +22048,35 @@
 "average_speed": 3.253,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17637966614,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5123.9,
+"moving_time": "0:30:01",
+"type": "Run",
+"start_date": "2026-03-05 12:02:18+00:00",
+"start_date_local": "2026-03-05 20:02:18",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "qyb~Ccy|vU]ZeAxAS\\q@t@k@z@wAhBqAnBsBrBUZWd@u@x@i@x@[p@Yf@CLe@r@a@`@U^YVSHSRwAtBUl@_@`@I@OLk@~@MLQLw@b@s@XqAXoANg@DyAG_ADq@AYByAEQEE@?`@D@?NLVRFp@D|ACbBH~@C`A@l@I`B]~@a@~@m@dAgApAsBt@cArD_Fv@{@xAyB|AkBpAcBpCaEr@{@`@o@d@e@Zi@xAkBjA_Bx@cAtB_Dj@a@h@u@N[rBsCNEN@FGt@cA`AkAj@y@\\a@j@_An@}@\\]f@o@DEPC?EAAICMDELCTQLe@l@a@j@i@n@_@n@a@\\[b@QTU^WTMX{@jAYV[n@cBrBMV}@fAYh@KHu@bAk@p@aAr@e@h@]Xu@hA{AnB",
+"average_heartrate": 143.3,
+"average_speed": 2.845,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 17636231707,
+"name": "Zwift - Road to Sky in Watopia",
+"distance": 18563.7,
+"moving_time": "1:44:38",
+"type": "VirtualRide",
+"start_date": "2026-03-07 12:01:28+00:00",
+"start_date_local": "2026-03-07 20:01:28",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "dlefAem}y^v@l@`EhAt@v@xCvExA`ArATdFh@jBFhCGxEgAzFyB`CUhC^dC~@~AJbDG^^BXQ`AZh@j@@v@]h@EnARfAd@Fd@g@h@uCJ[j@?f@R^lB`AjA`AtAbC\\fA@p@GrAc@hC@`@b@j@rA|@`@~@Fv@i@~ANxAa@d@_ALgC}@i@Ca@VkAvA?l@`@x@nBxA@r@Z|@EL]@y@]_@FUV@`@n@|AKRoAl@Ch@Jx@r@n@vA\\\\V?nCf@hCjCrBbAfB`@`Bj@f@`Cr@xAjBlBN`Bl@h@DvAs@xB?x@a@z@?nBn@XbAB~@|@fA^JpAu@|@I`AH`@f@AzAMbAmDdTq@fCAdAf@|@jDtDdBlCvAxAl@`Bp@hA~BdBf@j@nAtD^hCIJKG[kBgAkBoB_AsAQ}@_@gAIiDoE_GwEa@?G`@dDpCVx@CXYEYmAuBu@gC}Bi@WW@QTDZ|@j@hAbBlAp@Xv@pApAr@rBCJQ?OkAeA_AyCwA]?UZMfCx@pEYpCTnCg@lBW`BM`Ca@|CD^b@HVSFoB\\}A^_A`@]vD{At@qALB?N[v@}CrCa@x@UnAIpDFfAXvAi@dAa@V{AUyBJyDq@]HCTJPrA^vBrAtBf@vAzAl@TdBI^Ul@kAJ?BLyAvB}@d@eANe@I{AsAaDQ_DcAUBI\\LRxGbCbClCx@\\hFMh@UbA}@v@?ZLORcAC_AxAk@Z_AHwAn@gALuCc@qCaBq@y@a@EOJCVJT|BvA~BrCv@h@hATjCHdB`@fA?d@SXi@v@Yj@}@R?@JoCzD_Ab@_GDsBXaDm@k@HCf@ZpAB|CP|Dr@bAXt@`@lBB~@OXe@DaAy@q@IkATo@\\mCbFc@dBoAtCgEpFY|@F\\`@F`A}AnDkBhFkBzAUXXt@dBv@z@?JyAg@y@Cq@BwAh@aBhAuD|D_Ah@MVDZ`@FnAeAj@ShC?nAp@jBdCfAx@xE~AlEfC|BZlBFb@Ud@mAJFCzCk@~@mAx@yBx@eGt@OZ\\`@pGrBnH~@vA@`AMx@[|@w@HHaAt@kClCgEtAoHfAeHf@mAf@iFz@s@VOd@BVl@h@fD_AdCZlC?n@P\\dAAfBYZ_Bv@a@p@_@P",
+"average_heartrate": 111.3,
+"average_speed": 2.957,
+"source": "strava",
+"streak": 1
 }
 ]
