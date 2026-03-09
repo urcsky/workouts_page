@@ -22078,5 +22078,20 @@
 "average_speed": 2.957,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17659618864,
+"name": "Zwift - #6 Built to Last - Long",
+"distance": 12634.3,
+"moving_time": "1:15:15",
+"type": "VirtualRide",
+"start_date": "2026-03-09 12:07:23+00:00",
+"start_date_local": "2026-03-09 20:07:23",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "bkefAgn}y^p@p@p@b@t@T`BXn@`@x@dAbBvCXZlAz@~Ab@hGn@lAB`CCvCi@bI}CxBYr@DdB\\`Bt@t@HrAHt@?nAKXDPPJR?ZOp@BVPTTFXC~@a@VElB^v@`@DRETKTQJQD}BBQJU^?f@Xd@NJtAn@fA|@b@d@n@rAb@pADv@EdAg@vC@b@T\\z@f@h@h@`@dABj@_@hAGT?XJf@@RCJ]\\a@Ni@A[GkBw@]AMBo@|@m@j@CL@`@Zr@d@b@bAl@LT@n@Vl@@LGJMBu@]a@A[NGLCNBPj@nABRKNw@XOJIRAh@Rz@p@`@`Bf@LPDl@G~@@VRzANj@j@p@zA~@h@r@^x@R|@Zx@b@V~A`@b@TLHl@hALJd@LxAH`Bn@Z@XIfAi@ZEz@D`@Az@_@r@?pAXf@^Np@DfAFNV^j@^d@Gz@i@v@Id@?b@H\\ZDT?f@M|AkArGc@jDk@jDg@hCc@xA?h@FVT^dDnDr@bAx@pAjBtBJTNn@p@nAt@v@pAt@h@j@l@|A^vA^hCGJMGGk@U_ASi@a@q@g@]yAq@y@IWGSQi@M{@CQGiAgBwAeBgDcCwAsA]AOL?RLTn@^bBvANTJb@BPELO@IGO}@QUyBu@gBiBk@]OGU?QJAXFRp@\\vApBNJn@Vd@fAdA|@f@dARx@EJO?EKCq@GMKUk@c@u@Y]YaAc@g@GUNGXMnBX|B^xA?XWbCThCIn@_@bASnAUhD]fCFXRLTCPSDY@oAD[XiA\\}@b@]tD{AVYZw@J?DLER]n@u@z@yAhAY\\Qh@UnAGpDF`ATx@BZANIRY\\e@\\g@Au@S[@YHaA?_AM_B_@_@CQBIL?PLLb@Hx@\\z@l@z@b@|AX^TbAlANJVHp@@z@Kb@[f@eAJ?BJENs@z@]l@oAj@s@HWAMG}AsA[EcBAa@Iq@MgA[g@YUDGLAJRTdFfB|@d@j@h@hAxARNd@Lb@?jAMvB?`@Op@u@ZMx@?NBHHALC@aAAQDy@tAi@Z_AHUHcAd@}@HAB}AM}@U}@c@eAq@][_@g@MGY?KFEXDLHLpAl@rAnArAhBv@h@XH",
+"average_heartrate": 108.0,
+"average_speed": 2.798,
+"source": "strava",
+"streak": 1
 }
 ]
