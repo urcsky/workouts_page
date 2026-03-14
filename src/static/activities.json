@@ -22095,6 +22095,21 @@
 "streak": 1
 },
 {
+"run_id": 17720593465,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5254.0,
+"moving_time": "0:30:04",
+"type": "Run",
+"start_date": "2026-03-12 12:24:12+00:00",
+"start_date_local": "2026-03-12 20:24:12",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wxb~Coy|vUi@h@uBvCIPm@p@cAzAw@z@k@|@eAfAcAzAm@l@Wd@WVy@pAm@nA_BrBgA|@o@`AUVWj@gA|AW\\QP{@h@m@XmAXgAJiAFo@?e@CsBDkAEiA?MIEKC[E{BMo@Go@?}@_@sACi@YeBMmAOkDCACKYmBCm@Q}@Ag@Ie@KkAI]A_AMu@Cu@Mm@Gu@My@ASGe@Og@Ea@S{@Mc@UcAIW]wAGa@[k@McAW{@Gm@Mm@Ga@Qy@]cA@s@VOXIj@_@~Ae@h@Sd@Ut@Qp@YROb@Ov@e@v@Uv@_@zAi@n@[xAi@~@a@tC_AdAm@b@MTSNAv@a@pAc@b@Wr@U\\I`@Qx@e@XGVMv@UzAm@\\GXCf@URDH?fAaAv@_@P@REXQ`@Of@a@XM\\G~@e@VCHDBFLt@HRFXZbAFXDd@FTFr@^~ANpAAREFe@ZQBGLm@f@i@P_@ZWn@CTJj@FJ",
+"average_heartrate": 144.4,
+"average_speed": 2.912,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 17708118853,
 "name": "Zwift - Aerobic Foundation Forge",
 "distance": 12392.6,
@@ -22107,6 +22122,21 @@
 "average_heartrate": 113.6,
 "average_speed": 2.276,
 "source": "strava",
-"streak": 1
+"streak": 2
+},
+{
+"run_id": 17719728056,
+"name": "Zwift - Glyph Heights in Watopia",
+"distance": 33940.7,
+"moving_time": "1:28:03",
+"type": "VirtualRide",
+"start_date": "2026-03-14 12:27:37+00:00",
+"start_date_local": "2026-03-14 20:27:37",
+"location_country": "Temuo, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "|qofAs{`z^i@dAQpDeBbCUpGeDvIw@l@}CDy@z@d@fFwAzExAhA`Eh@r@nASxBuB~DOhD_FvEeH|@m@WeCuFm@M}DvEmGd@aAx@b@`BlGbAlAhBV~HjAbBiAnMl@xBs@hAFl@rAl@jDeBr@`ChB~A~AEZ`B_Ap@eIbA\\lD_DfM_ElAmAlCwLhOgA~GoDjB}AzDuAx@eG^cAe@rBwOwAeGXiBcAk@aD\\oEuDhBgDs@uCrD]\\w@i@kAqEu@_AoAMuEbAsDfBs@bCjBvCVv@qCjACf@t@`@vEs@h@eC?m@fBoG_Bd@sDpCwCv@kDv@WdCr@~@oAiAaChAsHiHiBiDoEbBiC|@}EQuAmBeBt@wCYaHVeAnB_@hAgDB}@qAgBHu@lDeB`D`@h@y@[{Cd@eBpDJhA_AbA}JpFJfBuA`@cBiAqCkDUwC}BqBZ[qAfAwAe@sAcAM}BP[cBtAiCz@yHyAaC{BJwA_Ae@iGsHCgE{CeAE{@~@q@jFkAh@cAy@SqFeB_@}@z@KdF{@\\}@m@Y}FyAe@y@fAMzEu@Xk@u@QqFcAm@cAb@H`Fg@h@aDiBoL?mDrGh@bKmGzDaDsBgAHgAdAe@tCiBvAHzA|CnD?~BoBlFyDdBcRg@yBsEgHIiDcByAwE?iCy@cAgOy@eFlF{BnE{EtSHfFqDjCcAtFeCpGiCtB{@KWcAdAkGo@{@gBNcBnBw@zDoAvMGbE{BZw@}A_@oLbAeJs@wBsAm@yBlE@zOwBbGu@FoDiETeEpBwDb@kC_@_AiB@sDbG_C|OwAg@e@iBvBmKy@c@}Ah@mCvHAvE{A`FTrDtCfF~BxB`EhAhEfGzAbAdIdAvF?pPwEjH~AtF?n@n@QbAd@v@pCc@pCdA_@`AaDPWjAdFbEvCvHlAjAlCn@z@iAEcB\\i@hC?jCbBh@rC|TtHrEQrB`@^pA`Bx@XlCcAnAuAc@u@Vc@tCwHZkC}A_Ew@qAjAp@~DSpDjCnBg@`ErHhErHcB`@_AOgBv@{Aq@{B`By@lBVpB|Bn@GbAiBvCpB|Dw@tFxBPfBz@XfMOtBaCfEeClBc@tD^vCeAnEb@dD~AvHs@t@`@dApCdBApCcOwAaH\\yAgAq@eDZcE}CbB}Du@sCtD_@\\cA_@y@_GyAi@eBAsCf@qCdAsA`AObCjBrCVpA{CtAj@h@`Fs@n@kC?e@fBcF}@m@g@h@uD",
+"average_heartrate": 122.9,
+"average_speed": 6.425,
+"source": "strava",
+"streak": 3
 }
 ]
