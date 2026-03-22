@@ -22183,5 +22183,20 @@
 "average_speed": 2.711,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17816176602,
+"name": "Zwift - Climb Portal: Col de la Couillole at 100% Elevation in Watopia",
+"distance": 12538.8,
+"moving_time": "1:14:28",
+"type": "VirtualRide",
+"start_date": "2026-03-22 12:16:47+00:00",
+"start_date_local": "2026-03-22 20:16:47",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "li`fAwg}y^jAfDt@bBJf@?XKTw@x@IVEf@IZmAhAg@z@[v@OhAM^[d@yHpNw@lAc@RORa@lAWbAIjAD\\HN~@p@HRCZWr@a@~@e@h@KHw@CODaAb@YZS\\Qj@Kn@@h@Hb@LX?HOFQAy@g@_@a@MYAUDQP[h@k@`As@hCyAVc@J[B_@CWGKSU_Am@m@gAYy@E]@a@DM`@WJOBUGY[YYI}@DUHQLGXBNp@d@FREXi@t@EN@PTp@`AjAHb@Ah@IXOTuC~Aa@\\s@|@u@xAG`@Dj@y@bCC\\Dl@W|@@f@Jl@A`@Sj@]ZQ?]McAi@a@KcACiANy@ASOWe@OG_B[oBUqACCCkA?EBsBBEByB@_Ab@[p@KH[JmAL}A\\mAh@e@\\kAvAgArBQh@?zAUb@k@RkBb@gBXUJw@H_@TkAbAYNm@HwDrBKHg@?}@]uAu@eA[kB[cBOaAAoALg@?i@[mE?wANsCv@mAEiALw@?oAa@k@?g@L_@?]MmEDs@Sc@?mAb@m@^oAj@]B_AYg@?WHa@h@{@jBaBfCm@d@w@ZoEx@kIdAcA@mBSo@@{DlBgATm@BmATg@ZUXi@T{ALyABaAL}Bn@c@A]Ka@[y@ScCc@eC]uBI{@Me@Ms@_@o@OaBIaB?k@Hw@Xe@?aCo@YCk@@s@Vi@Aq@WWQKQIe@KU[MgAKWMS[UeAUe@MG]?SHKTUjAGr@DRJN?h@DN|@rAfA`A~@d@jCr@t@VbARf@TPTJl@RZTNzAd@HVBl@HLd@Ln@FxDH`AFFDBL?n@NZRNb@?jASh@FfD|A`@DhADlA?LHDLARKRo@bAkBbCy@zAUfAEnCM`AS`@sArAWn@Gj@Av@Rx@Mb@?LBLHFd@FHVD`@ARUNaA?y@]IMASDM`@e@FO@SGMMKu@QMOGQ?UHOb@k@@SIaABMXk@p@}@Pg@?QAWO[iAiASq@Es@B}@^m@FUE_@UUm@Ug@GY?u@R[?k@OUOOEUMW_@IEu@?wAh@{At@uBr@uIxBqGxAc@TaAzAWNYDMEMUC{@Dc@Zk@Dk@?eADWHUd@WxBCPEJGNSL]LkACu@I]Q_@YWc@A_@LeBjB",
+"average_heartrate": 139.0,
+"average_speed": 2.806,
+"source": "strava",
+"streak": 1
 }
 ]
