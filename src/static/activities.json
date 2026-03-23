@@ -22198,5 +22198,20 @@
 "average_speed": 2.806,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17827619611,
+"name": "Zwift - Aerobic Foundation Marathon",
+"distance": 11012.3,
+"moving_time": "1:09:26",
+"type": "VirtualRide",
+"start_date": "2026-03-23 12:22:28+00:00",
+"start_date_local": "2026-03-23 20:22:28",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "reefA{u}y^n@rAr@fAlBxBj@f@H@VN`ATp@HVH`@Rt@x@nAzBp@bAt@l@l@`@RBNH|AVbE`@pBH|BCbCc@lBq@`CcAfCy@bBMlALdBj@p@Xt@RrAFnAAt@IXDTNJX?VKZCXJVTRVBxAk@p@F`ARd@RRHJTATKPOPUHmB?UFOHSb@?XBTLN`@XhAh@hA|@`@d@v@|A`@nA@f@ElAg@xCBd@JPNP`Af@PPd@`AHd@?VET]z@ERB\\Lb@ALIRSTi@Na@Aa@KaBq@i@AMD[^GPm@d@INA\\@NL\\b@l@fAj@RTDN?f@BNTb@?LILQ?k@[QAO?QFKJIN?PL`@R\\Lb@CReAd@KLETATFf@Rd@NJv@\\z@PNLFR@RCvA@TRvANh@HR^^zA`A\\`@Xd@Th@R~@Rd@^ZjCx@LLb@x@^\\f@LlAF~Aj@^B\\Kt@c@\\Gp@?r@B`Aa@t@@pAZZRNZH^Bp@F`@RZf@d@`@@^Qh@_@r@I`@?d@D\\THNBRAx@Eb@yAlIk@`Ew@xEo@~BEX@XNh@xDfEb@h@lAnBl@r@n@j@LVPt@v@vAz@x@h@Vl@b@PTh@lA`@tAf@vCCRI@GGK}@Ss@i@iAY[cAi@OC[Q[Cw@MSQSGQAAC}@CACOCOSa@u@aBsBOOQI_@_@KCMQ]SMOe@YGKaAs@OSOGQ@MJCRJNz@l@d@d@\\RZZX~@ALEDM@IGQaAQQk@WKAOKw@UaBcBu@c@YAKDIPBXXRVJNLjAhB`@TZHJJZx@fAbAf@dARx@CJQ?EKAm@GQ]c@g@[i@Sg@_@gAc@_@?QRE\\IpBRbBJb@LXHl@?\\WrBBZPxA@^S`AUf@Q~@MnAM|BYnB?RFLPJJ?VKFMDkBZ{A\\_Ap@e@PCv@_@PClAk@RSTo@JMLB@LYr@c@j@mAdAGBg@b@SZSr@QdAGrDFv@Pn@Ff@IZ[d@_@Za@@[IUIKA_@@ABU@CB}@?CC_@ACCYCACi@IACYGq@IWBIR?JJLj@Jf@Rt@h@~@h@`@NhANl@d@t@|@NJVBBDh@@~@K\\UJMXu@FGJ?BBEVw@`AMXKLc@TOBABWHABu@HUAMGSQ",
+"average_heartrate": 119.5,
+"average_speed": 2.643,
+"source": "strava",
+"streak": 2
 }
 ]
