@@ -22243,5 +22243,20 @@
 "average_speed": 2.498,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17912225112,
+"name": "Zwift - Threshold Double Down",
+"distance": 12517.8,
+"moving_time": "1:10:08",
+"type": "VirtualRide",
+"start_date": "2026-03-30 12:16:02+00:00",
+"start_date_local": "2026-03-30 20:16:02",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "piefAap}y^|@fA`Az@`@PjCh@^Rn@p@lBbDb@j@`Av@l@Vj@L|Cb@pCRtBBlBItCs@zD{AjBq@dASn@En@DbB\\dAf@fB\\hBDfBKVJPTDVOr@?XNTTLV?`Aa@l@GvAZx@b@HRCT]^i@HsACc@NUb@?f@Vb@tAr@xAhAv@bA\\t@`@rADd@EnAQtAU`A?b@BLVZv@^d@b@Xn@Ld@@XGb@Yn@EP?RL|@AHKTQNm@N_@AeC_Ai@?WRWb@u@t@?`@Tt@Z^dAl@RTDL@h@Xr@?LGLQ?m@[OAa@FMJIN?PDP\\l@Nf@GNgAd@KREd@Fh@Rd@RJb@TpA\\LLFj@E|ARtANj@HRZ`@|A`Ah@r@b@x@TfARd@b@^`Cr@^^b@x@PJh@N`BJn@Zl@NP?\\Kt@c@^GbBB~@a@r@@bAPh@VN\\H^LtA^h@XR`@FPGx@i@p@IhAD\\TLb@GbB_AzE}ApKo@`Da@vAC^BXJZNP|DjExA`ChBlB`@rAt@nAt@r@lAp@Z^\\p@r@`C`@fCCRG@GESoAOi@g@cA[[oB_Ay@IuAg@y@CQGy@sAuAcBgA_AuCwBm@o@SGW@IP@P`@^RHjB~ALTLb@@NGNK@KGO}@SUiBo@SKuAuAw@k@QGQ?QJEPBRp@^|AvBLJp@Vd@fAdA|@b@~@V~@MLMGAo@Wk@k@c@q@Yk@_@o@Yc@KQ@S\\O~BRzA\\vAFb@WpCTlCKr@_@fAWlBKnBa@|CFXLHX?TWJ{B\\}AZs@^YfBo@pAk@RWVq@HGJB@HK^Yf@c@f@wBhB[p@WxAGtDHfAPd@Db@CR_@j@g@\\g@Au@SY@YHeA?sASiAY]CWFETBHJHf@JXJjBlALBTNdAPb@NTLjArAd@Nd@@|@KVKLOf@eAJ?DJENsAhBoAj@q@HUAOG}AsAWEcBAi@IwBi@c@YWDGLAJFNJD^Hh@Xh@TzCbAb@\\hBtBNNb@Lb@?jAMnB@l@Qp@u@XMv@?VDBFALOD}@COHs@nA]TYHq@DyAn@[Fg@D_BMy@UyBoAi@c@[e@_@IG@OLATJTrAp@fA`A`BvBv@h@^Nf@@@BhCH@BZ@ZLh@J",
+"average_heartrate": 133.6,
+"average_speed": 2.975,
+"source": "strava",
+"streak": 1
 }
 ]
