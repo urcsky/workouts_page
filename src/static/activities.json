@@ -22288,5 +22288,20 @@
 "average_speed": 3.207,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18027042211,
+"name": "Zwift - Diesel Distance Builder",
+"distance": 9797.5,
+"moving_time": "1:00:05",
+"type": "VirtualRide",
+"start_date": "2026-04-08 12:15:55+00:00",
+"start_date_local": "2026-04-08 20:15:55",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "`jefAoo}y^l@t@d@b@|@h@RBRJT@DBp@Hv@\\r@x@`BrCt@`At@h@l@V`@JnDd@|ALpBHhBC~@Ij@Ij@O~Bw@rCkAxAe@fAOr@?V@lAR|B`Av@LpBFt@CZEX?XFNV@ZOr@FZPTXFVCl@YVGr@@dARl@XNNBRGVOTSFWB}ACUFOLMRERATFT\\^jAh@pAbAx@bAd@bA\\fAFv@E~@OfAUbACT?XHTNP~@f@b@b@R`@HVDVB`@K`@S^GX?^Lr@EPSTg@T_@@y@SgAg@]G[@URYd@c@\\SX?^H\\NX\\`@jAn@NV?j@\\|@GPOBOC[UOEQ?_@LKNANDRj@tACTgAd@MRCN?T@TJf@LPNJd@T|@NRJLNDT@XE`A?VLdAVbAHPNPd@^f@Vb@\\l@x@Th@TbAPf@NNPLf@R|@RRB`@^b@x@LNRHh@Lz@DTDpAf@^DNA^MZUZM^EfADPAbAa@fAFdAXJFJNL\\F`@?r@BLHRTXZRNFP?j@WZU^K^Ab@@b@FNHJNFN?h@Ex@Iv@Ql@k@dDmAhIc@hCWhA[dAEb@BVBLLTn@v@HBj@t@FB^d@ZXDJFBd@n@bAbB^^BHNHr@x@HNHd@Zr@^l@r@t@HDPNNB?D\\Nf@b@BJT^Zx@Nt@Tl@LfALp@CRM?QeAOk@Ma@Uc@Y]aAg@ACGAACOCKKMAACWCCCUAWEa@UKAACUAACy@CACMCSU_@s@EEW_@cAmAq@i@GIQIOQICACWQGIICIKEASSEAIKQIu@u@OCSBIL?PJN|@l@d@d@ZRZZJTJb@@HENO@IGO}@QUMCKKKAACQCACKAAEa@IACUIk@k@[_@ICKQKCGIMCQQ]AMFEZDRt@^x@fAR`@LLVNJ@@BNBFDFNNd@HNdA|@b@~@V~@?DKFKECk@GUQ[i@c@u@Y?CIA]YWIMKk@OM?OFKTO~BNtALr@Pd@Hh@?ZObAGn@B`@L`ABj@E`@g@`BSvAM|Ba@xC?LHRHDRBLGLMDU@iADg@\\wAJ[LSb@]f@QLIPCLKNCLIJANIBCJAVOXc@Ne@HGH?DJALSb@_@h@u@r@OHMPG@IJ_@XW`@Ol@Q|@GzDH`ANd@DZ?XUb@EBKPIBGHG@ADa@@IAAEOAAC",
+"average_heartrate": 119.7,
+"average_speed": 2.718,
+"source": "strava",
+"streak": 2
 }
 ]
