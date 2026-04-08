@@ -22260,6 +22260,21 @@
 "streak": 1
 },
 {
+"run_id": 18026297811,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 4076.6,
+"moving_time": "0:26:58",
+"type": "Run",
+"start_date": "2026-04-05 12:02:12+00:00",
+"start_date_local": "2026-04-05 20:02:12",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 132.7,
+"average_speed": 2.52,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 18012584228,
 "name": "Zwift - 2x15 FTP Intervals",
 "distance": 10629.2,
