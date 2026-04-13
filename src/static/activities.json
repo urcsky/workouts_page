@@ -22303,5 +22303,20 @@
 "average_speed": 2.718,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18091070109,
+"name": "Zwift - 06. Sweet Spot Summit",
+"distance": 22850.2,
+"moving_time": "0:52:30",
+"type": "VirtualRide",
+"start_date": "2026-04-13 12:14:03+00:00",
+"start_date_local": "2026-04-13 20:14:03",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "~mffAu||y^jCc@rLwDtBFnEtArF?l@p@QdATh@h@JxBc@pCbAEd@]ZsCH_@h@?v@~CnBjAlAhCfHnArAhBr@n@Gt@mAI{A\\i@h@O`BNl@RzAnAFjBb@f@pU~H`D[vBTd@\\^jAjA^`@zBGr@aAz@aAa@w@La@n@DtAq@b@sAJgBW}AZsCaBsDs@gAj@O`At@bDWdD|@fArAx@w@hCHx@}@vBs@Lg@c@?g@h@uAsBsEQkFg@Qc@V@h@]x@Rd@e@p@Ej@nAr@ErAh@|AsAlGj@bAvA^D`@MRqAFgCwAw@_BCsBe@i@aAAc@p@fBrEl@r@UhADdBlBfAn@?hBw@lADlAc@dADzAd@d@rC|@|@`@FlBy@zADZVdArC|Ab@|COp@a@j@gA|@CrAh@BxARXdDrAn@?nB_AxAqES}@m@{@gCmAe@m@KuB^wBjBkCn@WvEu@dBwB~MKz@[`AaBfFwCbB[tD^xAy@`AK~Db@dCzAzGo@pAFd@\\n@|Bp@\\z@Gb@c@xBgNIeBmAwD\\aBeAm@sCb@uBoBgBeAhBmDAm@u@kA@Yb@ShCI^]Dg@k@_AqDi@aAi@i@eBC}Bn@sDjAoAt@GlCpBlCP\\_@VqBp@I~@r@FxB\\zAI^i@RkC@c@dBuFcA]]ZaDtCaDViBd@iAv@SvBt@dAu@Be@cAqAEs@nAmGe@y@yCUkBs@eDyDDcA`BsBr@eEIiAwAy@]q@t@wC_@yCDsCXaAjAA\\UlAkD@aAoAaBHy@vAgAjA]`Cp@n@Ud@aA]eA@}Aj@wA|CTrA{@\\qFd@oCt@Q`Bp@x@EzBuAn@gBQsA_AmAaDQwC}BoA`@e@G[mAz@u@Lc@]mAeASeBj@a@_@UcBtAmCv@yHcAiB}@UuARkAu@Yy@@_EZQhpAAnBdA~AcAzAv@hFfAf@x@a@jBZ~EWbBw@b@uEFyCpAsAfAc@dAI~CeBzB[~GuBjEo@rCoAr@aC?}@r@A`Ad@dDuAjDB`Al@n@jFz@p@rAGxA}BhEOrDaBhAcCrCuBBiD|@o@Ye@mBaA{@]kA_AKu@l@wAjCo@^_G^}@h@G~@f@p@|Fx@v@d@d@hAVbIjA`BkAjMp@xBw@rAB\\^j@n@NjCcBz@H",
+"average_heartrate": 134.3,
+"average_speed": 7.254,
+"source": "strava",
+"streak": 1
 }
 ]
