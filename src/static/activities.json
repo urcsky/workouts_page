@@ -22378,5 +22378,20 @@
 "average_speed": 2.731,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18211919925,
+"name": "Zwift - Threshold Power Forge",
+"distance": 12676.6,
+"moving_time": "1:12:07",
+"type": "VirtualRide",
+"start_date": "2026-04-22 12:23:30+00:00",
+"start_date_local": "2026-04-22 20:23:30",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "tmefA}k}y^b@RzAVjAb@h@j@pBhDn@r@t@n@ZN`B^~Fl@rD@~@GtCs@`E_BfCy@dBIfBT`C`Ax@LrBFrAIZ@VRHVMz@@ZPVVJ\\CdAg@X?~AZz@d@FVGTOTg@LuBB_@\\Gl@DTNN~Ax@`Av@t@x@f@z@h@~AF|@KvAM~@Sx@AZ@VTXhAp@Z\\Xl@L|@CVa@`ACRLnAOXONa@L_@@a@GgBw@i@AK@m@x@m@h@E`@Tz@NRfBpADL@f@Z`AILOB{@_@Q?]NKNALDTb@~@DRCPa@Vc@PMLEj@Df@Rd@NJt@\\z@PPLJj@ErA@XL|@T~@Xb@^Zv@^z@~@^x@XnARf@dAj@|@Nb@RZ\\`@v@NLb@N~AH~An@N@^E`Bs@dBB~@a@hAF~@TXRV~@Bp@H`@^h@\\R`@?NGx@i@r@Gv@@^LLNFN@TCx@MfAiAlGw@rFi@~C{@fD?n@`@x@nDvDhBrCzA~ANVPt@p@nAv@v@r@`@z@p@`@v@Rl@`@|A^xB?LEJE@IGGi@WgAc@_A_@e@qB_AqAQUQg@M}@CMGeAaBoA{AgCsBe@Y_ByAc@?IJ?RLTh@VjB~ALTLh@@JGLM@IGQaAMQyBu@kBiBu@c@UASFEZFRj@XNLtAnB|@^b@dAdA`Ad@`ARx@EJQ?Eu@Qe@y@o@k@Sg@_@sAe@[FKVO~BXvBRn@Jn@WnCTpCE^a@jASpAUfD_@jCDZLJRBLGLOBOByAD[b@eBPa@d@]zD_BT]Pi@NEFLK^Yf@m@n@mB`BYp@WnAIrDD|@Rt@Fh@IZYb@g@\\g@Au@Sw@JaA?_AM{A_@c@CUHCXLLf@Jt@Zz@l@x@b@~AX^TbAlAPJXHh@@~@Kf@c@`@}@L?BJOZiA|AkAj@q@HU?UImAkAUI_BC}@KuBi@e@YWDIXBFNLrBx@bDhAbAbAt@bA^V^Jd@?jAMvB?f@Ul@o@TM|@?NBJHINkA?_AxAi@Zm@Bg@NcAd@[Fm@DwAMgA[}BuAcAeAW?OJCTPZn@Xl@`@d@f@XP|AvB`Aj@x@LhCHz@Nd@N|@Bh@ITUP_@v@Yl@}@LADNOR",
+"average_heartrate": 136.1,
+"average_speed": 2.93,
+"source": "strava",
+"streak": 1
 }
 ]
