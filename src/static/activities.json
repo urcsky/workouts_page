@@ -22408,5 +22408,20 @@
 "average_speed": 2.696,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18266423343,
+"name": "Zwift - Power Punches in Watopia",
+"distance": 24151.8,
+"moving_time": "0:54:06",
+"type": "VirtualRide",
+"start_date": "2026-04-26 12:44:56+00:00",
+"start_date_local": "2026-04-26 20:44:56",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "lr_fAuq~y^fAxBvBjBvDpB~ErAbBx@fA|AbC|Gb@p@|@d@`AAbBc@JYMu@~@y@Oa@iBs@G[@wAuAw@A]Z}@nAc@^Lv@jATpAbAVv@~@`@FfBkAx@gASg@cB{@g@oAIs@Fg@nAc@fBG|Ah@bA|AbCtFb@`@VClAuAvIoFr@TbCfEj@Bd@s@hAyDl@g@v@ZdCnC`Al@r@JpBYb@ZGh@ULeBCe@XF\\x@VH\\ENm@N_Cu@sB^q@^{@rA_CxAaAtAm@~Bu@bGEdDf@xH@~B[rDq@nB{@DuBeBc@w@a@yBg@e@eAWu@Vq@xB}BtC[FqBk@k@V}@|@k@?e@Uo@mAWuAHw@r@}Ad@k@~By@h@AbBNhBwBGo@_A{Aq@]sBPeCxAwB?cDo@iEr@aBx@gAbA]|A_BfBo@vAKx@hBpFf@h@tAE\\]l@yAfACz@g@f@Dh@d@j@`EMtA@~AGJw@@e@ROv@CnATj@dDhC`AJnFoBb@ZH\\ILyAJkA\\W`@HPRF|@QjDXlDUj@TbDlFd@VtDa@fC?zDd@nHrAnBGfFeAnBL|HtCdB^hAn@Vj@PjBAxAc@|CTv@dAL|Fa@tGFnDp@xAx@t@r@h@|AE`Be@zBoAfDiAtH}@dC_BlBeFhDgFrFoAn@qB?iCgAmAoA_A}AsAkD_BmHa@aAcA?yA`AoCfAgALs@EcAc@wEyEaAq@yAgB]cASyDu@aDoF}HcB{Da@gDH_A\\gAvAmAxDi@tFXzI`BpBGhFeAnBLvHtCvBf@bAr@Tr@LhBEzAa@jCVt@~@LfIc@rFN|Cr@fCpB`@~AMnBiB|FqAdI}@`CsAbB{F|DgFpFq@\\_ANkAGuCuAqBqC}A{D}AkHa@aAaA?mBjAqCbAcB@eA_@aAmAeHsGk@yAU}Ds@}CkFyHiBaE_@yCHkAZgAd@k@zAq@xCYnFXbJ`BfBG~EcAdBDdIvCjCp@p@b@Vr@L`B?tAe@~CTx@`AL|Hc@|FN~Bd@t@\\pBbB^tAIbBc@pByAlEeAfHy@pBsAbBgGdE{DnEu@h@qA\\m@?}A]oCsB}BiEaAgDaA{Ee@_Am@?oBjAqCfAcBFgA]kEoEaBoAcBaCW}Dq@gDo@qAiDqEoA_CeAaDOkBTkB~@sAnAk@rCYpFXvJ`BfAEhFeAhA?jLrD",
+"average_heartrate": 124.4,
+"average_speed": 7.44,
+"source": "strava",
+"streak": 1
 }
 ]
