@@ -22468,5 +22468,20 @@
 "average_speed": 2.451,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18385634340,
+"name": "Zwift - Endurance Double Shift",
+"distance": 11318.8,
+"moving_time": "1:13:06",
+"type": "VirtualRide",
+"start_date": "2026-05-05 12:37:55+00:00",
+"start_date_local": "2026-05-05 20:37:55",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "|eefAiu}y^^t@dAbBpBxBn@b@b@NjANf@Nf@Xh@j@fBzCv@`An@d@b@Tt@PxATlEb@fCBjBIvA[jBk@j@YrDuA`B]t@EdC`@hBv@v@LtBHvAI\\@TNJZCZK\\?ZNTVLZ?hAi@X?ZDp@NbA^PT@TITQPUHUBqB?QLKRER?VDRLN~BrA^Xh@j@b@h@N\\n@jBD|@IvAc@~B@b@R\\~@j@TNNT\\x@Hp@Ib@Yl@CR?RL~@Q\\SNc@L_@Am@McBq@]?KDm@z@m@j@CPD\\\\v@zAdARRBv@Vr@CLKHMAm@[OAO@]PGP?NBPd@z@FRCTa@Rc@NMLERAd@BRNb@JN`@R~Ad@NLDPBTEbA?h@RvANj@JN\\\\~A`Ah@p@Vh@\\vATh@d@Z|Bp@PLr@nAf@TrAFv@Rr@X`@B\\Kx@c@NCr@Cr@D`@K^Ur@?r@Jx@ZHLL\\Jj@@p@DL`@j@XN^FNGbAk@p@Gp@@PDZTHL@nAMfAiAjGkAhIe@bCg@bBEh@?LNf@NPlAtAdAdA^b@\\b@h@bA`@j@`BdBHPJd@Pd@j@`Ax@x@`Ad@d@b@Zj@z@vCNjALl@@RIFGAEOMcAQi@_@y@a@e@oB_AWCACy@Ig@YUAACy@COGeAaBwAeBeBoAYYk@_@{AsAYAMFERBLlBzA\\RTTLTLb@@PGLM@IGOy@QYiAe@k@Oy@s@q@u@u@c@YAMFGTDXr@^j@r@p@bAt@XHH`@bAt@j@TZ^x@Rx@CJM@GEAI?]EYa@i@e@[k@Sg@_@oAe@W@MLENMhB?XXxBPh@Jn@?ZWrB@ZPvA@b@Mp@Yt@YjBM|Ba@`DHXJDT?VSDSFqBVgAPk@LSLO^U\\ILIPC\\OpAk@Zc@Ne@HGF?DJI\\S`@u@x@mB`BMRQj@SlAGtDFt@Rt@Dh@GRa@j@[Tc@@}@U_@@ABe@Fq@ACC_@AAC]CACuA[_@CUBIP?LJLj@Jh@RpA~@`@R^Nn@F@BR@PH`@\\t@|@PJXHj@@|@KRKTWZy@RC@DALMRiA|AoAj@s@HWAGE_BuAUAACcBACCe@EqA_@e@Ig@YM?OR@RJLn@NfAh@tAb@",
+"average_heartrate": 119.8,
+"average_speed": 2.581,
+"source": "strava",
+"streak": 1
 }
 ]
