@@ -22483,5 +22483,20 @@
 "average_speed": 2.581,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18412651519,
+"name": "Zwift - RCC Training Camp Workout #3",
+"distance": 29673.4,
+"moving_time": "1:02:08",
+"type": "VirtualRide",
+"start_date": "2026-05-07 12:59:26+00:00",
+"start_date_local": "2026-05-07 20:59:26",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "d{_fAer_z^cAiJb@sF{BwC[kCd@_DdDkHh@eE@sD{@}GmBeCGoA_AgA[cChDeMXcE_@yA}@mAiDy@s@kAmBsHt@_HoBuDEu@v@{@xCBTq@JsDh@i@x@IlEvAn@r@FvBxBp@cA~Cn@lAfBPtFg@|BmCFs@aAeBKoATm@~BcBZ_BG_BgBoFkBuB{CwBGmAh@uCh@cAvDuAdA}ALiBOwA_EsEEa@zBcCSqBJo@fIoSj@aFOqAg@s@cHqCcAqBMcBjGmNdAyDvCw@tDv@dAi@hBeDpCA|BiAb@{A?}AuCqEMe@Nm@dBoAnADlGpJ|@l@d@BhAy@|A{E|ANlA`AHtErCfBP~@Wx@{Bt@k@fACxKsAfSd@hAdDnDd@fBbCB~C^`LwC~At@t@nF\\|JOtCmBfBSx@RjGx@rCfBr@|BM|Ar@jD`@fBvA\\lCpAfAfAq@|CmJjAy@~@RtAfA^nC`FTtCjDzA?rAa@x@aAToA_@iBkCoAsBp@}AzBeFA[a@S{BoA_AiAUoAr@iD`K{@^aA{@_@oCmB}AiDa@iBu@wBLgBy@w@mDK{ET_AhBeBPqCa@aLw@}EcBs@oLzC_Gc@e@YOoAgEoFpAsR@aLp@qArBq@\\gAi@sAyBiA@sD{@}AgAc@kADwAtEcBx@_Ao@qF{IcAa@u@FsAx@a@lAbDnF?`Bq@fBqBt@kC@oBlDy@^{Du@{Cz@kAfEoFbLU`BX~AvArB`FbB~@p@Z~AMdC_JvUQjATdB_C`CT`AjDtDRzAKbB{@tA}DxAu@|Ae@~CL|@nEfDhAdBpA`EDzBc@tAiBfAa@v@HnAdAzBw@bB{AhAqE\\}BWYc@@k@hC}EhBaA~C]tCuAh@w@RqAQeC{AcE}AmBiDcCImApAwEdEaBx@qALkBWgBmDuDOo@zBcCSqBP_AlIyS^gEi@yB_FcB{AeA_AsBCcB~FoMlAiEvCw@tDv@dAi@zAyC|CM|BiAf@iBE_B_DcFf@oAvAs@dBb@~EbIfA~@x@C`A_ArAmElABdBtA@hE\\h@fBr@`@hAU|@{Bt@m@dACxKsAdSl@tAzCbDNnAb@\\pFf@rLyCp@A~@l@n@`Ed@`MUrC}AnA]fAL`Fn@bDtBhAzBMzAp@`Ej@vAnA`@tCrA~@dAy@fD{Jx@c@f@FrBvA\\jCxEPhB|Bd@tB@lCU~@uAjA",
+"average_heartrate": 124.3,
+"average_speed": 7.96,
+"source": "strava",
+"streak": 1
 }
 ]
