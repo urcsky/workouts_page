@@ -22470,6 +22470,21 @@
 "streak": 2
 },
 {
+"run_id": 18523672661,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5049.6,
+"moving_time": "0:30:02",
+"type": "Run",
+"start_date": "2026-05-04 12:49:41+00:00",
+"start_date_local": "2026-05-04 20:49:41",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "qxb~C_z|vUu@dAWPUV]l@OROLaAlAOXYXQZi@p@QZSRq@bAm@h@g@z@a@f@U^s@p@QTg@z@}@pBcAhAiAxAiAfBQRe@ZU^q@z@OZKL_Aj@m@XiCd@sAB_BEg@B}@?q@B}AMBL?d@AEAFBFLNTLh@DH?NEZAzABtACxA@~AQfAUr@]v@g@t@w@v@iA`@s@nB}B`@o@RUnAiBjAuAXg@v@eA~CcE^k@~@iAj@{@xBuCj@{@`AmAvAsBbAoAnBoCJKXO`@e@Vi@xBaDHETBFE|@gA~@uAfAwAt@iA^_@^c@h@{@BGACC?k@hAk@r@[\\Wb@]b@e@r@s@r@q@dA_@b@w@hAe@h@y@pAu@bAURa@p@[\\w@hAq@r@uAdA",
+"average_heartrate": 148.0,
+"average_speed": 2.802,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 18385634340,
 "name": "Zwift - Endurance Double Shift",
 "distance": 11318.8,
@@ -22482,7 +22497,7 @@
 "average_heartrate": 119.8,
 "average_speed": 2.581,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 18412651519,
