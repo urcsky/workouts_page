@@ -22618,5 +22618,20 @@
 "average_speed": 2.321,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18608633607,
+"name": "Zwift - Climb Portal: La Turbie + Col d'Eze at 100% Elevation in Watopia",
+"distance": 19093.8,
+"moving_time": "1:12:53",
+"type": "VirtualRide",
+"start_date": "2026-05-22 12:39:32+00:00",
+"start_date_local": "2026-05-22 20:39:32",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "ph`fAwi}y^|CjILz@MZu@v@WxAeA~@o@bA_@~@StAyErIK`@D^~@lAOx@BLj@PnAKNNGRMDeBEo@[Y?]NQzAB~BHn@GTaAGuBn@k@]Q_AMSw@Ey@h@wAbBOd@@p@MP{Cl@q@Ec@wSk@mDo@cBs@y@uAm@cAOUBUXLZVLfANnAt@RPLx@ELO@Kq@ME[PHv@A~C_@fCUt@]TYWGg@RcCEy@e@cBMUWEO^VrAAbAKl@g@`@IXY`BEpBI\\UNSI?cCOoBQg@a@GQXFd@GdAmBhHMpBMb@K?AKJuC\\yCASQO_@TcAfEeDjHqBbF}@bBu@`AeAx@oCbAqAp@G~@VzFIb@kAZsBECOLQtAFb@QP}@Ik@oAgAwCm@gAc@w@y@s@eBc@qBI_EOi@l@sDDiAVo@Hq@Ao@[KURO`@Ib@?v@KVkCvCO\\Eb@FfAGXQ?M[SuC@k@`@}ABc@M[QGg@RaA|BOfBsBrCaAnCDzCYFw@q@Us@JeAKOS@c@hAsAvB{ArFm@|AkAdBgBbBgAx@eAf@mB@o@J_C`AcBrAm@LwABc@Rk@~Aa@fCCp@h@tAxBdEx@~BXvAHxBn@rBPzCp@`BHv@m@vAiBrCaAx@iCbAgBlBoAfCs@~BYrAAzAa@rA\\ZHPFfCI`BeAtJE~@lDzIv@~Bn@fDXxCGd@[p@uExHIpBM|MGjAeAjEk@bBoAhC]jAMrACpEUzBgBpHgAlDsA~CuAlBWn@Or@_@pESp@q@z@Wj@JnBVn@n@`@lB\\TTH\\LvCE|@Ux@u@lAkBjB_ErCi@j@c@rA[tB]n@[Ly@@[Gi@e@]IsAAWJ_@j@i@VaARqCGc@HeAx@[~@[bCGnADlCG~@Qj@a@`@]Jm@CoBg@oBUiCGo@FiCtBw@^iEn@cCR_AZgAjAMd@UbBeF~AsDrCsCvAoAZgA?YMcAeAg@FO\\CxAcB`IWrCk@vAk@n@gAx@cDbA_A?Ki@[]WKu@?c@TW^Id@Ff@T^^T`A?p@e@Hs@zAErBq@~@i@~@{@d@w@Vw@TmC|AmHJsBJYZCbA|@z@TbAI`AUlDoB~BmBvFmBPa@JgAJ_@T_@t@m@`A[lFi@bB]|DoC`@G`DLjEv@nAGb@i@Nk@FgA?_ERsBXiA`@i@|@k@`CF",
+"average_heartrate": 135.6,
+"average_speed": 4.366,
+"source": "strava",
+"streak": 5
 }
 ]
