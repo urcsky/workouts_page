@@ -22633,5 +22633,20 @@
 "average_speed": 4.366,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 18621863404,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 24047.7,
+"moving_time": "1:01:14",
+"type": "VirtualRide",
+"start_date": "2026-05-23 12:45:47+00:00",
+"start_date_local": "2026-05-23 20:45:47",
+"location_country": "Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, Greater London, England, EC3N 4DJ, United Kingdom",
+"summary_polyline": "qlkyHbcNE|CWxBMhDHp@z@bCVtATrCAxBeB|XWhCShDaBrJgBlP{@`LOnFItNK|FHtCd@~EJbCEnSHhFIz]@lBNxEp@jJf@vDxBfLzAzEhBxDhAjBjAdAzBxAlCrA\\XTj@BXCn@WdBsBtR]~BDZT^VRXAx@WxH_DfDw@|C_@pBIpH?r@VPp@BrC_@hIQjF?jAnBnb@|@pPGl@Qb@oDvD]HkAEMLQb@?zDu@xh@@nGGx@QXK?KIK_@CsARsQb@uVBmKR{ABWCWuIkYiLc_@mCuJYi@a@]gAYWo@QqAWW[?sA`@]EGOIaAB}DGm@kBcF}AsDiCqHaAyDAUBWHMN@JLp@pC`CdHnEhLdD~HJLv@Xx@l@tA[xGwCpCq@jCa@vEU`G@vJRhFoAzEOpJuAtAEZKP_AdB_ZE[OIeBYOGISBoAp@cLFe@XIn@HN[\\iHJaAXq@dA}@d@_AHWHw@EqAGU[c@kFqCGi@h@uD?SIMaEq@oAR[CQe@?U`@kA@SOa@SQsAEiALeEzBqBr@eC?SIM]QkDHiAVqAf@oBxBsGz@yAbF}Lj@gArAaBfAq@jB_AL]Aa@k@[_@?sDvAkA|@aA`AgEdFc@r@UJOKIY?_@Pg@z@gApA}B`CaF|@}Az@u@zDeEhGqDlFaErG_G^BRj@@n@KbDHdENrAj@vBRPd@@XGlAu@h@Ax@Pp@BLIJSbA_DLkCCuBKsAiBmIGi@GoCAiEFkHEoJ^cI^iETgEAcHOcHUkEe@mE[aBWk@]]a@KkEt@_@A]QSg@Iq@GaGEq@Mk@g@mAm@aAq@q@y@W]B[Tm@bAcCnGm@bA]J_@EYWWc@_@qAKaBPoRI{BUyBm@iDi@gBq@wA]c@{@s@_AW_@Hu@p@k@`Ac@jAMh@M~DW|Ai@fA[L]Qi@gAQe@g@_CGo@Ao@XiDKa@WOuB_@QPm@lLPp@z@bA^`AZ`B@r@IlA]xAg@h@{@V]A{@U}BkAGe@LkA@SEQqHyDK?GJIt@o@hDKJY@{EeDiMaIuAu@yLcB]FWXk@jA]lA?b@h@xCNxALdCCbFYdCMxDJv@t@pBR|@RbBJtBIdCcAzPeAnNcBzKiBbPs@hJQtDIpFCvIKpGF~Bl@pHDjCElNJxHKtZ?pEDvA^vH^tEPrA|@nFnAlGdAlD|@xBfCtE|@x@jBpAfE~BXh@DVCt@",
+"average_heartrate": 122.6,
+"average_speed": 6.545,
+"source": "strava",
+"streak": 6
 }
 ]
