@@ -22648,5 +22648,20 @@
 "average_speed": 6.545,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 18647872134,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 25711.0,
+"moving_time": "0:55:30",
+"type": "VirtualRide",
+"start_date": "2026-05-25 12:18:03+00:00",
+"start_date_local": "2026-05-25 20:18:03",
+"location_country": "824, East Broad Street, City Center, Richmond, Virginia, 23219, United States",
+"summary_polyline": "opcdFxjswMcB~CiFnK}BfEgDvGyPb]]v@G^B`@LZHL~@p@~EbDHHFN?LALgEhIuHhOcBzCcArByAbDaBzCwBjEk@|@s@VOPe@|AgDtGIJw@VSRMVAP?n@C^Uf@cGlL_I|O{E`JM\\APBNJJLBJEJKjAeC`EaI|DcIhAwBdA{BvEyITWl@MVSHQFc@?i@@SLe@zCgGT_@LOPIN?b@Fj@^xA|Ah@\\tCrAlGlCbCnA`B`A^Pb@Rb@BNIJOLm@HcADUnFySPcADkF?yHBiD?_ODwEAy@OOm@E}@@i@Ce@I_Aw@oGkEMOIS@UVs@pTic@|AwCLKNANF|CdDnAbA`BbBpA`A^RNDR?NGNKVa@v@qBtCeGjEmIhFoKzJiRrA}BzC}FnBiDb@q@XETRxFbGPLTAPQjAgCNm@Bs@KiAAq@PeAPg@j@kAz@uBTc@p@aA^u@xBoDpBqD~BsEFQVkAp@sAxFkJz@_BdCsDl@u@\\[pP{LrB_CbBaB`@QnAYlCy@xAm@ZQTYDQ?QGOMG[?gAV{B|@kD|A}@z@uDfE{@j@yAh@y@HcDQm@?]Dk@RuGbAOAASFOXUFI@UGQYQSC]?o@PGCEU?GFGf@ONO\\aAF?XP^d@\\JF?XKNMFU?MEWMUsA}Ac@]KCM@UVc@rAgFtJ{BpEI`@L`@`CpBDb@Qb@cClFQXSVWBWMk@o@u@q@]e@cHoHk@c@M?UN]l@{@pByIvPy@xAO^Kb@Fb@z@dA|FrFzCnCFTEXKTcCzEgCfEwApC}AlCe@t@cCzEMPQB[Ik@Ue@m@]Ss@U_B_AkA_@kAK]Q_A{@a@SMASHc@r@uElJeB`DgAxBeIzOgD|GmHpNsR``@e@fACf@BTHRHLl@d@vFrDJNBRCReBdDqK`TgDnGgB|D}BfEwAtCc@t@YNYFST]lAmD`HKLKDi@NMHILGNCPCjAK`@sG`MwIfQiEdIER@RFLNFNCT]v@cB~CgGtKqTjDsG^i@LIZENGVYJc@?{@Je@d@gA|BqEXa@NKPCP?`@Lh@`@jAnAv@f@rKxErCvA~@l@bAf@`@NP@PCNMFQFUN}AlFwSRaADq@@}D?mIBiD?oODkFIWSGqA?kAGQEiAaAgGcEKMGOAQDS|Tcd@|AyCRWLALBJFtC~CxAnAbAfArB|AXL\\@LEVSPYhAsCbCeFdCyEbGwLjEiIhBuDhCyE",
+"average_heartrate": 133.5,
+"average_speed": 7.721,
+"source": "strava",
+"streak": 1
 }
 ]
