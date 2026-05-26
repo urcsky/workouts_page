@@ -22663,5 +22663,20 @@
 "average_speed": 7.721,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18661203346,
+"name": "Zwift - Endurance Marathon Builder",
+"distance": 35763.5,
+"moving_time": "1:15:39",
+"type": "VirtualRide",
+"start_date": "2026-05-26 12:17:16+00:00",
+"start_date_local": "2026-05-26 20:17:16",
+"location_country": "Muie Village, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "bq_fA}{bz^sBeIv@kGwBmFt@cA`DAn@{FxBOnEtBJbCzBx@aAlCp@zAhIQtCcDkAcF|C{CFwDqBwFwFwEIuAhAiEjEiB~@aBOeE}DeF~BgCUeBNgAhIkSf@eEo@kCsH_DcAsBEiBlGeN|@qDhCy@~Ep@hCaE|CI|BiAb@aBAeBcDmFb@aAnAw@nBZ~EdIpAfAhBs@dBeFbBTbA~@L`FjCvAVdAWv@}Bt@m@lAAfKsArShExFj@fBfGh@dLyCjBd@p@hDh@dMO`DkBdBUdAR|Fz@vCzAp@bCMlGtA|AhAn@hDnAx@v@c@`DoJbAeA|CnA`@tChF\\lChDzBEpAq@n@wAB{AgAwAkBi@gBn@aB|BaFAq@}CeBmA_AG_Ah@aDvJcAr@aAu@e@yC}BgB{CU}As@{BLaBm@u@}BWsGNy@lBcBRsDg@qLs@yDgBq@aM|CeFe@e@SyEeIrAgS@wKb@_A`Cy@Z_AYoAmC_BEmEeAgAmBW_BrEcBdAgAq@yFeJuBOuA~@[bA`DpFBzAg@bBuAt@_ET_BbDs@\\iEq@wCz@qAtE}FdMFlBbAvBlHxCr@vB_@bEsIhTFdD}B`CZfA|C|CRbEu@|AuEnBmAdFXpA|FbFvA|DPjCc@dBgCrBBxAdAxBeAvBmAz@{CXsDSYgA~ByEnBkApCYtCoAp@i@\\{AIaCmAuDaB_CwDqCMaAxAmFfDiAtAkBI_EaEmF~BmCMsClIaTf@_F}@_CaHsCgAcCA{ArGsN|@gDhCs@tCv@fAInCaEtCErB_Al@mBAyAcDwFf@eApAs@lBb@pEtHtAjAn@?fA_A|AuEdBX`A`AFpElC`BVbAUt@yBv@q@lAAnKqApSxD~E|@|BdGh@fL{ChBj@|@rGXtLWrAmBbBKvB`@pFr@fBzAl@dCMlGvA`BtA`@tCvA~@|@q@xCiJfA}@zCtA`@tClFZ|B`DbDO|AmBA_C}BcBuCh@wAzBaF?a@UUgCgDwA{@f@kD`Ky@j@kA_A[iCuBcB}FqAaF]{@iCWaGL_AvBwBLcCc@sLu@wEeBq@}L|CqFe@a@UYaB_EcFrAsS@iKn@gAtBq@Z_AKy@uCkBA{DqAcByBQsAlEcBbAyAgA_FgI{A]oAb@aAzAbD|F@|Ai@`BeBz@aDFmBjDu@\\iDq@kDp@mAfEiGfNDzAt@jBbBpAxEzAr@zBe@nEsIlTNpC_CjCxD|ER`Ey@~AcE|AyAbFLvAzEtDtBtE\\tD]vAq@j@",
+"average_heartrate": 125.0,
+"average_speed": 7.879,
+"source": "strava",
+"streak": 2
 }
 ]
