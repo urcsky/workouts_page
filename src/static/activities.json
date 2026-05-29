@@ -22678,5 +22678,20 @@
 "average_speed": 7.879,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18702759186,
+"name": "Zwift - Climb Portal: Bealach na Ba at 100% Elevation in France",
+"distance": 11036.3,
+"moving_time": "1:07:56",
+"type": "VirtualRide",
+"start_date": "2026-05-29 12:58:26+00:00",
+"start_date_local": "2026-05-29 20:58:26",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "lescC{~bu^WKcAOY?e@Hw@`@GF[r@YJYDiA?w@Go@Qu@c@q@Mc@Da@Nk@ZiBlAu@r@}Av@_Bj@cBXa@Ba@L_@JuB~@eBd@sAR]?k@MsABk@HsBP[F}@j@YJ]Dk@?k@Gi@BURQVa@t@eFxHg@fA_@f@UTKBe@^qB~@OBs@^MDKHi@VqA`Aq@t@y@r@eAh@oA?CCm@ACC{AKCC_BOCEcAIiA@{B`@a@?a@MSOKOa@][Ou@GiD@w@Im@UeAq@Q[W{@WoBMc@c@gAw@wAm@}@_AiAm@i@o@]u@KECa@?UFWTiAxAc@\\[NaAZkCl@]P}Ad@k@Fa@A_@Ky@_@iBkAKCSOMEm@_@}CcBm@YcAo@UIIIo@YQQk@GSLENAd@@bAJvCRtBEn@Op@i@~A}@nEc@bBYz@g@jAi@z@]R]@i@Qc@?]ROPwArBsAhAuA`AK@[NSBw@d@e@r@Ul@a@zBUp@KLe@TIB]?AC_@GGSEwAC_HE]OSa@[e@U_@Gg@?EBo@B{AXY@sC`@o@?c@Ma@]i@y@uBmEqA{Bc@i@m@m@_Aa@q@Q[UUUWo@[iB]s@c@c@_Aq@w@c@MCm@_@KC_@U{CeCaAi@e@S[Q{@c@MCgB{@oEyAg@YOCs@_@u@Ys@_@oBu@KIa@OQCYOQCo@UOKcAW_@QSCOKc@IOIUC_@QSCMECEKAACUCg@M_@Qm@IACSG]CACSAACWACCc@ECCYAECqAMaCQq@?cAZw@LsCTwD?ACw@ACCi@ACCu@Ki@Se@_@cAiAo@m@q@[_AW]Uo@y@{@_Bs@eA{@{AsBoC}@_A]Yq@m@OKc@_@k@_@GIIEa@_@{@i@MCMIQE]Oe@KACQAACi@CCCu@?CBS@UFy@d@IHIBSJq@|@SJQAO[Cc@@w@LY?UM_@[e@A[BMHGH?HDLRRLLFV?h@SJWCYUo@]e@a@]k@[m@Ak@NIFGNKf@IFUGi@s@u@i@W]G_@FUNOv@_@d@c@LUFc@AOG]q@uAcBmC_AeBkAgCa@uAOiCYgAo@_B_@mA]}CFKZIPSJ[Di@Mg@Ya@c@Mi@?WH]XMXEX",
+"average_heartrate": 130.1,
+"average_speed": 2.708,
+"source": "strava",
+"streak": 1
 }
 ]
