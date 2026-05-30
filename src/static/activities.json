@@ -22693,5 +22693,20 @@
 "average_speed": 2.708,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18715785857,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 28658.4,
+"moving_time": "1:01:55",
+"type": "VirtualRide",
+"start_date": "2026-05-30 12:42:18+00:00",
+"start_date_local": "2026-05-30 20:42:18",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "dptcCc_hu^hEtN_HbHk@zKYRy@i@_@JQjBiAd@HtBOVmDiBuApBcA{@i@bAoA?{@xDeAcA{@lAu@cAoA~AIuAwAUg@iC}Bp@_CcEs@JkChBOa@H_BuBOQc@TuAqBYZoAI[eCDE[r@_@Jk@k@o@mA]Gs@zCEBgCnBE`@iC}Cu@@c@z@cAcB{BL}DgCmC{Ak@mHOgChAaCnCcEbJv@|Jy@zCuAfBgBv@{Fr@qGcC}EwFI_Bb@wDd@{AjAcBbHiFfA{Bb@mCk@gC_E}DWmAFgAp@{Bh@e@dFLtDs@`A}BHgCqBwFyAeAeEGoEzBqC?qB_C{AiEOmDj@mCbCwBlCcA~BuDJmCy@mDAcBy@s@_BiEkAc@}Ar@iBbCiJnAo@e@u@_Cr@kCOk@q@]_Ab@e@dBoCrA{F~AcBOu@r@wD`MfAfC@~@uApAw@dFaB`AQj@NbBxBbG[fBmA^uDoAsAHe@dAWjFeA^gDmAm@f@UbCm@n@iAIwCiCw@GeJrNOn@Rh@bFrCDjAw@dB@l@|BzANj@yBjBKd@d@t@tBz@Ll@W~@}Av@cJC{B~@uAhBqDbA]b@IlAyCx@MjFwFvBo@lAClAz@xBbFxCExDl@hA|OnCrD~CxCt@tF`AxLp@|D|DL~@QlBZv@hTTPz@GjBuF|FWnGe@zBmB`C@zBt@\\rQL|CxHnB`Av@|AKjDeBhF`@zB|CzAxFmA`B?zAb@nA`A|@dCrBnB~@fBpEtDpB?|Ay@~Eg@vBPpDw@hCmAfH_BpH}Ez@A~CfAvB?vA}AnBYzDlArFdD`KDhCk@jO|BhGpB|@v@^|BhCJZd@?jBmBjBJlAfEdBdBJbBdCv@QjAiAvAG~@uAtBDnAh@|@_@fAgCq@uDzBiBOyB_A{Ag@Q{FnAo@c@OkBX{AfCeDKiCnDcABmCgDcC}JkN}AkHiDuBaDoE}FmF_@iALkNlD{DrAkENmCKmHq@wDmHiNL{@hF_HIkAoBuGcAMwFlFi@tKSZgAi@[LObBkAl@?jC}DgBkAnBeA{@m@hAsA?m@nDSBw@cAs@lAw@cAoA~ASSDeAyAUa@cC{Br@_CeEe@A_DtBOa@R{@Kg@yBOJoAIk@mB[^aAG]iC?C[|@k@?c@uBeAKq@|CIDiCpBE\\yBQc@gCWEe@~@_AaB_CPmDYw@sBkB{@c@yE]qD`@oDvCeDdG",
+"average_heartrate": 112.1,
+"average_speed": 7.714,
+"source": "strava",
+"streak": 2
 }
 ]
