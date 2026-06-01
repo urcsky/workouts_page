@@ -22708,5 +22708,20 @@
 "average_speed": 7.714,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18741893328,
+"name": "Zwift - Threshold Double Down",
+"distance": 21575.8,
+"moving_time": "1:10:23",
+"type": "VirtualRide",
+"start_date": "2026-06-01 12:30:06+00:00",
+"start_date_local": "2026-06-01 20:30:06",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "dpq`A{{hs^bB}AjG[`ClCnD~AL|AQjDjEtArC[\\m@AcByBsBXeBe@wBb@_Av@GjBj@dBaBrA|AhEyAvEB|@wBlAYIsAVUz@Hp@rAzACvB~@f@o@_A}@@mAj@e@dC?VVD~DlA?fDcBdAKtArAjBh@{@rCF^`Cm@`C`@^n@BtBVj@fJdGa@rAeBSeBTiCcCgAuBo@VK~Bw@|Bs@b@cA@q@u@]}ABiB_@c@}@^S~C[f@i@Sc@}Cc@[]\\@bBUj@kBMj@~Am@|@SlEVxDnAjB`B`APr@OxBhBx@|@rBgFrH_DwAiFq@qDcBs@e@_AwB}@q@iAe@wAD{@[cA_CkCkCW{A}Ey@aBz@PbD_AdB`CjBNvA~AnCGhBcAp@sB}@mARCd@nA|AZnAcCdAe@Gq@iBc@UuDpBgE\\}@qCWiD}@gBR}A_AkB\\sB_AeBu@aEp@uCA}@Ue@cDmAc@sA@mFg@sD^c@|By@tAwAzGa@jB|BhEvBH`BQ~ClEtAvC]Xu@KmBoByAVuBe@mBZy@|@MlBj@~AaBxA|AjEyAtEB|@wBjAUE}Ab@Sn@Ln@rA|ACrB~@h@s@_Au@@qAh@e@lC?PVH`EhAA`EoBj@?tArAlBj@}@pCDZf@DxAo@jCf@Vd@@rBTn@lHjE~@hAQp@_@TcAWoCJ{B_Cy@mB{@b@ClBu@zBq@h@cAFs@s@_@}ABcBq@q@k@Zi@jEo@Mk@sDUIe@VMnCwASUJd@vAo@zAQhEV`DjAjBrBzA@nDpBv@h@xA_FvHkCkAqEk@aE{AuA{@iB{CeAm@_CEy@c@aAaC_C{Be@eBwAGaBk@wBx@Gd@XvBaAhBzBhBPtAvAzBPrASz@kAh@oB_Ay@LQb@nA~A^lAmCpAc@Uo@eBi@McDnBeEb@YSi@yB[{Dy@{ANcB}@oB^iBeAmBo@wDn@sCEmAWa@yCeAi@{ABmFi@iDd@i@fCaAv@eAzFq@r@JdBtB`EjBRjBUbDzEvAhC[\\q@GoBsBcBXkBg@sBb@}@pAArAd@~AaBx@pA^JdB}@jB]nEDz@wBlAYIsAVUz@Hp@rAzACvB~@f@o@}@s@AqAb@i@lBCt@J?vDX\\pASxDeBl@FrArAxAXFf@}@hCf@NzAq@~BZf@t@BzB",
+"average_heartrate": 136.9,
+"average_speed": 5.109,
+"source": "strava",
+"streak": 1
 }
 ]
