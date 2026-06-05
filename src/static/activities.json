@@ -22738,5 +22738,35 @@
 "average_speed": 7.556,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18796546889,
+"name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
+"distance": 5405.0,
+"moving_time": "0:32:25",
+"type": "VirtualRide",
+"start_date": "2026-06-05 12:33:21+00:00",
+"start_date_local": "2026-06-05 20:33:21",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "ti`fAag}y^zAbE^x@Jd@CZGJST]XGJIZEj@KVIJu@j@STOVEPWb@M\\G\\C`@I\\m@`AiC~EYb@y@zAu@jAcB|CoBbEoDnIiBzDEB{@nBCBq@~Aq@pAYZe@Ze@PABIBABG@CBMBMHGBCBMBMHYHSLCDe@Va@\\c@d@q@d@QBABM@mA?CBY@CBSBADK@AB[HMHMDYNMBKJSFGDG@OJOBCBI@CBSBABMBCBM@CBWBCBM@ABO@ADUBCBK@CBUBABIBOHQBCBM@CBKBCBSBCBI@CBI@CBOBADI@CDG@_@ZQ\\If@?l@HnACl@GPa@b@KTIb@GpBI`@OVIJ[TKBc@Xc@PMHI@EDWHCBMBOHSBCBMBABQ@CBm@HCBK@CDOBCBSFo@d@QPMHGJGBGHMJMN[REJ]~AG|@?b@FT\\b@VTTHJH\\PNLFNDT@^EVMZU\\c@`@q@\\I@MHOBMJ]HCBI@CBI@SLK@EDI@UPKB_@`@OV[v@MR_@\\e@T[\\Qb@a@zAM\\[Zk@TWVY~@c@~CIXMRQJ[?_@Ge@@CBM@ABM@AB[JABUHWTQXAb@Db@Vz@?^ENa@XQXCb@DdAGTIL_@\\G@a@XG@OLI@a@XC?g@^q@x@aB|BsA|Ae@d@OTGDa@SGAe@?QB]TORIZAZDZFNVZ\\Lb@D`@ILGRQNa@B[A[Yc@r@y@",
+"average_heartrate": 118.5,
+"average_speed": 2.779,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18797034697,
+"name": "Zwift - Climb Portal: Old Willunga Hill at 125% Elevation in Watopia",
+"distance": 5051.2,
+"moving_time": "0:36:19",
+"type": "VirtualRide",
+"start_date": "2026-06-05 13:07:22+00:00",
+"start_date_local": "2026-06-05 21:07:22",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "bh`fAyj}y^lApDbAlCZn@F\\B`@MTm@j@GJKXGn@KZURa@XSTQXk@pAI`@E^I^GL]f@cCtEiAnBy@xA[d@wAjCgClF_CxFwExJo@xAe@`Ae@d@G@SPKBABI@ABKBABIBKHg@PAB[HKHMBKJMBQPSHmAlAE@GHUHCDQBABO@mA?ABY@CBSBADK@MHOBCBYJABQFCBMBABGBABI@GDG@KH_@JABI@CBSBABOBABM@ABQ@G@ABO@ABM@CDWBABO@ABSBABIBCBI@GDK@CBM@ABg@JABK@ABK@CBMBMJIB[XU^If@?b@H|ACh@ITe@f@ITEh@E|AGZKZ[\\G@_@VMDAB]LEFK@?B[HABG@CB[JABM@ABQBABQBABO@CBYBCBO@ABM@ADSBABI@OJG@MLE@e@d@IBEJIBa@d@IDOLKTS~@Ip@Ch@?ZFT`@h@ZTLBHHHBRJTVHR@d@CXIRa@l@c@`@MBKHa@PCBOBCDSFCBK@GDI@MJSBMHOBKJI@SL]b@q@zAa@\\UHYRSTWp@U|@Yr@YV]LIJIBUZWjA[zBSp@UP_@?MACCGAk@@CBK@CBK@IDG@k@ZUTEFERA`@Hl@Pj@@^GPe@\\KRCN?TD~@EXQTYT]PUPKBQJI@IJSHk@f@_AjAIN{@nAaAdAEHYV",
+"average_heartrate": 128.4,
+"average_speed": 2.318,
+"source": "strava",
+"streak": 1
 }
 ]
