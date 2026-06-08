@@ -22783,5 +22783,20 @@
 "average_speed": 7.431,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18836822501,
+"name": "Zwift - Threshold Power Forge",
+"distance": 31582.6,
+"moving_time": "1:07:00",
+"type": "VirtualRide",
+"start_date": "2026-06-08 12:34:10+00:00",
+"start_date_local": "2026-06-08 20:34:10",
+"location_country": "Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "apo_HatpdAdJt@f@KJa@EmAmBcR?q@X]lEaAh@F~BjAr@S`@_BdAkNnBsA|AsChBcEzA{FRGdDt@b@EPWDmBc@gIL_AjKmEdJ}FjBuBX@JNv@fNjAfIhClc@l@nEhBvH@x@KXiA~@gE`BuCj@qC@m@h@aCvDsAz@eJjBcJBsKpDcLjCSf@@x@TdD`@~@gCpEIr@D`BMl@aDzDaHpLKEG[J_D[wDYwB]iAq@k@uBg@q@k@yD_Im@s@{@]kBFYYHwAd@aCbA_A`AyALg@?m@]kA{BsCsM{HaCcC{BoFwC_FsAqD}EwPg@eDA{ANST@pEzCpT~a@jExFhGtFbEvBzXlB^WDq@mAmNg@kDFw@hBs@`Cc@nCnAx@CTa@\\oBz@_M\\c@tAw@lAyBzB_FnAiFXSrDt@f@]FuBe@mINq@~JeEtJiGbBoBf@Jx@lNpAzJdCza@n@tEfBtHE|@gAhA_E~AcDp@cBIy@RiD~EeAp@uJpB{I?aKlD{LtCQr@NbCLvAZn@Kd@yBnDGd@AjCYn@uCfD}GhLQWLuC_@}E[wB_@cAeEcB_A{AmC}Fo@o@{@YwBC?sA`@_CtA_B|@yAHm@SqAy@{AuAsAqM{H_CeCgBkEaDqFmA_DeFeQm@}DC}@H_@d@ApE~CdTna@fExFxGbGzDpBbYlBXUB}@mAqNc@uC?s@JS~EmA|CpAd@?VUd@wBbAwMdBeA`A_BfCsFxA_GZMdDt@^ET]B_Be@kIDu@LSpJ{DpJcGvB}B^J|@xNr@jEd@`F~Bz`@p@rE~ApGD^Qz@eBlAkDnAqCj@kC?s@h@iC`EgAp@wJnByFK_BLaKlDwLrCU^Dr@VnD\\hAeClEAxBGx@cD`EwFzJq@z@Oc@JuBGcBe@yEi@kBq@g@qBe@q@i@qDsHs@_A}@_@oBDSWJgBf@wB|@{@lAuBBm@YiAw@sAoAqAoMwH{B_CqByEwCcFoA{CgFeQm@uDG}@Jw@h@@lE~ChTta@pE`GtGzFnDhBlYhBRc@?s@mAgNa@kCCy@JYfFoAxCrAx@Qf@aC`AmMbBcAzAiCvB}EvAwFZE`Dr@\\CV]@mCc@oHLq@n@e@vFmB~EeCxF_ErAaBj@?|@`OjAdIrC|d@tAxHt@pCD^Sv@qA`A_ExAmCh@kC?s@h@sCjEgAl@kJjB{I?gLzDeK~B]b@",
+"average_heartrate": 133.8,
+"average_speed": 7.856,
+"source": "strava",
+"streak": 1
 }
 ]
