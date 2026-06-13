@@ -22740,6 +22740,36 @@
 "streak": 2
 },
 {
+"run_id": 18904299369,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2174.7,
+"moving_time": "0:15:45",
+"type": "Run",
+"start_date": "2026-06-04 12:47:26+00:00",
+"start_date_local": "2026-06-04 20:47:26",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 124.9,
+"average_speed": 2.301,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18904299358,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1111.6,
+"moving_time": "0:10:09",
+"type": "Run",
+"start_date": "2026-06-04 13:08:07+00:00",
+"start_date_local": "2026-06-04 21:08:07",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 123.6,
+"average_speed": 1.825,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 18796546889,
 "name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
 "distance": 5405.0,
@@ -22752,7 +22782,7 @@
 "average_heartrate": 118.5,
 "average_speed": 2.779,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 18797034697,
@@ -22767,7 +22797,7 @@
 "average_heartrate": 128.4,
 "average_speed": 2.318,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 18810945197,
@@ -22782,7 +22812,7 @@
 "average_heartrate": 114.0,
 "average_speed": 7.431,
 "source": "strava",
-"streak": 2
+"streak": 3
 },
 {
 "run_id": 18836822501,
@@ -22811,6 +22841,36 @@
 "summary_polyline": "ds_fAy}~y^vF}D|@qAQ_AqCwBGe@LSpC]hE@V`@[rAc@Ve@OI[FeHj@qAVBVf@|BxIt@b@r@[Hg@MiA{BuIJ_A~D_@tAa@rHiGtAi@fIDnDh@|@r@f@|@^lCW~@oBrBy@|AFxIOfAg@FwD_AeAf@mB~BaAf@sOtBiDhAk@j@Mz@GjCT`BRTv@@rGkBhHaApDKfC\\rTnFr@UT_@vA}Fj@aAd@OfCH~B]|CFbALt@h@\\lDpBhCRv@YfA_Ct@d@fCWp@o@?_DeDaAc@o@`@aB`Fe@XsCsEs@UeKpGo@|@q@k@wDgI{Am@sB@sA`@OnAl@jBnBfAF`@uCbCqAeA}@O[{Ay@iAiAGeAz@M~@|A`ABtBvBdAaAdAH~@yCj@m@Ui@s@}BmGwAwBuBcAwFaBcFcDaAqAu@kBk@{DJmA\\w@jHkFh@}@[mAgCkB@u@rB_@lF?Rh@[lA]Ta@GSe@HcHd@mA\\?T`@~B~I~@b@l@a@By@aCsJGu@J]jG{@jH_GtB{@rF@zEb@nAr@`@n@f@vAFfAQ~@}BbCo@tAIjBNpFObA{@DcD}@_A`@sBdCcAf@{MdBcFxAg@l@ShB?tBTlAlAPrGkBhHaApDKxXlGfAw@zAcGf@y@d@OhCH~B]~CFlATh@b@^pD|BlDIhAoBh@]\\f@dC[p@o@E}CeDcAa@u@r@iAvDi@p@g@YqBsDo@[gKlG{@|@_@WmCoG_AqAaBe@kCLy@l@LpBd@z@lBdAA^yC`CcAcAgAYUoAeAuAw@Es@Ze@bA?d@~AfACbBzBpA_Ax@J~@sCp@sAs@qCkHiAkB}Ay@oGgBsFqDsB_Eg@kDHmAZw@|GcFx@eA?k@_@q@}B}AEy@|Ba@`FAZf@YnAg@V_@KO_@H_Hb@sAXCTVdClJb@\\h@@`@c@?aA{BuIGyAhG}@|HoGdBq@tF?nE\\|@ZbAfAp@zCObAeCpCg@dAKlBBrHe@RcEcAeAl@cD~CoKpAoHjBa@XUt@M`DP`BPTt@JpGkBrG_AjEQpBRhUxFt@SV]bBwGd@m@rJa@zAFdBf@Tf@PrCpBfCTjAUr@aCr@Ch@d@~Aa@z@{@WoCyCeAYi@d@oBrFu@_@oBsDq@UgKpGm@|@[Ku@wA",
 "average_heartrate": 120.6,
 "average_speed": 6.425,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18904299685,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 4958.4,
+"moving_time": "0:30:44",
+"type": "Run",
+"start_date": "2026-06-12 12:23:50+00:00",
+"start_date_local": "2026-06-12 20:23:50",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "kxb~Csy|vUMPYd@u@|@_CdD_@V_@b@iAzAi@x@YXQXw@fAuCfDi@bAYt@o@z@g@f@QZc@j@cAzAYZ[X}@tA_@d@QPe@XyBx@cAPoAJyBCyBHoBEQEQOGSOoBOi@WqBEk@Mi@MaC]{BGoAKiAM{@KqAK]Ac@GYAo@YmBM_BQkAMuBMk@G{@OiAKg@Su@EK_@mBEGIo@Qm@Q[E[MY[sAM}@U}@SaAS}@M]A_@HKTOZGtAc@bBu@t@SNK`A]l@_@b@MNOr@SvAu@x@Uf@W`C_AHKXEv@_@bAYxAs@ZIx@_@LCd@UJClAi@JCd@UzB}@bAe@jAa@hBw@PCV?ZKNA\\BJBBB\\`Ah@lA\\pAV\\HXZl@`@hAJPf@lAbAlBdAvA`@x@ZZTb@b@n@JXZb@HX?N^\\RN?@",
+"average_heartrate": 141.8,
+"average_speed": 2.689,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18904266795,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 28865.9,
+"moving_time": "1:10:31",
+"type": "VirtualRide",
+"start_date": "2026-06-13 12:58:01+00:00",
+"start_date_local": "2026-06-13 20:58:01",
+"location_country": "West Park, Low Harrogate, Harrogate, North Yorkshire, York and North Yorkshire, England, HG2 0NE, United Kingdom",
+"summary_polyline": "stphIfllHkCbCU\\Ej@xB|Jx@nB?XSd@cCt@qABaA}@iA{AgBkEUOyF~DqKhCQT?d@^nHFb@^v@fDrD~@`GrBzGjL|Vl@hBz@rDbBlKd@KhJiFd@}@ZgALaBAmANm@v@k@hBw@N_@[kCcG{]Y}AkEiMOwAB}AKk@YIsC|@o@Di@OaCwCgBiEMEwF|D_LnCI`@f@`JZx@b@j@jCrC~@~FpBxGnL~VzAvFdB`LHNlHuDhBkA\\w@ZkAJeA?kBDWh@i@fCkAFi@e@gDaGs]Sy@kEmMMyAB}AMi@YCsCz@eA@y@q@_AmAs@qAoA}COCoFzD{KnCOTVvGTnBpAjBnBpBdAnGrBzGnIfQzApDzAtF`BrKFRLBfK{F|@yBLaBAqALm@h@e@xBaANc@g@_EmGq^kD}Ji@oBGm@AoCUYuCx@{A?uBaCg@{@mAaDMMOBoFxD_LrCEd@^zHTdA`@l@tCzCdAjGnBvGhJvRnA|C|AfGzA~JZDzJsF^q@`@yAJiA?kBDUh@i@zBaAR]IeAi@oD}F{\\uEeNM{AB}AMg@[EuCz@cA@w@q@aAoAs@qAmA{COCgFvDwC~@mGrAMZ\\zHPfAnAjBjBfBpAlH`BlFnLdW~AzFfBdLJJhKwFf@}@ZiAJaBAqAFYf@i@fCkAHi@w@uFyFc\\sEeNOuABaBIi@[KkD`AaAMaCwC{AsDKUOEqFzDyKlCQTZ|HPfAnAnBpBpBdAnGnBrGhLrVr@xBx@nDzA~JJDjKyFd@cAZmAHiAAmAJq@j@g@xBaAN_@m@{E}Fy\\sEeNSoA?sCU[uCx@{A?w@s@mA_BsByEQ@mFzDaLpCGb@f@`J~@`BfChChA|GfB|FzI`RhBnEpAfF~AhKHLpK}Ff@eARw@L_BAqANm@j@c@vB_AJO@Wu@sFwFa\\cE}L[qAGwDYUuCz@yACw@u@kAaBgBgEOKsFxDuKlCULAf@TlFPpB`A~AbCdC~@xFtBhHvIvQzApD~AfG~AhKXF|JsFl@qAR{@JgA?iBDWh@i@fCkADi@]oCgGi^S}@iEgMO_BB{AOi@YCsCz@cA@y@q@mAaBuB{EOCqFzD{KnCMX\\|HPfA`AxA~BbC|@|FhBhGzLzWbBpGxAxJHRZExJuFz@}BLaBAqANm@dDcBHO?m@m@eEuFy[Q}@kEgMQwABaBGi@WQuCz@wACwBeCuB{EOIqFzDwKlCSNRtGTpBnApBrBpB~@|Fx@xC",
+"average_heartrate": 115.0,
+"average_speed": 6.822,
 "source": "strava",
 "streak": 2
 }
