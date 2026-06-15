@@ -22873,5 +22873,20 @@
 "average_speed": 6.822,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18929551697,
+"name": "Zwift - Threshold Power Forge",
+"distance": 28375.7,
+"moving_time": "1:12:31",
+"type": "VirtualRide",
+"start_date": "2026-06-15 12:52:00+00:00",
+"start_date_local": "2026-06-15 20:52:00",
+"location_country": "East Drive, Upper East Side, Manhattan, New York County, New York, 10021, United States",
+"summary_polyline": "sn{wFdqmbMkP}MiAmA_AeETmEGaBWaAgA_AeXkQuDmBwG]yA`@cBdA_AF{@YkD{BmFuG_Au@gGAyCu@cBeB_AkCe@c@gAJm@pANjBbA~BFd@QfAo@f@q@IqDuDyC{AoAWs@XwCdHmAfJ@fA\\t@pA|@t@BhAo@~@}Dl@q@tF{@bBf@xAjBfBlGhDxB~BbIl@jAjL~GfCvEvE\\vAd@|@bBrAtFnArBpApAbE`BjBIzEmAlBb@~EhFpA`DbAXpDMrBnAlIvJzEfI|BhCvAj@xHW`B\\|AbE|@bBpBtAzIlDzAzAxF`InEpDpARhAk@l@cAEcBgEeFeH_G}@eCHyAn@KdEf@fDkCtBOz@mA`CcGrAu@b@HtAfCl@d@`@UhAsBtBNzFtDf@jA?dAc@bBiEdKeHxVoAxBoA`AaAB}Aa@eEmCm@cAGq@^cC`AkC`BoAL_@g@cEBuAfDkIXqA?k@a@aAaBgA_BfBmBJuDlCkEg@_@JQd@?lA~@~BxBvBfDbCbErEp@\\n@Qn@gArAwERiBGu@_@aAqI{EqCeD[y@CoAtAmFDaAKq@kBkCuDeCgCmFq@s@{CmAgAHs@p@UnAAzBqA|HNtDKjAg@xAqBrB}@^iCe@{IPcDuCaEiHwJkLaCwAyCNgAO_@e@o@yB{EgFaAe@kAKqEnA{ALiBc@}BwAeCoDmAeFkAwBsAc@_F_@sA{Cw@eA{KqGo@kAkAwEy@qBaDkB[m@uAuFcBkBqA_@cG~@s@|@y@rDi@f@y@FoAq@e@s@EiApAwJpCwGv@QlA\\zC~AxCbDz@Nt@i@RgAGq@gAkCIwAj@kA~@If@l@t@|B~AvB?tBJdA|CpHD`BQlAkB`EKp@nCrJhApA~JzFdCvEnFb@`A^`AlBpAnF~BhDjBjAvBl@`BEpEoAbCd@dFnFr@~B`@`@l@NpDOrBfApKhMxD~GzCjCpIMjDd@~@g@lByBn@uCOaErAgIQyCYWoBOqAy@mA{AmBoEu@WuBH{GeBgTgQc@s@m@aCKyAVqEYkBg@m@cXmQ_FkCkG]gARcCtAm@HaAY{DgCkEqFyAqAkF@yD{@uAuAeAsCe@g@kAHo@xARnBdAdCGlAi@n@w@@kDqDmDiBkAQy@f@kCtGqAnJDdAd@z@vAt@zAUd@{@l@{C~@y@pFs@pAb@|@x@^t@hAxE^t@jDzBbDdKzKrGr@v@`BlDvFf@x@ZfApBdAxElC~D",
+"average_heartrate": 134.2,
+"average_speed": 6.522,
+"source": "strava",
+"streak": 1
 }
 ]
