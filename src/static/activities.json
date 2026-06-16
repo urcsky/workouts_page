@@ -22888,5 +22888,20 @@
 "average_speed": 6.522,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18943445406,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 28975.7,
+"moving_time": "1:08:48",
+"type": "VirtualRide",
+"start_date": "2026-06-16 12:27:40+00:00",
+"start_date_local": "2026-06-16 20:27:40",
+"location_country": "Nea-Noole Ward, Temotu, Solomon Islands",
+"summary_polyline": "zkv`Ai`fs^eAdCz@bDQ`BXhA|CpCxHxApBrDbFfFA`BiAl@c@nApCvDe@fEZ|BzEhDNxChAdCQvA_ALkEs@qIn@m@[s@mC{BcBoAOgCv@sIgFsD|AiBw@g@_B}@a@mFtAqAw@]mDiAq@{D|AyAdCiBp@oHT}CiBcDy@s@_CqBoAFgA|A_DaAaC@eCdD}CNsBc@yFsCaEjA{DqAeBA_Ar@oAlDe@p@qB`E}@XkAmAqAwHy@FiCtBUuCK_@_Ad@MXt@f@o@hBX|@dA`@bA`A_AxAbAbBgA~Fe@fFnAJWq@aBgAyAPgAt@YnCrAxAGpAeAYkB{@W_GCuCbAkEF_D|AsBqBvAuC{FiEyAv@oEkCuFjH}DcBiFu@aEwB{@mB}AmAyCU_Am@o@iByCgDGuCfAqAm@_AyDa@wFxBy@tAeBU?kCuA}BdAiJCeBuDmBsBeCqGR}AvAkC`A[t@h@pC@hG\\x@xDrBk@`Fp@tDbAhB[xBx@vAOlB|@hBnA|II~I|CzJlEs@hDzJlDxG`CTvC~BnCMfB|DfBbB~@EhBuB~Ai@fCM`Ad@^p@PhDfBbAT`AQ`BsBpAa@vAAjB~@xAdH`C|Ea@Z{AxA_C?}@aAuB@}A\\cAhCoBPwB_@mFwCmEjAqDmAeBAmAh@cAvDk@z@wBbDg@h@sA]aAu@[gHk@?uCrBQyCK_@c@Li@r@t@l@o@bBTNx@t@Tb@|@bAcAvAfAjAaAtGk@`CbA|KpB`A`Bb@HjAe@c@}AJs@zAk@hChB~@vEh@n@|B\\|By@`AVDfEwAlD~@tDSvA\\lAlCfCzHvAbCfEvErEB`B}@d@q@vArChE_@fG~@dBbD~A^`E|@~AHdAkAt@uDs@{En@iDEgA_DgDyBoDx@mJkFoDzAgBgAUmA{@]cEvAmAOaAmAOqCaAi@qDvAuA|BuB~@wHTeC_BsD_A_AkCgBcADkA|AqCaAoC@eC~CwCTcCa@mFuC_EjA{DoAeBC_A|@wA`Da@p@qBrDo@h@sA_@aAu@[gHk@@uCrBQyCK]}@d@OZt@j@o@xARtBnCt@_AfBbAtAgA|Fe@rFnAk@yBgAyAPkAv@UbCpArA?~AiAUeBa@_@oC\\mCa@wCbAkEFuC|A{BkBtAaD_GeEyAx@aEiCuFfH]AiBiAgIyAeDkBeA{BuA_A}Di@kAgCuCgDAuCbAaAWy@oCs@yBNkFxDm@LmAi@KaD",
+"average_heartrate": 120.7,
+"average_speed": 7.019,
+"source": "strava",
+"streak": 2
 }
 ]
