@@ -22903,5 +22903,20 @@
 "average_speed": 7.019,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18984790872,
+"name": "Zwift - Climb Portal: Coll d'Ordino at 125% Elevation in Watopia",
+"distance": 13177.3,
+"moving_time": "1:09:24",
+"type": "VirtualRide",
+"start_date": "2026-06-19 12:26:13+00:00",
+"start_date_local": "2026-06-19 20:26:13",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "rh`fAui}y^lApDlAvCJf@?ZCJo@l@QRMbAKZmAfA_@p@a@`AUzAc@p@eCvEs@jACZ?nAHrAT~@^r@h@p@v@h@`AXPHTDbAR\\PbAXbBh@n@XfATr@H`@RHN?JC@MASMiAMCCc@CCCoAQo@QwAQi@QsAYQIoBk@{B_@s@c@mCsC_@Wm@SUAAEm@FABYBAB_@FABq@JuBACEcACa@K]]Oc@C[?OJ[h@w@N]@]M[{@aAYi@E]By@Xq@@UKYKGS?OFOj@UbFGb@ST_A^KLIZ@RPh@h@nA\\h@f@XLN@XAZK\\MRSFQO]w@o@wBkBaDKe@MiAK]UQa@@OR?\\ZzAfAlDbAhClBhEHL\\T`@?PKR?h@RL@RFf@ZZb@Vp@f@vB^z@Jd@@PCFQHKAMSM_@q@yCOc@KOm@[e@ICEi@?CD}@NUAOGYU_@c@mAoBeDwDwAoBsBiCm@k@}@e@WUYc@U_AUi@QMGAQ@MFOTAHJb@j@z@^\\x@dA\\Vf@j@\\b@|B~DnAfB~@|Ab@x@lBhFZr@`@^THfA?h@NRH^`@Nd@XvBRh@^n@LZHjAp@bEf@~@\\NPCRK\\_@^M~@ETDn@RpAn@ZBBBl@@h@ABCj@?BB`@@l@ITUHQH[Fk@@y@KiEDcABKHIX?NJ@HUn@Ih@B~@\\vGAVOdA]vAi@`@_@BIFOLGPq@vEQx@Yx@cBzDCV@RVVLDZ?|@WjAq@f@a@f@eAtAiBz@uAfAaCr@gCTi@HMLAbA\\vE`C|@ZdBZ`AFV@jAGXDfA\\|@j@b@d@rA`B`CrB`@b@j@x@hE~Gj@dAlCbEz@r@dAb@bB^lALfC?fAOf@Wf@Cn@\\xBnBl@b@j@NN?VIZ[h@q@`@u@RYpA_CVYTOxAORIVSZc@~A{CxAwB~AsCt@s@d@U\\Gd@@@Bj@Jt@^LBbBz@bA\\`@HdA^b@JPHd@Jl@PLLNXh@`DEDQDOJQZET?^J`@JPRNj@Nn@IHE`@c@FY@WGg@U]m@Ue@Bi@}CUi@[OeBe@gEsAoCsAy@U]Ca@@y@Zq@j@uAfCqBxCwAlC[^_@XeANYFk@\\wAdCmApBo@n@_@Da@E{CeC",
+"average_heartrate": 134.5,
+"average_speed": 3.165,
+"source": "strava",
+"streak": 1
 }
 ]
