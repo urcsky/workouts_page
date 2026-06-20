@@ -22918,5 +22918,20 @@
 "average_speed": 3.165,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18997428176,
+"name": "Zwift - Endurance Marathon Builder",
+"distance": 25511.1,
+"moving_time": "1:14:17",
+"type": "VirtualRide",
+"start_date": "2026-06-20 12:37:42+00:00",
+"start_date_local": "2026-06-20 20:37:42",
+"location_country": "East Drive, Upper East Side, Manhattan, New York County, New York, 10021, United States",
+"summary_polyline": "ir{wFxmmbMuLqJgAkA}@mDEiAVmEQwA[k@s\\uTkBw@cGYwAXwBpAsAEoEqCqEwFoAkAg@KaEJoDo@kBeBkA{Ce@a@gAPk@rARnBbA|BDd@Gd@a@t@u@Nk@]yCcDkEcCSy@DeBxA{Fr@uArDwAxDHr@Kd@q@vAaFh@_@~@LpHvFtH|EbCxB\\~@?r@_AhDExA\\l@rBrAt@bABf@m@`CG`AJf@p@z@pH`GlIjFnEnBxMhElB~@|@|@`@bAHjAKjBi@zDYb@_@LwD[o@bAWzA?`@Xv@xBtArBvCZjAB~BZp@`Bl@vDd@hBKjBg@^k@~BkKn@gBj@q@jAm@pBUrEjApFrClMpIpIzGbBpBb@vAStA{BrCWx@Bf@zAxEHr@I|Ag@pCS`DDf@hAj@pD^hDkCxBSnAcB\\Fr@j@j@~@@bAOr@qCfGc@fB@pAb@bC?z@iBzA_AfCa@vB@~@^bAdAbAvA|@jBx@nBHz@a@fAyAtA_DlGmUdDwHp@aCBiAg@wAoAgAaDkBkA[_AB[X_AhB_@C{AmCa@[c@?eAj@Yd@aCbGi@n@yBRkB`By@`@kEg@[UKg@ZaEh@{C@u@gBgHT}@nBgCZu@@{@WaAwBsCaDkCeKmHgJ}FkG}BsAUgAJeBv@{@|@m@lBqB~IUx@YTmBd@}AF_KeBqC{@_GyC{[sU}DsDaD}By@SeCDiFh@uDHaB[aEsB{O{Je@aBh@cE`@iA|@e@~Eq@`Bj@x@z@\\r@vAtFf@j@rB~@\\b@n@bBjAtEd@dAv@p@hJfFr@x@~AhDzE`@lAZfAjBjAhFnAvB`AfAtBnAfBd@bBEjFqAnBj@vEdFt@|B\\b@~@XfDSn@RrAbAhKbMhDjGlCjCvATtCW~C?tBd@tAm@tA}An@wAPmAO}DpA_I@uAIiA[c@uBQ{AcAeAwAmAaDe@o@g@OwBHiHkBsKgJcGsEg@u@u@eDEkAViEW_BYc@wX_ReE}BqHe@aAVwBnA}@Fi@O_EgCeFmGaAy@m@KuEF_Dq@eBiBqAaDk@Qo@PSRY|@DlAlA|CFh@UfAWTs@Jk@]iCuCqEeCYy@?gBbBuGp@gAdEwApEDj@y@z@kD^w@f@Yr@HhHlF|LpIf@hADt@gAfEAz@Xn@fCbBd@r@Bx@o@dCBnAh@x@~@z@tIpG",
+"average_heartrate": 118.3,
+"average_speed": 5.724,
+"source": "strava",
+"streak": 2
 }
 ]
