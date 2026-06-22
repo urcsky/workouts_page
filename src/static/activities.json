@@ -22948,5 +22948,20 @@
 "average_speed": 5.724,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19022567478,
+"name": "Zwift - 2x15 FTP Intervals",
+"distance": 27753.2,
+"moving_time": "0:56:12",
+"type": "VirtualRide",
+"start_date": "2026-06-22 13:00:34+00:00",
+"start_date_local": "2026-06-22 21:00:34",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "|i`fAsf}y^rBnFt@h@tFmArGp@`EgBzBLhAtB[r@qApAwBUsC`AyAhCB|BjAtBnAJ`BsAtCb@rBeCfAyCh@CtAj@r@vCnCdDUtBeCxEwBlBw@pD}A`B_DfAiEYqARGYXUhDg@Ao@k@c@gFhBmAKoDmDTaC`Bc@HaEo@aEqAk@oCp@y@lBiAPo@]mBqF\\eBzBoC\\eBrAeAbBy@|Cg@jHl@bDcBnBCpAjBHn@gBpBcCQ_DrAoAhD|@dDhAj@hC{AfCf@rB}BdAyCl@OzAj@t@xCdChC@tBmCfFeCbCk@~Cu@fAiEhBmEYqARE[VShDg@Cu@aA]aGjBiEeDJiC|A]Lc@F{Dy@aEmAa@_Cn@gArBqALkC{FRqB|BsCp@{BvDwBnASdBIjFp@bEkBpAEh@VfAdCeBpBoCK}CvAiA|CdAtD~A\\bBwAxC`@pBcCbAuCr@GvAt@h@fCdClCFrBaDfGoBbBiAlE}D|BuALiD[aATO[l@]tC_@Aq@{@a@aGlBmEcDLuCrAQR]HmDw@sEkAg@_Cn@iAnBqAPg@]eB{ENoBzBsCp@{BpFiCzBOrFp@vDgBhBC|AtB?h@kBpBoBYsDzAiA~C|@jDvAj@pB{AxCb@lByBfA{Cf@MbBr@j@hCfCnC?|BeDdGaBpAu@pDw@dAmEfBeEYqARGY^W~Cc@Dg@gAm@eGjBeEkDLiCpAOVk@DgEq@oDkAg@eCn@_AhBoAVm@[kBgFN{A`C_Dh@qBzEiC~CWhFp@nDcBnBI~AvBAn@eBjBiBYsDtAqAdDz@fDxAn@tB{AxC`@nBcCdAuCp@GvAt@j@lCdCfCNdASbAeDbGcBpAsA|EeFxBkEYaATEc@jDm@No@_Ak@_GlBsEoDPiCpAMTa@F_Es@aEiAg@sCp@_ApBiALi@c@eBwENmB|BuCv@aCdEyBbDWjFp@`EkBpAEj@VfAdCcBpBqCK}CvAiA|Cx@dDxAp@tB{AxC`@pBcCbAuCp@GvAr@j@hCnCbDInB{CtFmB`Bs@nD{@dAiEbBmEY_ATQWl@a@tC_@Aq@{@a@aGlBqEoDPmCrAMR]F_Eu@aEkAg@_Cn@iAjBoATg@]gBwEGs@\\mAtBeCZ_Bl@q@|C_BpBa@lHn@dEgBpB?tAxBA`@iBlBkBUuDvAmAxCv@lDzAr@xB{AlCf@rB_CbAwCt@OxAr@l@nC~B|BTtAS|@sChFuBjBi@xCq@hAuErBoEYsAF|@q@dCYEw@m@[",
+"average_heartrate": 132.8,
+"average_speed": 8.23,
+"source": "strava",
+"streak": 1
 }
 ]
