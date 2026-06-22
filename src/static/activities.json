@@ -22905,6 +22905,21 @@
 "streak": 2
 },
 {
+"run_id": 19016782612,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5011.6,
+"moving_time": "0:30:13",
+"type": "Run",
+"start_date": "2026-06-18 12:05:41+00:00",
+"start_date_local": "2026-06-18 20:05:41",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "myb~Cwx|vU_@h@GBOJe@l@u@fA{ElGm@z@e@j@S\\W\\s@v@o@x@a@t@c@l@AJEBCJE?ETINe@j@a@`@SZe@j@aB`COLOFg@f@g@p@]n@YTu@`@kA`@k@LaBL[@{@Am@Ei@Dg@?UBgA?e@Ee@BF?@B?LANBB@HDFZRj@?TBlC@f@@b@CxABrAOrAa@ZSl@[x@s@|@eAp@gAvAkBn@s@hBkCd@g@fAaBzAsBrBgC`@m@v@cAzFaIjAwAZe@|@oA\\]f@w@h@q@Xe@r@k@`@i@Tg@`CaD`AyATSt@_AT_@Z_@NOb@QFEx@eAT_@r@u@@GKBOPIVQXqA|Ag@z@yAbBe@t@m@t@Yf@uA`B_B|Be@l@Wb@m@l@a@p@YXY^YL",
+"average_heartrate": 144.0,
+"average_speed": 2.764,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 18984790872,
 "name": "Zwift - Climb Portal: Coll d'Ordino at 125% Elevation in Watopia",
 "distance": 13177.3,
@@ -22917,7 +22932,7 @@
 "average_heartrate": 134.5,
 "average_speed": 3.165,
 "source": "strava",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 18997428176,
@@ -22932,6 +22947,6 @@
 "average_heartrate": 118.3,
 "average_speed": 5.724,
 "source": "strava",
-"streak": 2
+"streak": 3
 }
 ]
