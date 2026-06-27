@@ -22993,5 +22993,20 @@
 "average_speed": 2.274,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19086047932,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 20635.6,
+"moving_time": "1:01:09",
+"type": "VirtualRide",
+"start_date": "2026-06-27 12:36:36+00:00",
+"start_date_local": "2026-06-27 20:36:36",
+"location_country": "East Drive, Carnegie Hill, Manhattan, New York County, New York, 10129, United States",
+"summary_polyline": "up}wF~{kbMpCvBzIrFtD`BdNlEzBjAj@n@\\x@LxAOdCWzBM`@W^k@PgC_@i@DSR[p@SxAH|@LVhCdB`BdC^nAB`CPd@^ZpA\\lDb@lBKnBk@V]dCwKn@kB^c@v@g@vAc@l@ChDv@pBx@zBlAzL|HpKhIlBxBb@`BA\\Sr@_CxCQp@Ht@pA`ENbAIjAg@pCU|C@f@HRXT`Dn@r@?d@QjC{B|AEVIv@kAxBwFj@k@n@Uf@LxAlC^XN?VSj@sAT[x@IxA^hDrBt@p@`@l@Lj@?j@O~@m@bBwCxGwG|Uk@`B{@zAcAfA{@T_@AuBm@oBiAw@m@o@cAKg@HwAZqA`AcChAs@TYHe@Aa@i@yCDqAn@qBvBsEXqA?e@Ie@Q_@m@m@m@_@[DcAtAULmA@]JyBhBu@^aD]aA_@Ie@@e@TuCb@{BJsAOmAy@}B_@gBT}@~B}CNy@Gw@i@uA_CgCuJoHyKcHuFqC{Ai@sB]g@BgBl@q@d@_@f@i@vAuBrJWx@_@ZcCf@iB?yHuAqBi@yEsBaDsByY_TmEaEyBcBeAc@}@IW_@E]?aBNm@TSr@OvBKvAWn@g@t@gA~@a@n@Gn@RTItAaCb@YR?vGhEdDdB~OhF`D`Bb@f@\\n@PtAIrBg@xDYf@g@PsC_@k@Jk@lAO|APx@lClBdBfC\\nAA~ADh@Vd@d@XlFz@pBKrBm@Va@Lg@|B_K\\cAXe@v@k@lBo@xBNfDjAbFlC~FtDjMlJzBtBp@`ATl@Ht@Mz@_CxCY~@@^vAnENbAEjAi@rCUzCH~@ZV`Dn@r@?t@_@|BoBrBMl@w@hBaF`@u@ZYv@[f@LxAlC^XN?VSf@mAXa@x@IxA^bEhCl@n@Xt@Dl@It@s@xBuCpGqAjEqA`FwC`KuAdCgAbAaAHuBi@kC_BoAsAMg@Ai@RyA\\mAn@aB~AmAL]?i@g@sC@sAXkAxCaHNqAEe@Oc@cAaAs@OSLo@dAUPgBJuC|B[L}@AeDo@Qa@?i@TuCh@wCDsASiAmA}DCi@Ng@lBcC\\s@F{@Kq@a@aAe@k@aDyC{H{FeJaGgE_CkBw@cCq@_BGwBx@cAfAi@xAqBfJe@lAkA`@qBTsAEoB]kH}AyG}Co]{V{FiFsBkA",
+"average_heartrate": 119.0,
+"average_speed": 5.624,
+"source": "strava",
+"streak": 2
 }
 ]
