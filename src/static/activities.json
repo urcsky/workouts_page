@@ -23008,5 +23008,20 @@
 "average_speed": 5.624,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19110529181,
+"name": "Zwift - Sweet Spot Anchor",
+"distance": 25373.0,
+"moving_time": "1:10:06",
+"type": "VirtualRide",
+"start_date": "2026-06-29 12:31:57+00:00",
+"start_date_local": "2026-06-29 20:31:57",
+"location_country": "Usili, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "`pefAik}y^aBq@}BiCmBmDWiBF{BrAsD?yElCuHhAc@f@@RTIfByAhESlB^tAd@h@v@T`@a@\\qAh@qDNyDx@sC~A{ChAc@fADVn@M|AUx@mBbDYbBCrAZnAlBxAp@jAf@?lAwA`AiDJkGUeFNqA`AmCb@c@d@?~@dAZfAeAnJR|D?tDt@rCr@VzAWRy@@sCdAqFNaGh@uCnB}Br@Sb@D^VHd@UrBm@vB@t@Rb@RVf@DtAs@v@y@jCkGtAcH^c@hBk@\\c@QgDF}@lBwJvBsH|BmEdCyChA_AlAQ~Cr@lDIvATbAbABxCf@xBp@tAlAx@xBp@~FKf@n@~@pCn@f@xCJ|EOpEj@rBk@`BgAt@iA^kA\\mD[kA{BwB_@}ARa@~AoAh@sCt@s@|@OnBbBn@RXEjEeChAkA@q@y@wHRq@tBaDXkBB{Ak@uBsB_Ci@gAAy@VmB[oAwCwDsD{@CcCO_@sEcC{GaGeBo@qAP{F~BaAtA{@hCYzDYx@w@\\{ANwCxAkB[aAq@Qq@CmDaA_AwBO}MN{@x@Q~AhA`PQzG`AtEM`Aw@rBQZ{@NaAOu@a@}@sBSaAYuJa@u@}ACw@fAOx@XhDi@nAuB|AuBVk@k@U_AJ{CW}D_CkAmDaGwA}AuFyDoDyAyHuAaHEkLvA_EjA}CzAkCCk@h@Ox@D\\jAdBIbBHb@bBzAJ\\E`AUZ_A?wB{B]Qa@J{AbBsGhCon@bO{H`CqA|@@fAdBnFTRjPiEj@?l@^LdBSfPeB|HgApCClIIfASb@gB`@qH@}@iAqCwJcAuAg@YgA?cAt@_@~@CdARbAdHdOy@f@gKvAaAp@I~@\\\\v@@tJqAt@@JTg@^eBViJt@OR?`@NRx@JrD]dDFdBf@Rl@PfChBbC\\lAQv@gC|@?h@d@bB_@p@u@MoC}CkA_@g@\\qAdEm@t@s@k@wAsC_Ai@_KhGe@v@]Hg@g@_C{F{@oAuAi@qCF_Ad@CrAb@tAzBvAAb@oAlAuAj@_AgA{@M[wAu@iAeAOi@Pe@p@Kz@NXrAt@E`BjBx@NZ}@r@Hx@KRsBd@q@EkAoAaCyG}@uAcCmAoFyAcEgCgBsBmAmDUwBVmBlAuArFuDd@y@?[Wk@aCeBOw@|Bi@hDGlALFn@_@jAQJe@GWc@",
+"average_heartrate": 129.6,
+"average_speed": 6.033,
+"source": "strava",
+"streak": 1
 }
 ]
