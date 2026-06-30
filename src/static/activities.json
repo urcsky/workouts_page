@@ -23023,5 +23023,20 @@
 "average_speed": 6.033,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19123493107,
+"name": "Zwift - Endurance Marathon Builder",
+"distance": 19105.2,
+"moving_time": "1:00:14",
+"type": "VirtualRide",
+"start_date": "2026-06-30 12:05:56+00:00",
+"start_date_local": "2026-06-30 20:05:56",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "bws`Ay{ds^kAf@c@n@WbBFjAhAvAxCr@jB`ApF]`@mB`AgAPs@Ew@{@eB?oBd@aA~BaBPcCa@mFa@}@{AoAWy@Ho@x@yAHi@I_@iAkA?y@Vy@^[hDc@n@qBzDu@`@uAUo@m@]wHs@Oa@HkBNM|AHHYuCG_@]?a@d@MZt@f@o@tANZLDt@x@TFl@ZJTEh@}@p@|@b@HjAaArEWd@UDS[mAe@IgC?sBfAmAN}Bo@kCIqAaAkAfA]?iB{AJm@Qq@~AiBnD`CTGFWUaBmA_Ag@QmAHoBfCqAVo@Km@m@cAQaAw@yBe@AmAx@SdB\\zAbAZ@|EoHq@cBoBq@Ig@HgCyB_BiAqBQ}CPwEp@w@m@gBRO|@\\h@MDuCl@O\\`@`@~Cj@LPc@TiDx@]j@j@AnBZvAj@p@x@?x@c@N_Aj@gA?cBn@m@b@Fb@zAhCnCnCO|@Xd@q@Aa@mJkGO_@EaC_@g@wB]_Cn@Sg@`AiC_@]eAM}AuAu@DeDbB}A@Kk@@oCS[gCF[VKhA`AhAc@n@gC}@iAD{@oAs@SUJFpASXs@FSTq@bBiECgFzAUKi@iAYAcAtAWFaBi@s@Dg@~@f@tBY~AhBvAR~@ExAw@b@qBTyEuAIa@XeCGyA}Am@oBoAkByBsGb@eAnAeDxAEh@j@nCGfENrA\\d@`DlAPf@@~@g@~AE`Ap@pDbAfB]~Bz@vAOjB|@hBThDx@vDF|CQ|DtCjJl@HdC_AZDpDfKnDvGh@RbAGvC`CdDC`@^`AbDtAnAbAHxBcClAa@fCOdAZf@bARhDhB`AP`AU`B{B~AYxABzA`AtAhDz@~BdAdFs@LmA|@iA\\gAGo@{@gBByBj@_A`BaA^aAFyAWqEg@uA{AkA[}@Bg@|@cBHo@qAeBF}Ah@q@lDe@p@qBjDk@`@c@Jm@Ow@q@c@wHs@Oa@JmBVMtAJHSGMqC?YUCg@d@OXt@l@o@x@Hr@RDp@t@TPv@p@CPo@VEfAbAvAcAbESn@UH[[cAc@MoC?sBhAkAL}Bo@kCIoAaAoAhA]AiB}ANo@Oq@vAeBlD~BV?LQQgBq@q@}@c@aA?c@TeBxBqAVe@G_Aw@eAS_Au@kAIe@[FoAt@KpBb@bBbAtDiF",
+"average_heartrate": 119.7,
+"average_speed": 5.286,
+"source": "strava",
+"streak": 2
 }
 ]
