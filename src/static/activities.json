@@ -23068,5 +23068,20 @@
 "average_speed": 2.997,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19214885550,
+"name": "Zwift - Threshold Double Down",
+"distance": 27473.2,
+"moving_time": "1:10:08",
+"type": "VirtualRide",
+"start_date": "2026-07-07 12:34:14+00:00",
+"start_date_local": "2026-07-07 20:34:14",
+"location_country": "West Park, Low Harrogate, Harrogate, North Yorkshire, York and North Yorkshire, England, HG2 0NE, United Kingdom",
+"summary_polyline": "gzohIh~kHpLsHf@@XNHLVp@rMxq@hNbu@zF~Yd@hCRzAbB~PtBvQvD`^xGxl@pAfMrHfr@lAdJ@f@I^]FgBW_SgDkDc@eMs@]MaAk@cCwB_@\\a@|Bc@N_AwAi@Ec@De@K{@w@]QgBs@cHkD{EmBqAq@u@k@q@u@{BsDm@w@_@]gAm@cAWaX_B_@WIMOe@Go@@u@`As`@ViMJaDGeCc@}GAs@Ho@Tc@hEkGrAcBZW`AW|@E\\NfA~AXNXINc@?qAgAmKSiCOqCDaAF]tIkWl@sAX[~Ae@v@a@fDeCtAsAlJsOVg@AWi@qAiFqKoAgDy@yCu@eDmDuPOi@k@mAWWoBq@gB_AwDsCkBgBg@m@_C_DyA}B]KU`@Il@?l@LnAl@pBfDjJpG~^Z~BFv@Gd@IJwB~@m@b@GV?jBKlA]pAi@`A_E|ByDpBYBQYsA{Iy@oDo@yBi@uAmAmCcDuGqCcGsB_H_AaGMY}B}Bg@w@Sa@QqAOwCKgC@_@JUNGdHcBpBm@jFuDRBNVlA|Ch@|@~@lAb@`@b@PRAx@KzAe@`@[?]IYu@cBsBkJ?a@H[Xc@vCqCnCqBvQyFzC}AzI}FZKf@HXTFNr@`D|AjI`b@pyBbC|UzBrRdDh[hG|i@vAnNnHjq@rArKDr@GTKJ[?}XsEkEa@uIe@aBcAcB{Ac@EUx@O`AYn@c@[]q@e@WkAB}AiAiBu@}HyDeEaBuAq@_As@g@m@}BuDm@w@e@c@w@a@uAa@wW}ASI_@e@Ki@Es@fAqc@P_KLcDAwAk@yJBo@Pk@|BeD|CiE\\]|@Y~@I^HXXl@~@XVZ@R[Di@EmAmAsLWsEBkANs@nI{Vl@sAXY~Ae@v@a@|C{BjAeAX]~IaO\\w@Ki@mGuMoAeDk@oBw@iDwD{QQm@k@iAYSqBq@kAm@wB{AoB}A{BcCuC}DcA}A[ESd@Ij@?n@LhAv@bCzBdGf@`BlGx^\\hCBv@ITMNkBv@s@f@Kj@B`ACj@MjA_@jA]n@wBpA{FxCUJUGM]]gCcAaGk@aCu@cCaA_CaJiRuBgHy@kFKYmBqBkAgBMa@Ge@_@cIDYVUjGyAjCw@jFuDP@NNlA`Db@t@`ApAz@v@b@B~@MhBm@LKDUEWw@gBsBgJEY@YPg@",
+"average_heartrate": 134.9,
+"average_speed": 6.529,
+"source": "strava",
+"streak": 1
 }
 ]
