@@ -23083,5 +23083,20 @@
 "average_speed": 6.529,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19255959006,
+"name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+"distance": 10840.8,
+"moving_time": "0:59:51",
+"type": "VirtualRide",
+"start_date": "2026-07-10 12:22:11+00:00",
+"start_date_local": "2026-07-10 20:22:11",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "~escCu~bu^}@We@Ig@?c@Hs@\\ORQb@QPc@FkA?ICq@Ca@KkAm@_@IQ?q@Lk@ZqBvAs@p@{Av@YJK@u@ZmATcAH_@L{@ZuAn@WHcCh@m@HO?[M[Ci@?}C\\[@k@L{@j@w@J_@@eAIM@KFSTaCvDgCxDuAbCy@hAc@b@SHIJa@NABODWNMBSPKBs@p@w@fA_@r@K`@_@nCOh@kA`CkAnB}@jBgC|Fq@tBYl@o@dAaAvAgArBc@h@}@p@{@XMHmA\\eBp@a@Hw@\\SPIBQRi@jAW\\wBdBoAr@GJ{@l@GJIBQTa@x@{@rCe@fAaAnAiAnAwAlAgBpAwAf@a@JwClAKJkAf@IJs@^a@^_BlAs@d@[FY?ECe@Cg@By@`@aAv@g@Zg@RWNQB[PSBUHg@BEDgB@iBKk@MMKKAUKSACCuA?i@LSTU^WN}D@CBW@[FQJQBKHQB_@RI@MHi@JCBQ@CBeAHCDa@@ABy@BCBc@@CB]@EBg@DEB[DW@EB_AJEBg@BEBiAFGD}@BGBg@@GBe@@GBkAJEBmAGCCo@CCCa@ACCo@ACCu@?EBk@@_AJe@Ls@HABO@ABo@PCBQBOJ]HOHWDAB_@FCBiAHEDg@@GB_BBGBiCHCDmBFCBgABCBs@@CDq@@EBs@BCB[@EBi@J}Al@_@Hc@Cm@m@[AIFGN@~@EPKNk@b@WJABI@AB]HABKBABu@LS@{@?CBiACCBq@@]HQHi@Jm@?EBqBCCB{@@CBi@BCBi@FIFc@FCBUBCB]Lw@P]PQBMJ[HMHI@QL[HMJ]HsAt@m@RUDQDCBiD@CBo@BSFCBm@HQJUBa@Ne@NUBc@NUDMHq@POHe@HCBWDCBQ@CBU@EBy@BEBmBHCBk@BEBU@CB_AJCBU@CBuAB_AWeAAaABCDi@@CBe@@CBW@k@@YCOBILK\\GdAS|ACh@?d@BTFPT\\^ZLBJJ`AZd@HPJJ@bAd@HH|@j@JBl@d@JBl@d@`@^`@XFHVPDHt@l@bCnCdBbC`AjBlA|Cn@`AHTJf@Fn@?d@O`A?`@Fx@VxBBh@?p@IrB?n@F~A\\bGEdDInEDr@CJKD[?KEOMIYK{@YuEg@gDi@gCcAmCQi@Oy@U{A",
+"average_heartrate": 140.1,
+"average_speed": 3.019,
+"source": "strava",
+"streak": 1
 }
 ]
