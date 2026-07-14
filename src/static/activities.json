@@ -23113,5 +23113,20 @@
 "average_speed": 6.724,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19309324770,
+"name": "Zwift - Climb Portal: Pas de Peyrol/Puy Mary at 100% Elevation in Watopia",
+"distance": 17828.1,
+"moving_time": "1:03:33",
+"type": "VirtualRide",
+"start_date": "2026-07-14 12:24:02+00:00",
+"start_date_local": "2026-07-14 20:24:02",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "zg`fAik}y^lBtFbAbCLj@?ZEJq@p@OVUrAiAbAQVy@nBGp@K\\_A~AsD~GSXMF_@Cm@O_@Di@d@YJ}BGcA?sAJyC^_CBm@CsBg@cDe@a@?g@FyBn@y@@i@OwAu@q@A{@TcAn@q@T[@]IWM_Au@u@C_AVaAAiAUoBi@}@a@e@M}@?wBX}@Em@k@iAkB_@]_@QmAOiDDa@G}C}@{CY}Ao@iAaAw@oAYkAAgARoATe@PUZSjA_@f@[d@k@fAeCv@gAtBiCxC}C`C{BZQvCiC~@_A\\k@F[@UEYM[g@c@iBkAo@i@S]Gk@KYUSi@YY_@GUBc@Jg@Vo@RMbEBfAYl@Az@\\x@n@~ABd@ILOBKCSGMY[m@e@QCeC_AaAs@sB_BaBg@}DaBoCq@uCk@cDc@kAGcBA{D[_BUoBg@eEk@uAIm@?aALk@?q@GoDy@uAu@e@MoHuAmEi@aB[{Bi@cAk@gEc@QEYUqC?sANyA\\{DxAkCx@s@K_@?w@ZuBhBcCrAuEbDaAfAyAlBwDbDc@f@yAlBaBhBu@l@s@TeANsFNsANqAZiA\\wAn@Y\\Qn@e@|Bo@fEIxBDZN\\b@d@fAn@~An@pCrAtDtAtA\\|@JrEHr@HxAZvC|@vBVp@TPZFj@JlHd@jEAf@EPKBIEa@w@y@_Ak@g@KUKu@Yc@SO_@Mw@?eALkA\\aAj@aAt@gAp@oDtA_Dx@gD\\qB?yAIkBCGMC]MYc@Wi@E[Fa@TUb@CZBZPd@PPd@NX@d@M\\YJg@FGpCJnCB~@CnBS`Ck@`DgAdBy@lBuA~@i@fA[nAMf@Bb@TX\\XpAzA|Av@dA^ODo@c@oDCo@GgGEi@Mg@a@YeDk@aEiA}CWsBAg@EqCm@kBq@wHeDa@Uw@u@Qc@Ce@DoA`@{Cv@yDJc@R_@~@e@~Bw@zB]nEOtAKnA[l@]d@e@fBsBpBeC|CkCn@q@fA}Ap@o@zDqCdDoBvBcBn@Yr@Jr@G|HoCjAYdBMjAAp@DRLTHr@JhAFhAR~@d@xBj@vCf@fBRjFx@dCh@|BbA|Cr@t@Hr@?r@MjA?xEj@bDr@fAN|BThFNlAN~GnA`Cp@tFrBr@`@nCvBrDvAn@r@?`@]NgA?a@Ew@k@",
+"average_heartrate": 141.8,
+"average_speed": 4.676,
+"source": "strava",
+"streak": 1
 }
 ]
