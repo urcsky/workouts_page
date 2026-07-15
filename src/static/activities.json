@@ -23128,5 +23128,20 @@
 "average_speed": 4.676,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19323071088,
+"name": "Zwift - Aerobic Foundation Marathon",
+"distance": 13133.4,
+"moving_time": "1:03:40",
+"type": "VirtualRide",
+"start_date": "2026-07-15 11:59:52+00:00",
+"start_date_local": "2026-07-15 19:59:52",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "ito_HutpdAtNjALAJEJMBQ@g@Gy@iAaM[uBGq@@YFSLMpBi@~AYR@TDtAx@^NTBJATKFIRm@PgANuBRgDXkDPa@LIl@QZWb@o@r@sAjAcCh@oAzAaGFGHAH@j@Rj@Hj@NVDV?JCHGHKFa@?kAOeEQkBCm@BWHSLMXQ~EcB~@a@nCyAlCcBfAcAbD}DP_@Hi@HOLGNAj@BXIzEsCt@]vF_BrIqBTQRe@^YLUD_@Ao@k@cFG_A?m@Bk@V{D?_BCm@]aDq@kEQu@_@kA_@qBo@iEq@_GoBqUQkCGyAEuB?eCDuBNiCNaAZeAn@qATi@Ja@Ha@By@?c@C}AMoCA}@@a@JMFAH@JJJRD`@FjAHx@p@bDl@bCTb@NLNDXALEJKHOHe@?e@Cm@UaCCaBFcAP_Br@iEf@yB\\eA^{@V]NGl@ITQNWJWPw@Dg@EaDQmJI}AQ{AeAwFa@wCGe@?c@Dc@Hi@r@}Bp@aBv@aBNQTMXEP?|@FhARtBf@bA\\n@X`Ar@b@^b@f@V`@l@zAp@lC`B~HnAtEVv@Rd@Zh@Z`@`@\\p@^hDfAp@XfBhAtAfAlAjA\\`@lAtBXZ\\T|@d@vC`AhEdBnAn@`BjAvCbCrCvBZ\\LX?LMrBBPJLJ@JA\\MhBeAVMTCP@NFVV`@Tx@n@f@V\\F|AHhARfDdArGxBzCz@^Nb@Z`B|A^Vb@Xd@PzAb@pEx@zA^r@Dr@G^IxCeA^IbAMv@Ap@Bl@Fx@PbA\\hBx@`Aj@f@\\zAtA`BdBv@dAh@|@`AnBl@|Af@tAf@hBfA~ElAjEb@dAj@bA~@pAf@j@bAx@bAn@vAn@x@XdB^tFr@rCf@vAZjA`@hAp@|BhBpA~AJX?\\E\\e@bA]d@QHs@PyDf@cAJmBFg@Bi@J}@V_A\\}@d@sAbA{CnC{CxCo@h@{AdASTOZ[z@OXWJYBsAB_@F]L[Vs@|@iAdB[\\]ZcBdAa@\\]`@sAtBoC`FcAxBYd@]f@a@^c@Xg@RoAX",
+"average_heartrate": 124.7,
+"average_speed": 3.438,
+"source": "strava",
+"streak": 2
 }
 ]
