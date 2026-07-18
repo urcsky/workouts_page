@@ -23143,5 +23143,20 @@
 "average_speed": 3.438,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19363400403,
+"name": "Zwift - Threshold Power Forge",
+"distance": 36717.1,
+"moving_time": "1:12:16",
+"type": "VirtualRide",
+"start_date": "2026-07-18 12:33:21+00:00",
+"start_date_local": "2026-07-18 20:33:21",
+"location_country": "The Mall, St. James's, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1Y 5BD, United Kingdom",
+"summary_polyline": "stjyHztXjSrp@TfAUpCI~No@fb@A~CNd@LaA?uHj@{_@FmLTw@XUtABVMfDqDRs@kDit@?kAh@uOBkDPs@d@QbGL|EmAjEMbKwAtDSrIEdCb@nAt@hIxGr@v@fA~BhBtFt@xAn@|@|BlBfCnA`BrA|@rB|@lF`Dv[d@fDRjEExCkBzRc@~G]~IBjMKjBUlAqCfFyEvJaOjXkFbAuBj@[SU_BKO_@I_@R@bCEV[\\kFp@iT~DMj@LbDEj@UZaA^_@`@Ix@@nAq@nGYxA{@vC]`@e@F_@_@eCiF{FmHk@qAq@qCeA{He@qLcAkMo@kFQmLYsCa@eBqC_ImCeFkCeHkEaK_GwOCo@LYdNeML[Ca@}BuHiJo^CiBt@gNHWJQ^AZV`@|@r[zdAFt@WfBEzLu@pf@?hBH^H@DOBg@@kKj@w_@DaJNo@\\]dBAdDoD^y@kD{t@l@sR?aCRaA^MhGJ`FoAdEK`KwAtDSpIE`C`@hAj@bKpIpAnClB|Fz@`BrClC~C`BxAlAv@hBp@jDrDj^f@tDN|DAjBMjB{ApOg@dH_@vKBtLGpA[bBqCfFuEnJcOrXkCn@cBRgBh@]IKQS}Ao@Q]XFfBIp@[VkFp@eT~DOp@LpCCp@U`@kAd@UVKt@BdAu@hHq@bDYx@Yb@i@Rc@WkCuFwFeHi@mA}@}DcAuH_@uKcAgMo@oFGcIMeCMyAg@aCgCiHeDuGuByFoHgQeDeJCm@L[fFoEzFsFN[M_AsByGgJm^GmABw@z@aNHQ`@G\\V`@|@r[|dAD|@UxAEdMu@vf@?zALf@HKDq@?_Il@ya@DiJPo@\\]tAB^UvCaDZ}@kDct@h@kRBiDRq@b@OlGJxEmAvDIjKyAtDSxIEbCb@dAj@rJ~HtAjCjBxFz@fBt@`AxApAnDlBxAlA~@~Bh@tCrDh^f@tDN|DGbD_BjPi@dHa@pL@nM_@zCgCrEkFvKyN~WeJlBYWU}Ao@SYTBhBIr@]VkFp@iTbEIj@JzDOb@mAh@_@b@Gf@@bBo@xFWzAw@vCe@n@e@Fa@a@aBsDm@cAkEkFo@eAi@uAo@uCcA{H_@yKcAiMo@mFGcIM_Ci@yDqCkIgDuG}BgG_IkRqC_I?a@L_@~M}LLSD_@wC}JsIw\\EaABeAp@{LRu@VGXJ^j@Xr@f[bdAHr@W|BApGa@bY",
+"average_heartrate": 131.6,
+"average_speed": 8.468,
+"source": "strava",
+"streak": 1
 }
 ]
