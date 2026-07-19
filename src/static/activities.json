@@ -23145,6 +23145,36 @@
 "streak": 2
 },
 {
+"run_id": 19378738719,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5260.2,
+"moving_time": "0:30:02",
+"type": "Run",
+"start_date": "2026-07-16 12:46:39+00:00",
+"start_date_local": "2026-07-16 20:46:39",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "cyb~Cyx|vUu@`AKJcAlAm@~@u@z@oBtCkArAq@|@]l@cBlBMTGPQR_@r@KJM\\[b@g@j@KR}@bA{@nA{@`A[j@q@z@m@j@}@h@m@Vm@Ry@JqAFo@?aBCW@w@Ee@Bq@CiA?MIE]AkA@k@I]Cc@I{A?][cAU_CQu@M{@Ei@Da@IaAOy@WaCCk@CIMeAEaAEQEo@Ig@CeASuAOyBSkAI]]}@Q[g@}AoBuI_@iBGc@Qs@KU?_@BKFGb@YXKb@]fDeAd@GZKNQ|A}@\\Qr@UlAm@TIz@QLI\\G~@Y`Ai@HKTOz@Sj@SXQ`AWjEuB^KPKRE`C_AjAk@~Ai@`Ac@TG\\C\\QJ?^NJJNr@`@x@t@|BZl@p@fBj@`ApAdCp@fAFNjBrCbAdBBTC\\M\\u@xAST",
+"average_heartrate": 149.8,
+"average_speed": 2.919,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 19378753768,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 433.6,
+"moving_time": "0:18:02",
+"type": "Swim",
+"start_date": "2026-07-17 11:59:42+00:00",
+"start_date_local": "2026-07-17 19:59:42",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 122.5,
+"average_speed": 0.401,
+"source": "strava",
+"streak": 4
+},
+{
 "run_id": 19363400403,
 "name": "Zwift - Threshold Power Forge",
 "distance": 36717.1,
@@ -23157,7 +23187,7 @@
 "average_heartrate": 131.6,
 "average_speed": 8.468,
 "source": "strava",
-"streak": 1
+"streak": 5
 },
 {
 "run_id": 19372638047,
@@ -23172,6 +23202,6 @@
 "average_heartrate": 116.1,
 "average_speed": 7.859,
 "source": "strava",
-"streak": 2
+"streak": 6
 }
 ]
