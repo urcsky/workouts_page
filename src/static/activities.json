@@ -23158,5 +23158,20 @@
 "average_speed": 8.468,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19372638047,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 28434.6,
+"moving_time": "1:00:18",
+"type": "VirtualRide",
+"start_date": "2026-07-19 07:47:26+00:00",
+"start_date_local": "2026-07-19 15:47:26",
+"location_country": "Admiralty Arch, Whitehall, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1A 2DY, United Kingdom",
+"summary_polyline": "swjyHtmXnK`]bJjZLn@@XQjAEn@?dECdDe@vXQzN@nBHZHCBOBa@?wHj@a`@FaGCoBB_ALe@T]JG\\Cv@FZOdDqDN_@@UeAgSiAuU[eI@{Aj@oPE_CM_@UOWAcI?_DRwB\\oBf@oBp@{EnB}@R[?_Au@o@SMMmCoG}E_MeCoHw@cDKMKFATDTp@nC`@lAvBjGvAfDlBdFDn@C~DBn@FPZDvA_@\\@VZTvANb@LJX?ZJXTb@l@lOpf@lKz]FZA\\UhB?~DErF_@`UUvP?~A@PFNJ?BQBi@@wJj@c`@DkDCgDBWPi@V[^Ez@F\\QzCeDR_@DUmBma@m@{KOeEBwBh@_PC{AGi@GMKGc@GiI?eDTcCb@eCr@gHrC_ANYGq@o@o@QMM_AsBwHsR}B}Gy@eDKIIN@VJh@dArDvBjG~AzDlBhFBl@C~DDl@HNNBvA_@\\ALDR^TvAP`@LDZ@XLXTb@n@~Rlo@`GvRXjABZAZSnAAZ?~DC~Ci@f]M`K@`BJ\\HIDi@@kKh@s]F{FAgDBUPg@ZY^Cj@F\\IhDsDPa@BUy@cPi@yLgA}T@cBj@qPGeCESIKa@KkI?aDR_BV}Bj@gBj@mFxB}@PY?aAw@m@QMMwCeHuEoLwBiGiAkEKEGPN~@z@bDvBjGnE`LHl@C~DDbAJLN@vA_@\\ALFR`@L~@Lh@JLh@Df@VVZ^r@n@zBhMla@pKz]Hv@WjB?zEC~Ce@xXOhNArBFb@FHFMDi@@kKh@s]F{FAgDLk@T_@^Kz@F\\K|CeDT]Hi@eAeSeBs_@@cBj@uPC{ACi@Q[e@I{H?cDP{B^qCr@}H|Cs@LYCq@o@}@]kAeC}HcSmBwFy@gDIOMBATJj@jAhE|ApE`FhMDl@AvEHj@JFNAvA_@\\@TZVvANb@HHj@DXPXV^p@jSjp@fGnSFv@WlB?|DErFk@x]I`H?~AH`@J?BQBi@@uJj@e`@DmDCgDBUPi@V[^E|@FZQpCyC\\m@DUwCgm@SgF@cBj@_PCoBGi@UUc@EiI?gDViBZ{Bj@iI`DkALaAw@m@QMOwCcHmE}KoCcIy@cDKEGPN`AdArDdBdFxBrFbBrEBXC~DDbAJNN@tA_@\\ALFJLFPNbALf@JLf@D\\Lb@d@\\r@bBtFjLf_@rJl[Nr@B\\AZUnA?xEGnG",
+"average_heartrate": 116.1,
+"average_speed": 7.859,
+"source": "strava",
+"streak": 2
 }
 ]
