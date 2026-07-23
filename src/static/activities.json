@@ -23263,5 +23263,20 @@
 "average_speed": 2.507,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 19431846680,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 15246.2,
+"moving_time": "1:01:38",
+"type": "VirtualRide",
+"start_date": "2026-07-23 12:12:59+00:00",
+"start_date_local": "2026-07-23 20:12:59",
+"location_country": "Tiroler Kunst Pavillon, 8a, Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "ioo_H}spdAnIp@ZCHIFOBSCy@eAyLi@}DAWBWJQLIbBe@hB[h@HvAx@\\L`@@JEPSRm@NgAL_BReDNiBBm@Fi@FQHM|@]ZWb@m@h@cAtBsERq@lA}EHIHAr@TzB^VCRQDODc@Ay@QyEOuACm@BWFSJOZSfFeBt@[lCyAnCeBfA_AtCmD\\k@R{@JKZE\\BZEzEsCv@]bHoBhHcBZURe@^YJUD_@Aq@q@wFAk@ByAL{AH_B?gACeAU{Bq@qEYqA_@kA_@qB_AqGc@cEeBqS[}EKmD?iCDqBHmBViBX}@|@iBV}@D_@BqAEmBK}BAuABSHIN?HDJTFRHbBHr@bA|ERr@Rj@RV^JTELILSFQBU?e@Y{DCsABo@HaA`@qCf@oCVeAt@{BVe@PQr@KPILOP]T}@DU@[EaDOcIKgCUkB}@wEi@oDC_@?[De@Hi@Tw@`@mAl@yAr@yAT]RIb@EdADlATbCl@~@\\j@ZzAhAp@~@b@z@\\`A`@~AvAdHb@hBz@|CZ`AZn@\\f@b@b@b@Xn@XrDlAh@XvA~@xAjAhAfA^h@~@bB^`@VPx@b@tDnAtD|AjAl@pA|@|CfChDjCPRLX?NMjBDXHHNBVGhCwAVGX@|BdBj@V^H~AFbARbCt@`IlClCt@dAh@bCxB`Ah@|Ab@rEx@~A`@h@Dr@EjAYtCaAdAMx@ApAH~@PjA`@rB~@~A`A|BxB~AjBjAlBh@fAf@hA`AnC^vApAzFbAnDd@dAj@dA~@rAj@l@hA|@`Aj@fAf@nA`@nB^dGv@jDp@rA`@n@Zd@\\|BhBrA~AJX?\\EZKXi@`AONOHyAXiDb@iETgBb@uAj@}@h@_Av@{CnC}CzCiCnBSVk@xASPWFqBH]H]Ru@v@gAfB[^[Z_@XeBhA_@\\_@f@w@nAoCbF}A~C[f@c@b@a@Ze@TqA\\}BRaCBg@EyBc@g@Ae@X[h@}BfFWj@g@xAQr@W`B}@tH[hASZWRs@Zu@P[BsAAYB[JYR{AbBWTmAf@{AZ_AHa@C}DoAc@Ea@L]`@s@tAqAtB{C|Dq@r@m@h@yBrAq@XYCsAu@a@GmCDc@Uc@]sDk@e@O[_@i@wA]a@c@MqAFg@G]e@Ky@D}B",
+"average_heartrate": 121.0,
+"average_speed": 4.123,
+"source": "strava",
+"streak": 10
 }
 ]
