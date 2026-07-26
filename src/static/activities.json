@@ -23293,5 +23293,20 @@
 "average_speed": 2.965,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19472879380,
+"name": "Zwift - Endurance Double Shift",
+"distance": 22727.7,
+"moving_time": "1:00:25",
+"type": "VirtualRide",
+"start_date": "2026-07-26 12:17:56+00:00",
+"start_date_local": "2026-07-26 20:17:56",
+"location_country": "Charlotte Williams Memorial Hospital, 1201, East Broad Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "cfcdFpyrwMiL`UmGfMI\\?PH\\xD`EvAlAtAvArAbAf@TZ@LEVSFM`@{@Z{@fCmFjCeFtHmOlKiS`A{A`DiGlCsEROTHTRvFbGTDPELQbA{BPi@Dm@?UKaAAk@PoAzBmFjFwIrBwDtBeE\\}Ax@yArAuBvEcIfCyDv@_ALKtOgLXQjCwChAiAj@WpAYnA_@pCeA^URWDIA_@EIUKc@F{@TcHxCw@r@mD`E_Ar@mAf@{@NkDO_A?cAXkG`AY?AQ@IDG\\YDWIUWQUC[?o@PIGCWFIj@SHIHOTs@F?TLf@j@XHZEPMDID[E[EKoAyAm@k@OCMBUXYbAsG|LaBjDFb@VXfBxALd@K`@eA|BqAlCWZUBWMo@q@c@_@w@_AmF{FiAcAKGMAWNS\\gAdCcJhQi@z@]|@@f@PZh@n@xDpDxEjENT?VIVgC`FeCdEwApCcDtFgBnDORM@{@YUOg@k@iAa@_B_AiA_@uAOmB{AYCQJm@bA}DbIqHvNwMvWM`@@d@HNJL`@\\~BfCdB|A`AbAjBvA\\N^BZQ^o@`AcC`BiDzCaGlH}NbE{HrAqCbCqEbAaBdDmG|B}DRUXDRP|EhF^^RBRIhA{BRk@DWBm@M{A?W@UN_AbCyFnEiHnCeFpB}DVsAp@oAnAmBpFkJ|BiDdAkArP}LnC{C~@_ALI\\MbB_@lC}@lAg@TQPUDQ?MCMIKKCW@kAXeBp@wDbBk@d@kE`FeAn@cA^q@La@?oCOw@?gAXcG`AY@EACI@Q`@]FQASKQa@OW?{@PECGM@QDEl@SNUVw@XHRPTZTJN?XKLMFUAYOa@gBmBWQ[FOTUx@Q^yGfMcAtBI^L`@TVt@h@p@l@Hb@a@fAaC`FQVWHYIOOuHgIeBeBk@a@WF]f@aAzBsKrSO\\K`@@`@R\\f@j@dJtIp@h@LTAVk@pA}@`Bm@nAqB`DiC~EcBrCg@bAE?K\\c@z@i@bAMLK@UGo@Ww@w@eA_@_B_AcA]{AQgBwA]GQHo@dAiFnK}FzK_NfXM^@d@R\\`@\\xCbDxAlA|@`A|AjAj@VL?NCXS\\m@v@qBlCuFlCgF~FqL`FmJpAmCj@aAfAuBpAwB`CwE~CsFRSXD`GjGNLRDRGrAoCLk@Dm@MqBBk@Jk@FQn@wAfAiC|EcInBoD`CwEHQPcAJW|@_Bz@qAfB}ClAoBx@{AZe@",
+"average_heartrate": 117.3,
+"average_speed": 6.27,
+"source": "strava",
+"streak": 2
 }
 ]
