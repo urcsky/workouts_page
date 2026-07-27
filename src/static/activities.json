@@ -23308,5 +23308,20 @@
 "average_speed": 6.27,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19485151076,
+"name": "Zwift - 06. Sweet Spot Summit",
+"distance": 13385.3,
+"moving_time": "0:52:57",
+"type": "VirtualRide",
+"start_date": "2026-07-27 12:11:34+00:00",
+"start_date_local": "2026-07-27 20:11:34",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "yap_HuwpdAxAt@\\FvBBtThBLALIHQ@SAcAa@mFa@iEg@mDC[@YJSLKNEhBg@zAUb@FbB`ATHX@LCRUNa@RqAPmBf@kIDUJQLMl@U^WX_@v@wApAmCj@wArAoFHMJEH@p@RtB\\XCJIFOFg@?uAOqDSoC@YFULONK\\QhCaA~@W~Aq@rC}AbBeA~@w@^_@bC{C^m@Jk@HQLINEl@B\\M`FwCp@WpGiB|A_@`Cg@nA]VOTg@FGPKNSH_@Au@k@cFGk@Aq@Bo@XiE?mACs@WiCo@qEYqAi@kB_@yBiAsI[yCyAsQ[}EKeC?aCBcCH{BFq@PcAT{@bAuBPm@Jk@@a@?cAQeFAeA@OHMLAD@JHJXDXLlBLz@j@tCj@vBNXXRRDJANGNOLYDe@A_@[uDCa@?u@Dq@N{An@yD^iBT{@Ro@d@kANULIr@IRMXg@V}@Fo@E_DOyIKwBQ}AgAyFa@wCEc@?a@Hw@H_@V_Aj@yAp@}Ab@_ANQLGNEVCT?v@F|AX|A^|@Zt@\\p@f@p@h@RTh@v@t@lBz@jDt@|Dp@tCjA`E^z@\\h@`@`@d@ZvAl@vAb@`A^nAt@hAv@fA`Ax@x@`@h@bAfBd@d@PLv@\\|CdAlDrAnBdAhBrAfBxArB|AzAnAL\\@N?PKtA@VHNNDRGfCqAZKV?PFtB~Ad@Th@Hf@@b@B~@NpCz@|HhC~Bn@b@Nj@ZVRbB~A`@Xn@ZxAb@rEx@~A`@h@Fz@E|@UtBu@j@Ov@K`ACnAF`APhA^~BdAvAz@lBfBzAdBr@`Af@z@tArCdAxC\\nAhAdFv@tCd@vAf@`Ab@v@v@dAl@n@dAz@`Al@xAl@p@R|A\\nGz@jCd@rAZx@XbAj@`CjB`@`@|@lAHXA\\GXWl@[f@MLOHq@PaDb@{ANyBHg@DcB`@oAf@{@f@}@r@mD~CwCtCcCjBSRQZWz@OVWHYDoAB]D]L[Rs@z@gAbBY^}@r@cBfA_AfAmArBmC`FcAvB]f@]`@c@\\c@Ti@NmAV",
+"average_heartrate": 131.2,
+"average_speed": 4.213,
+"source": "strava",
+"streak": 3
 }
 ]
