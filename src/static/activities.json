@@ -23338,5 +23338,20 @@
 "average_speed": 0.619,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19515280839,
+"name": "Zwift - Climb Portal: Col du Tourmalet at 75% Elevation in France",
+"distance": 13219.9,
+"moving_time": "1:03:03",
+"type": "VirtualRide",
+"start_date": "2026-07-29 12:43:05+00:00",
+"start_date_local": "2026-07-29 20:43:05",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "hescC__cu^e@Me@Ie@?e@Ha@LSNOPQh@IFYHo@Dw@Au@Go@Uy@a@q@Ks@P_@PeCbB_@`@a@VcBv@wAd@{BXo@POHcCbA_Dn@_@?k@M{@?qD^k@Jq@d@i@Nk@DiAI]BURQVk@bAsAnBiAjBw@fA{AnCq@|@c@b@UNcBr@q@d@s@v@i@z@_@x@Ov@UhBc@nAiB|CqAjCgC|FgAzCmChEs@rAe@l@a@\\m@Zk@TcBd@k@XsA^i@Tq@b@U\\i@lAQRiBtAgBjAk@b@g@j@_@n@_A|C]x@{@lA}AdBkDpCs@ZcBd@{DfBcAh@{BhBwA~@UF]?GCq@CYBi@Tq@b@}@t@]NyAn@k@Li@HqC?_AIWEiAa@WEsA?WDUJOPS^UNc@@GBgBEm@@u@LmBv@oAZg@BCB[@CDa@@EBaBL_@@eBTi@JkBPGBgEV}ARkAGCCq@Cc@EECi@AECu@?EBm@@kDh@{@ZK@a@Rq@ToARsAHGB{ABGBm@@GBiCJEBaCHEBi@@EDsBH{AZs@Zo@P]DQEo@m@WAG@ILAZ@r@INWV_@VoAh@u@Lu@@EBuC@mAZOB_@?GBeB?MCEB_A@gALq@NQHYByAb@iAf@OBYPOBs@ZeCjA{@To@@EBoBCEBo@ByA`@SBc@N{A^w@XSB]P_ARWHsAHGBw@@EDwAFiC`@uABc@ISKkAC_ABEDi@@EB_AFqA?MLK\\KzAUfB@v@F\\NXTTv@b@lBj@PB|Ax@r@b@nBtAzBjBrC~Cp@x@z@nAd@x@f@dAp@fB^|@^h@Pb@Hb@Dv@A\\MbA?Z\\lDDv@AbAGtABzA`@|HCxBKnFFx@CFEDc@BIEQMISOqAYsEe@_D[_BQo@}@_CQi@Q_Am@yDo@}C]gAm@oAkAcBeAsAy@_Bk@}@]a@[SaAe@s@SWCi@MCC_@C[GCC}@ICC[ACCmAECC{AACCaBACCaFCCC{@CECo@ACCcACCCg@ACCqBKCCyAIq@MaAUOK_@IYQOC_Bu@}@YOIKAQKgBq@WCWKeACi@BCBu@JeATYHW@EBW@g@HCBw@H]H_@B[J_BVCBYBUHYBUJk@HSJe@Hk@TKHQFcA@}AM[?g@FSLILIZIv@MVc@Z}An@",
+"average_heartrate": 132.9,
+"average_speed": 3.495,
+"source": "strava",
+"streak": 5
 }
 ]
