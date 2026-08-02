@@ -23383,5 +23383,20 @@
 "average_speed": 2.624,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 19570178044,
+"name": "Zwift - Threshold Double Down",
+"distance": 30167.4,
+"moving_time": "1:10:12",
+"type": "VirtualRide",
+"start_date": "2026-08-02 12:18:50+00:00",
+"start_date_local": "2026-08-02 20:18:50",
+"location_country": "La P\u00e9rouse, Temotu, Solomon Islands",
+"summary_polyline": "d|afAcmzy^n@xCZhE`@|@vA|A~BhB|C`DhA\\bCO|BaAxAcA`@IZHtBdJpBzEpAfB~@r@hBr@nAJlASv@e@pEaFfHiF`A}Al@eBpAcIlAeD`@kBHqBg@}AmB_BuEeA_FMmJ^a@q@b@gD@sAQkBWq@i@_@yNuEuA?aE|@aCLcJaBwF[gBL_Bd@oAlA[dAIfAHtA\\|AvBpEjEdG|@fD^~Et@xAlEvDjCrClAb@hA@|@OxB}@|AgAx@A^z@vA|GzA`EpCnDxAv@`ATxA?|Aq@zEkFlGmEfAuA~@gClA{HtAwD`@sB?kB]eA_@a@_DgB_Ei@aFA{G^i@KQc@?[d@{C?oAQgB]u@cEsA_IuCoBEcGjAy@?gJaBuF[yDh@{AnAa@nAIdAJtA\\bBnBbE~EfHx@rDPlDh@nAtA|ApGbGnAb@hA@|@OzB}@zAgAx@AZr@zAdHdBpE|BvCbB~@`ATxA?rAg@tF_GjGqEbAyAn@eBlAyHzAiEZ{AHsBc@uAqBeB}DaAgFQ{J^c@o@`@qCBqBKsAc@iAcEsAaIuCyAIcGjAmABoLqBoDKyDh@yAnA]~@MtAJtA\\bBdBtDhFtHx@rDPlDh@nAzAbBjG|FjAb@lA@~@O|BaAjBkAj@FtBdJdBhEvArBp@j@t@b@vBh@fBQrAy@vDkEnGqEnAcBx@uBrAkIjA}Cd@{BFcB_@wAgCqB_E}@cFMoIb@i@KUy@b@sC@sAQmBWs@eAm@}Bi@_IuCqBGgE|@sBLgJaByF[iEp@kAdA]z@OvAb@hD~AtDlFvH~@`ERlDt@`BnIfIvAn@bCKfCcAjBkAb@B\\r@hBjIpAdDxBvCtCvApBD|Am@zEiF~FcEtAeBx@qBpAgIxA_E\\gBDsBk@yAqCkBeDq@eFMoIb@i@KUw@b@uC@sAQmBWs@eAm@}Bi@uI{C{AAiE|@sBLeJaBwF[iDb@cBbAg@jAMbABvA\\dB~AtDrFdIx@rDTxDr@tAnIfIvAn@jA@|@O`CaAjBkAb@B\\r@hBjIhArCnBxChAx@|Al@nBD~Am@tFcGrE}CnAmApAsCtAsIzAgE^}BE}Am@oA}AiAsDeAkGScH`@mAGWq@d@aD?sAOeBUq@e@a@cNqE{BEoBd@yDb@kLoBkEMwC`@sAr@g@x@[nAApAT`B`@zAjA`CpF~Ht@dDRrDl@zAjKxJbAN`ACtDuA",
+"average_heartrate": 132.7,
+"average_speed": 7.162,
+"source": "strava",
+"streak": 1
 }
 ]
