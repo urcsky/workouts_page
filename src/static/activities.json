@@ -23430,6 +23430,36 @@
 "streak": 3
 },
 {
+"run_id": 19629776193,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2302.9,
+"moving_time": "0:14:07",
+"type": "Run",
+"start_date": "2026-08-05 12:02:05+00:00",
+"start_date_local": "2026-08-05 20:02:05",
+"location_country": "\u51e4\u6e56\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "cvb~Csu}vUEEa@iA_@e@KUSYe@_AgAmAk@cAEKIk@Sc@Kc@s@uA[_ASYa@{@]kAi@mAK]OWMa@OMa@_AAC?WIa@MWOw@Qg@K{@GGMo@_@_AEa@g@uAk@qBEIUqAk@{AS]o@mBYu@]i@m@}AQ]GEIYQEO]SQWGK?m@PK?QGGKG_BKmA@g@Aa@O}AEYIyAQkAAQ@SKYKI_@Ee@?iAB",
+"average_heartrate": 128.9,
+"average_speed": 2.719,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19629776187,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2101.6,
+"moving_time": "0:12:27",
+"type": "Run",
+"start_date": "2026-08-05 12:42:31+00:00",
+"start_date_local": "2026-08-05 20:42:31",
+"location_country": "\u5357\u8857\u8857\u9053, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350001, \u4e2d\u56fd",
+"summary_polyline": "}jd~Cap`wUl@GlBBtBKh@?XRlAh@n@`@\\FJDBDF\\Cr@Bl@?|@LbEHb@AVRf@Bf@Lh@LXXV`@jAHLv@jBXf@\\fAR^^nAl@rAd@hBBZH^N^^pATl@?DRd@L^Dl@Pp@Fb@B\\JDFNRRJr@Td@Ll@Vv@l@pAd@rAT\\J\\JRFV\\t@R\\V\\N\\Xb@Rh@jB|C",
+"average_heartrate": 141.3,
+"average_speed": 2.813,
+"source": "strava",
+"streak": 4
+},
+{
 "run_id": 19626715611,
 "name": "Zwift - SST (Med)",
 "distance": 19820.8,
@@ -23442,6 +23472,6 @@
 "average_heartrate": 131.8,
 "average_speed": 5.392,
 "source": "strava",
-"streak": 1
+"streak": 5
 }
 ]
