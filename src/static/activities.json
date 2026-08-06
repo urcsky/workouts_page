@@ -23428,5 +23428,20 @@
 "average_speed": 0.58,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19626715611,
+"name": "Zwift - SST (Med)",
+"distance": 19820.8,
+"moving_time": "1:01:16",
+"type": "VirtualRide",
+"start_date": "2026-08-06 11:57:02+00:00",
+"start_date_local": "2026-08-06 19:57:02",
+"location_country": "Haus der Begegnung, Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "cro_HktpdAlL~@XGJKFc@C{@eAwLe@aDEm@BWHQ\\O~Ac@dBWf@HtAz@^L`@?ZWPo@RwAx@uLP_@z@]\\W`BuCpBuEtAoFRGfDt@d@GNYFw@Cy@SaFQqBLi@j@a@xGaCpHkEjAoAjCaDRa@Fi@HO\\Kl@B\\I|DcCdAi@`GcBlIoBVO^s@ZQHYD_@Cu@o@mFCcA\\iG?kACq@SmBq@wEQ_Ay@}Ca@eCoAaKoBsUSiDKgDBaFH}BTiBR{@tAyCNaABmAQmFA{ABMVKNJFPFVLnBXbBj@pCh@fBTZZJXEVULa@@q@[gEAiALuBl@yDp@cDr@{BZk@LMjA[\\o@Tw@Fy@]{PUaC_AcFg@eDGu@?_@RuAt@{B`BuDPWRKd@Et@BhEz@dBn@tBzAz@fAn@zAl@~BpBjJfA`Ep@fBf@t@nA|@`FdBzBxA~CnC~AjCt@r@z@b@jDjAnEjBvChBpIbHFL@`@KfBJZND\\KhCuAl@C`CfBf@TvD`@jR`Gx@f@zBpBjAn@hK|Bl@Fz@G|E{A`COtC^tD~AlBlAxBrBjB~Br@lAzAbDbAvCbBrHhAzDb@dAj@dA|ApBpB|AbDvA`B`@hLdBnCt@nAt@bCnBrAdBF\\E^Wr@[j@a@\\yEt@kGd@iBf@wAn@oDtC}FtFsBzAg@p@Y|@QVs@LwAD{@Xw@x@iAfBw@|@eC`Ba@`@oBzCyEdJ[d@cA|@qAd@{BZkDFcDk@g@@a@Z]j@}BfF_AjCg@rC_AvH[fAUXu@^qAZoB@[F[N{A`Bq@j@u@XyA\\aBHaEoAe@Ga@H_@^s@rAoB~CsDpEq@h@{BtAq@T]Gy@i@]KoC@c@Ea@_@c@SyDm@_@Uk@uAYi@e@WwB@c@WQu@@}DO{@Yu@{@oAaBcByCaBwDqCkB{@aBgAaAe@a@KgAGqBNkAXc@Ra@d@g@~A[`@w@v@}@b@}@BsAm@mAgAg@gA_@{AyAuK{@_IWaBaAoEi@cGIq@c@qAsAo@[@cHzAqGjBiDdB_C`BOTWt@C`A|@hPz@|JtBn^T|BV|Ap@dDv@nCB^C^KXg@d@g@ZkBx@sA`@oCh@wBGe@No@n@yBlDe@b@m@V{GxAqARcABqDO_BJyA`@wDzA}C|@",
+"average_heartrate": 131.8,
+"average_speed": 5.392,
+"source": "strava",
+"streak": 1
 }
 ]
