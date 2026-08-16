@@ -23520,6 +23520,21 @@
 "streak": 1
 },
 {
+"run_id": 19768652411,
+"name": "\u508d\u665a\u6e38\u6cf3",
+"distance": 459.6,
+"moving_time": "0:21:59",
+"type": "Swim",
+"start_date": "2026-08-13 11:53:24+00:00",
+"start_date_local": "2026-08-13 19:53:24",
+"location_country": "\u5b66\u56ed\u8def, \u5357\u8857\u8857\u9053, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350001, \u4e2d\u56fd",
+"summary_polyline": "qje~Cmd_wU`Ixg@",
+"average_heartrate": 120.3,
+"average_speed": 0.348,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 19738697201,
 "name": "Zwift - Threshold Double Down",
 "distance": 31763.6,
@@ -23532,7 +23547,7 @@
 "average_heartrate": 109.6,
 "average_speed": 7.527,
 "source": "strava",
-"streak": 1
+"streak": 3
 },
 {
 "run_id": 19748139178,
@@ -23547,6 +23562,21 @@
 "average_heartrate": 140.0,
 "average_speed": 3.433,
 "source": "strava",
-"streak": 2
+"streak": 4
+},
+{
+"run_id": 19768652943,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5033.3,
+"moving_time": "0:30:00",
+"type": "Run",
+"start_date": "2026-08-16 11:42:37+00:00",
+"start_date_local": "2026-08-16 19:42:37",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 143.5,
+"average_speed": 2.796,
+"source": "strava",
+"streak": 5
 }
 ]
