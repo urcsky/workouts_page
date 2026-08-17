@@ -23578,5 +23578,20 @@
 "average_speed": 2.796,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 19779426063,
+"name": "Zwift - Aerobic Foundation Marathon",
+"distance": 24963.0,
+"moving_time": "1:04:20",
+"type": "VirtualRide",
+"start_date": "2026-08-17 12:22:09+00:00",
+"start_date_local": "2026-08-17 20:22:09",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "dktcCsmhu^}FmUFsAbA_D?oCg@wEmDyS{@gTQgAu@]iE~@iBQwIwIgBoCaEwIiG{FoB_AwJoBmEaBsAIs@VeAtABZjApACR}CSk@PDZTNlGtCNVCZk@ZqEHqD^SP@TVPlNhDD`@QT{GbEiChASLMp@FXh@V~CVrJ|A@^WPiF|Ac@b@DXxC|D`@jBFvAGv@eAzBw@|@mBnA}Ah@kAH{A]iDcDsAy@}AAgBd@y@Gm@c@c@aAUiAC_Bs@i@ScAq@yAm@eA[Mm@DqAp@}@|Ao@b@iGlAyA@m@g@w@cCDm@h@o@D_@Mo@o@c@aAb@_@|A}C|A_G~AgASi@PUTe@hBeA|BqA|EFp@`AfB@n@M\\iAx@q@~E_@b@mAj@On@LxAvBlFF|@Sr@k@d@k@DkDmA}AFe@bACxDYz@w@VeCgAo@Ag@b@_@tCg@^aAGeDuCq@?gJ|NIj@Vh@bEnB\\b@@hAo@rAIj@Th@pBbAHp@[f@}A|@Ij@Vb@fChAHn@Mh@o@r@i@RsHSs@L_Cz@eBtB_AHoBx@SZInAuB\\e@ZKn@HnCMl@gBz@aBZo@b@k@nAAlALn@r@fAfE~BRXFh@MjCZv@b@ZhObCr@\\vBxBxBp@~K`BvH\\`An@vB~BR~@Q`CRh@ZNnOCjBDXLPx@InBoFpFE~CW|Bc@xBk@dAaAx@B|Bf@XdOCvANpAhCnApDj@f@dAZr@~AI`DgBhFDnAXn@zAfAbATr@AjBs@|AWxCPtBzAt@xB`C~Br@zA~@n@|AbBv@b@pADpCgArEa@xARtB]jEcBrEy@nBs@`HuEz@AdC~@xBHz@U|@oA`BSnDdAfGlD|FE|BJhCk@lO|BnGrB|@~@LhBb@RjB@b@f@Dx@Kv@uA~@S`@Cf@Pf@lD|A~BVPLh@vA\\X|@KjAmAvAGl@cA`@SdBFbAh@p@Ez@gAb@kA@m@k@iBCo@f@i@nAy@Dm@M_Au@{As@_@k@@uCdAiABi@m@I}ANoA`A_ApAsBBa@UkAF[rB]r@]NkAEaAO[kDcCoJyMUu@YwCo@aBkDuBmAyByHiHm@mAEqDNaI`@u@jBsAfBwEZoB?_GSqDs@wCkGwKUmAv@{ApDeEJkAwCuLcEcMyKqb@EaBhA}DGuD_@kDmDkSaAuUKe@_@[q@B",
+"average_heartrate": 115.7,
+"average_speed": 6.467,
+"source": "strava",
+"streak": 6
 }
 ]
