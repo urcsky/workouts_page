@@ -23608,5 +23608,35 @@
 "average_speed": 3.211,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 19830553889,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 3468.4,
+"moving_time": "0:19:02",
+"type": "Run",
+"start_date": "2026-08-20 12:23:49+00:00",
+"start_date_local": "2026-08-20 20:23:49",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "yyb~Cwx|vUSZYTs@~@WV}@jAkBvC_AbAS\\YVQ^k@l@KTa@h@{@dAKRq@|@_@p@Wr@[b@i@f@a@j@OLkAbBYj@UZy@v@[f@KTGF}A~@k@T_AVaCX}@C[B_@?iCBmAGSDEDEX@A@TRV^@dABzACX@d@CfC?f@I\\AjAUVKv@a@hA_AVYt@sAh@s@n@u@bAcBbDsDlBwCx@_Az@kAhAoAb@y@t@}@",
+"average_heartrate": 146.3,
+"average_speed": 3.037,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 19830553811,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1518.0,
+"moving_time": "0:10:30",
+"type": "Run",
+"start_date": "2026-08-20 12:45:30+00:00",
+"start_date_local": "2026-08-20 20:45:30",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 137.9,
+"average_speed": 2.409,
+"source": "strava",
+"streak": 1
 }
 ]
