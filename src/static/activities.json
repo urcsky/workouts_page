@@ -23668,5 +23668,20 @@
 "average_speed": 3.329,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19877737283,
+"name": "Zwift - Aerobic Foundation Marathon",
+"distance": 29252.5,
+"moving_time": "1:05:14",
+"type": "VirtualRide",
+"start_date": "2026-08-24 11:54:18+00:00",
+"start_date_local": "2026-08-24 19:54:18",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "th`fA}zdz^bAcCxC_AvA}ARaBQmBsDeEQo@|BcCUqBLq@nIaT`@_DGiB_@y@gG}By@u@}@{BBiBrFmLtAwEjCw@tCv@`AIt@g@|AyCtCEnBw@n@eB@iBcD}FpA_BxAUnAz@fEjHpAbAr@I|@w@tAsE`BNlAbADrEnCbBVbA_@~@gC`AWx@ArJqArTdEnFj@fBjGh@|KyCbBTz@jDj@hNSrCeBvAUv@BxDd@rDr@fAr@Z`DCvAp@xDh@xAjA^lC`AfAr@Ad@i@|CmJhAy@nCnAp@`DrEJ~B`DhAPxAQrA_A`@aBUcCJy@jC}CnBaAhDThGtC`Fe@lEtEt@Lx@e@`CaGhFk@lDyCpCLvCkAv@?pHjDtD?r@c@p@qAz@kJnA_C`CyAzBWrEjCjAA|@qAlAwFnA{@x@mBbDqBpIOn@i@j@kB\\SfDlAfAAt@iDj@k@lAB@jBxBrAdEYfEyCdADjDdAf@e@LsAvAy@xCXpC_BpATDzClA`@dB_AbDyDdAUbAd@zBhExCh@pCjB?v@aBt@iAxBf@|F^|@zA^|FLVZVlCpDHbB`Ct@GxBcBfE|@f@r@b@lDfCVz@f@pE~LbCvHvAJt@mAwAcDL}AsBiA?mAzCqBvAGhAb@HfA}AxEK`DnArBbKzLJ~Gf@tA`Cr@bHMzGvBjI}@fCpDvFnDx@hEg@lFrArA`@hCWx@yAx@wBEk@d@NlOX`@~B@b@`@@tIPb@bHFTW@kDf@YnHvGNv@Yr@oGtAi@r@b@z@vE|@`Av@]bCPzGiAbAsEFkChAcBtA]z@M`DiBpCUnGqBbEw@|Cy@h@}CDq@h@EfAf@jDuAfD@~@rA`AfEj@p@xAShBsBvDErC[p@uEfEqBByDx@c@YYyAiAkAc@qAk@IaAl@{BhD_Hj@s@`ABn@^b@`Gx@xAhBVxHnApBiAfMn@fBEp@q@z@Nn@hAd@bCcBh@E\\^PtAzAbBvBHZ`AMn@{J~AIj@f@`CgDpMgErAw@vByLhOuAnHgD`Bs@bAa@hB}@x@oGl@iCK}Am@s@cCk@a@_Jn@}ByAaFi@kDhAkCa@wALwEbCgB|Bw@\\kNNsB~B{FbAsBtC]lCPrBrCxAvAxBkAfE}BnA_EmAYc@CqAwAo@iAHiA~AoCTsBi@w@aCu@k@mBBkBr@{@}@a@oCmAi@wAOeAd@iBGkAj@",
+"average_heartrate": 116.1,
+"average_speed": 7.474,
+"source": "strava",
+"streak": 2
 }
 ]
