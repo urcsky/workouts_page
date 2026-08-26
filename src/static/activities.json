@@ -23683,5 +23683,20 @@
 "average_speed": 7.474,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19907952666,
+"name": "Zwift - 2x20 FTP Intervals",
+"distance": 34110.8,
+"moving_time": "1:06:21",
+"type": "VirtualRide",
+"start_date": "2026-08-26 12:03:16+00:00",
+"start_date_local": "2026-08-26 20:03:16",
+"location_country": "Muie Village, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "tq_fAyzbz^cCaJv@qGyBmFx@eA|CAj@uFz@]xANtDjBJ`C~B~@cAjCDn@h@h@zAPnFa@pC}CaA}CGaA~CeDPyAKgBmBkFsFsEQmAjAwEjEiBz@yAE}DqDcEOw@|BaCMuChIySj@gFw@{BcHqCaAiBMqBjGkNfAyDjCs@rCv@dAIpCaEhDM`B}@f@yABaBeD}FtAiB~AO~AzAxDxGfAr@p@I|@y@vAqEfCd@n@lA@~D|CxBMtAeC~@g@`ACbLuAzQf@lB~CdDX`BvGx@bLyCbA?z@v@n@zE^~KQfCeBzAY|@P`Gp@pCbB|@dCIzGzA`BvA`@tCrAt@bA{@xCiJzAo@~BtAd@tCxEP~@|@x@lBXlDa@nB_MhH_@p@]nC_C`AeAfBn@`DdBz@R~B|@`Be@pBaBTWp@\\\\~@Ot@`@Mf@wAfAoDx@]b@e@vIhBbH`FtFSdHRnCwt@nRk@`@Mp@pBbH_KtC{G~@uCMsBeByDcFyAq@eCOcBX}BrAaD~G}BtAoUfDuCtAaC~B}A_A}@cCLkDlD_Iv@gGEiEi@eE[eAaBcBCiAy@{@a@eCL}AxCqJZ_EwAgDeDy@{@kAqB{Ht@}GmBqDEy@t@{@|C?b@iFtAk@lFfBZl@FlBvBr@aAvCNv@p@b@~H[nC_D_AiCMgATu@hBcAb@y@BqD{BcGcF_EUmAlA_FtDwApAoBHgBW}AgDsDS{@|BaCQgCtIsTb@kEm@aCgFeBoA_A_AyBAgBzF_M~A}E`Di@|Cv@dAk@`B}CvCGtB_Aj@mBCcB_DeFNq@bA_AnAQt@VdFhIzAhAv@Ot@w@jAiEpBLnAzAAzDlC|AX`AW~@oBj@y@tAAdKsAzSvD|E|@~BzFh@tL{ChBj@n@tDf@rMYvC{AfA[`AJ|Ev@tDrB`AtBOvAp@`DXxBzA`@tCxAbA|@k@bDwJxAq@~BrAd@vChFVtBbEN|C_@`BwL|Gi@|@]nCkBp@yAvBn@`DdBz@R~B|@`Bc@pBsB\\Gh@\\\\~@Ot@`@Mf@kBrAgCd@o@h@g@xItBtHtEbFSdHRnCek@nN_IfCg@h@Ap@nBrG}EzAcGtA_Hb@}Ai@_GmHyBy@qC?sDbB_D~GsAbAuUlDkDtAcCdCi@FoBgCS}Cn@wC|C{Gh@}Hu@{Hk@sAiAeAIsAy@y@_@{BPmBrCaJ\\wCW}BsAgB",
+"average_heartrate": 130.7,
+"average_speed": 8.568,
+"source": "strava",
+"streak": 1
 }
 ]
