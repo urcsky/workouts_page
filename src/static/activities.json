@@ -23700,6 +23700,21 @@
 "streak": 1
 },
 {
+"run_id": 19953350834,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 5168.4,
+"moving_time": "0:32:20",
+"type": "Run",
+"start_date": "2026-08-27 12:16:54+00:00",
+"start_date_local": "2026-08-27 20:16:54",
+"location_country": "\u4e4c\u5c71\u897f\u8def, \u51e4\u6e56\u65b0\u57ce, \u6d2a\u5c71\u9547, \u9f13\u697c\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "qxb~Csy|vU]h@k@p@eAtAa@d@gDxEeCbDe@t@wBfCS^]b@g@z@cBtBi@l@sAtBWVgA|A{@z@u@b@w@ZcB\\y@He@BoBA}AFg@?c@E{@Cc@CSOG[KyAAiAIu@EuAQ_@CSAYB_@Ew@S{A[}A?e@Is@Kc@Cs@QkA?s@MiAKa@U}AOmCUoBAm@Om@OgAWw@c@gC]}@[sAEGQaAMYKy@M_@Go@Ws@Sy@WmAM]A[BQRU~@]REj@a@^Kv@OPK|@_@hBo@l@YZU~@[n@[j@SZOl@Oh@Sl@[VGVO`@Qv@Wh@UzAg@v@_@LKl@U^SvEkB~Ak@r@[^Kr@Y`Ac@j@EbA_@nAq@b@O\\ShDkAbB{@HBHJXlAHd@L\\J`Af@hC\\dC^nA`@~@P\\b@d@",
+"average_heartrate": 135.8,
+"average_speed": 2.664,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 19948802962,
 "name": "Zwift - Climb Portal: Col de la Madeleine at 75% Elevation in France",
 "distance": 18603.3,
