@@ -23698,5 +23698,20 @@
 "average_speed": 8.568,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19948802962,
+"name": "Zwift - Climb Portal: Col de la Madeleine at 75% Elevation in France",
+"distance": 18603.3,
+"moving_time": "1:21:10",
+"type": "VirtualRide",
+"start_date": "2026-08-29 11:31:32+00:00",
+"start_date_local": "2026-08-29 19:31:32",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "rfscCk~bu^aBi@mA?eA`@u@lAe@FiCG{CcA}Ah@qDrCqAn@mBl@uDn@aDrAuCh@_BQwEb@cBv@w@LaC?gHtKg@rBg@l@]x@}@hDk@l@a@nDw@X{CUaCZaAl@i@~B{BfByBpA{@x@Ix@\\nEYlB?r@Tf@jB`AHTCZ_@?gGsB}@}@_@?QRAXL^~BvAt@`An@jBKh@UJUQgAoCk@y@a@Ey@P]Mo@i@STHb@tBbCPZ@`@sDxF}BbCg@Pq@K{B}B[KoCVaCS}AJwAbAq@dAOnAfAtJd@zBi@~AJ|Fl@f@pBBH^Yx@EbBIVO?MW@uAIa@_@E]ZF`BmClG}@pCIjARfBE~@aCfH_BrDeAnAYBGOn@gA`@eCE_@WOe@LSv@m@r@qDhC_@r@SpDm@fBm@|@a@Ls@?yEYm@T_A|@cA\\Uj@WtCFb@f@l@ARqAr@OV_A|DcEjHcA~Da@r@SICQVoGa@e@m@ROx@MdDQ`AqBrDgAzAq@^Ov@F`AO\\a@Xw@?c@N_EzFmBpAaA`BwGjAYLk@z@OEO[Ti@|BmAtBm@Re@Ee@[Oi@@_Al@_Gn@{FfBuB^_Aj@iA|BaD~@yE`@y@QyAu@gAGY`@Bh@z@dAt@fBKp@_@Ta@@WOsA_CyA]Og@BcAOo@OKi@JeBnBs@bBaBrAmBxB]x@a@rCSj@qClBIl@HzCK\\g@\\Mb@F^VT|D^nDjGNj@HtANVl@?l@s@VI^BlAl@nCYb@J?RUT{@@e@TwBtCwFhEaAFw@]iBoA}AaBgBGKc@BeBm@g@eBRgBdA{Cx@gAGsAkAwAIyDl@}Br@{@d@i@Es@o@YAUPAf@R\\n@n@t@\\rADlF_@d@Lh@h@xApCv@bDrAj@Td@~E|Sp@nAzClAn@GtDuAh@HGb@gBj@{AhBcAb@kD@gEf@gAa@}@E_B\\aCdAi@I_@cA}A_AmBk@u@D}Ar@u@t@}@b@cCP}A\\cAx@{DrEaA[o@J]XOh@Ah@Pj@x@d@v@E^WXgAYaA|FiGtFy@tAgAdBy@v@ErAZfB`Ap@lAZHlCcAtA]~@Bt@^\\@tDe@xEMp@c@vAcBvAc@RU?]YQwARiCfAuAUkBeAs@wBqD}O",
+"average_heartrate": 130.3,
+"average_speed": 3.82,
+"source": "strava",
+"streak": 1
 }
 ]
