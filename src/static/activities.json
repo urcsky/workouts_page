@@ -23728,5 +23728,20 @@
 "average_speed": 3.82,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19958718607,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 13757.4,
+"moving_time": "1:01:42",
+"type": "VirtualRide",
+"start_date": "2026-08-30 07:12:04+00:00",
+"start_date_local": "2026-08-30 15:12:04",
+"location_country": "Haus der Begegnung, Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "{po_HetpdA~Jx@L?JCLKFOBe@E}@aAsKi@_EAW@YFSLONEbBe@`BWV@THtAv@`@LV?JCPUVaALw@`@oGZsDHQLMz@]ZYx@sA^q@pBwErAqFFIJCF@h@Pl@Jx@PTBVAJGL[Dc@?e@E_BMmCOuACm@BUFUJMZUlC_AdA[rAk@jEeCxAaAt@q@bD}DRa@Hg@HQNILAj@BNCf@WdDuBz@a@VKbHmB~GaBZUTe@^YJWB_@Aq@o@cFE_ABcAT_DBq@@o@E{A]_Dg@_Da@kBc@wA[eBi@wDy@oHkA_O_@cEQyCGeBA{A?gCD}ANgCReAXaAh@aAXq@Ja@Ha@B{@?c@C{AMoCAqABSJIN?JHHRF`@DbAFj@x@jEf@lBXj@NJNDL@PENMHMDKDa@Aw@WuCCo@As@Ds@XoCn@oDl@cCZaAVm@NUJKXI`@EPMXe@Ts@Fe@@e@UoMKqCWqB}@uEc@}CGm@?[Fu@Nu@X_Af@oAvA{CTUXGh@AbAHzA\\lBf@j@Tj@XhAv@VT^`@^l@Xn@Xv@h@rB`B~HlAtEl@dBZj@VXj@f@p@^`A\\rA`@r@VrAv@|@p@~@t@zAxAxAbCXXd@\\z@`@`DfA|@`@jBr@nAl@pA|@xCdCxDvCPRJX@NMfB@RHPNDNCj@WfBcAVGV@LDXVj@\\l@d@r@^XDvAFpAVpA^hIpCvCv@b@Ld@Vd@^lAhA`@\\^T^PdBf@tEz@zA\\f@Dl@C`AUtBu@l@OjAMl@?tAFdARr@TlClAj@\\~@n@dA|@z@x@Xb@fAtAhApBx@hBdAxCh@tB|@|Dv@xC`@hA\\v@j@`Ah@v@l@t@z@t@lAx@hAh@fA^jB`@xFt@dDl@hAV~@Z`@Tr@d@lBzAp@r@n@|@F\\C\\GVKX[j@MPOLa@Le@HgDd@uALmBFg@DsAZsAd@}@h@_Ap@qD`D}CzCgCnBSTi@xASRWFoBH]H[P[X[^gAbBw@|@cC`B_@\\_@d@w@lAiAtB{ApCgAzB[f@[`@c@^c@Vi@Pg@Li@HsAJ}BFi@CwBa@g@Ig@L]`@w@|A_BtD}@hCc@nCs@fGIh@]dA",
+"average_heartrate": 113.6,
+"average_speed": 3.716,
+"source": "strava",
+"streak": 2
 }
 ]
