@@ -23743,5 +23743,20 @@
 "average_speed": 3.716,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19990148420,
+"name": "Zwift - SST (Short)",
+"distance": 17295.1,
+"moving_time": "0:54:20",
+"type": "VirtualRide",
+"start_date": "2026-09-01 12:18:28+00:00",
+"start_date_local": "2026-09-01 20:18:28",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "{uo_H}tpdAfPrAZGHMDg@E}@iAkM]yBGs@@WHU\\SvA_@pB[`@HtAx@`@Ld@?TQRq@TaBv@iLRe@~@_@\\YVa@vAoCvAaDxA_GJGJAp@TtB^ZCTUFi@?uAQmEQaBAWBYHUn@c@rE}AnAi@jC{ArCiBdAcAtCoDJQXeALGPE`@D`@GnEoCx@_@xGkBtHgBXQVk@ZSNYDa@Aq@q@wFAk@@cAXsE?kACo@UgCq@qEYqAe@_B]gBu@qFo@yFwB_XIkBEqBBaFHyBVsBV}@|@gBNc@Ja@Fg@@cACgBMkCAuA@OLMJ?LHLXLnBHr@v@|Dl@vBV^ZJZCVWLe@@o@YmDCeBNoBh@qDz@aEv@{B\\e@x@MRMZm@Tw@Di@CgDOeIIuBYgCaAeFa@qCEaADm@Lo@x@cCzAiDT]LE`@Iz@BhEz@vBv@nBzAv@hAh@rA~@pD~AvHdAzDf@vAv@lAd@b@f@XtE|AlBlAtAdA~AxA`@j@~@bB`Ax@z@`@tC`AdEbBnAn@tA`AvHdG^`@FL@`@M`BDVHJT@TIlCwAh@AxB`Bf@Vd@JzAFbARjMdEfCp@dAh@`CxBnAn@tA^nEx@hBb@p@Dt@IlEuA|@M`ACzAHv@N~@ZbCfAhBjA`C|BjB~B`AdBfAbCx@~Bn@bC|@dEtApE`@~@z@xAxAbBx@p@pAv@jCbAbB\\vFr@|B`@~Cx@~A|@xBfB`AjAXj@?^Qr@e@~@_@XcATcFn@aDLcB^eBr@{B~AoD`DaCbCgClBc@l@i@tAWJYDmBF]L]Rs@z@aBbC[ZcC~A_AfAwCfFkChFy@fAe@^c@ToAZgDXwBAaDk@e@L_@d@Wf@{BdFi@vA_@zAMr@cAvIYfASZUPo@XkAVgB?s@Pk@h@uAzAWNiAb@wAX}@D_@EwDkAa@G_@H]\\kAxBqApBuCrDm@l@o@f@oBlAm@VY?oAs@a@KgCDa@Ga@]_@QsDm@a@QWa@i@wA_@]g@GkAFg@K[k@E_AB{BE{@Us@Yo@_AmA_AaA_@YyCaBsDoCiBw@_BgA}@c@eAQeA?qBViA^_@^g@|AYd@sAnA}@V]@u@Ss@a@q@m@i@y@Qe@g@_C_B_Mm@{F{AkHm@iHQyACi@Bk@Gi@Ie@}@sIA_B",
+"average_heartrate": 127.9,
+"average_speed": 5.305,
+"source": "strava",
+"streak": 1
 }
 ]
