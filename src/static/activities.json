@@ -23758,5 +23758,20 @@
 "average_speed": 5.305,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20005107240,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 28512.1,
+"moving_time": "1:00:19",
+"type": "VirtualRide",
+"start_date": "2026-09-02 11:59:09+00:00",
+"start_date_local": "2026-09-02 19:59:09",
+"location_country": "Temuo, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "x_nfAmddz^y@}AB{EW{AkM{ONkDvAaEK}AyAi@gAJqBz@_AfA?~@rB`AGhBtAxCW|@mAVq@{@aBcGkEuLeA{@mCYUoCe@cAkEiA_AVuBtAcB_CwDMOcC]c@oGQsAi@u@kH~@eBjBcAC_AmDyBeC]mBaE{Aq@_Br@eD~Dy@\\kAYC}CoAYqDbBiC[yAz@QtAo@f@mEqAeAVuC~B}DZsBiAGsBeAKcAr@Y~B]f@q@?mDmAi@To@pB{@f@sHFkDrB}@pB{AlAaAdFcApAu@BsEsC}BToC|AsAfCu@`Jq@tAqAj@mCG{FwCiAUuEnAaCOyD|CiDJ{@b@}@zAq@fCw@z@q@GgCcDuA{@mFb@eE_CuEk@oBx@mDrDaF^cAlA_@jBfBrCzA?rAa@t@s@VcAQaDNy@vCcDfBs@jEb@~D~BvFa@tA|@fC~Ct@H~@{@lBeFhAc@~CGnD}CnCJdEmAxHjDdE?zAkB~@uJxAgCnBkAxB[z@NvCxB|AEp@_AhAwF|AmAx@kBtCiBbJYf@e@j@mB^OrErAn@i@`@qC`Ae@v@N@fB|BnAvEe@rDmCrErAz@c@LuAdBgAbC`@|CaBnARF|ChA`@fB_AxCqD|A[`An@v@tBdApAdCXzCrBI|@wAl@iAvB|@pHlAh@rGNV`@N`Cr@VjCAbB|Bf@CfCiBfE~@f@fAVpC`Db@r@r@~@xDbClFdBjGp@~@jAEl@qAwAcDL{AyBkA@}@bAgAfBs@tAEz@\\LxAyAfEO`Dv@zArKdMVxAA`Fl@rApBl@hIGrGrB`HgAjDfEdF|Cl@hBNfBg@nFnAbAb@vCOl@cBbAkBGq@\\NzOZ\\`C?XVFfJT\\`HBP[BgDZ[bInHAdA_@XyFfAeAp@g@A_Ay@y@F_@z@`@`Ax@HfDwB~GeBLo@Q{@qHyGq@ZEjDOVmG?Y[GmJYW_CA]YKwOvCO`B_AV_Ac@kCoAeAf@qFy@mEgFaDiCqDo@]sHdA_GqBgIDyBq@a@uABwESmAsB_D{IaKNgD|AuEWuAwAa@_BT_Bx@u@jABv@tBdAIlBpAhC_@jAaALaAyAqA}EmE_McAu@kCY[uCi@gAaEcAuDnBmBcCgDAUc@EqB]]cGKqA]Yo@i@_GfAwB|As@H{@q@}@qBaAuCe@eCwE}@[u@LgEvEgAj@kAYDiCs@k@sAD_CzAwBa@u@b@",
+"average_heartrate": 116.5,
+"average_speed": 7.878,
+"source": "strava",
+"streak": 2
 }
 ]
