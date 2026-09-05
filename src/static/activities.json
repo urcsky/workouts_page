@@ -23788,5 +23788,35 @@
 "average_speed": 2.938,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20042373701,
+"name": "Zwift - Climb Portal: Col des Aravis at 100% Elevation in Watopia",
+"distance": 6291.7,
+"moving_time": "0:29:34",
+"type": "VirtualRide",
+"start_date": "2026-09-05 07:20:09+00:00",
+"start_date_local": "2026-09-05 15:20:09",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "jh`fAej}y^xAhEjAvCHb@@LIVe@b@W\\GZGh@IVmAfAOTUb@Yv@IZGj@ENwDdHWb@k@t@MTCJEd@Af@Dx@NlAVnAt@xCZpBPl@^v@d@p@PPd@l@DD\\d@DBn@t@FBx@~@h@~@l@|Al@dAd@l@dAdAHBTTVZl@v@HHXd@TXn@hA^x@Pl@@ZGr@BT`@vAJj@ATIh@Fp@XlAXx@JNXTZJN?PKBEDk@GyCB{ADKHIHABCL?VTpApDf@~@\\d@Zl@Nb@H`@TfCNr@Pb@V`@NTx@t@HLFRHh@Dj@FvHHbBNlA`@dBd@~ATZPF@BN@PENOF[Cw@B]Rc@^i@FCh@w@F[B{@JSHA@CT?@BF@Rd@^fAHj@@ZAzA]dGA`AFjAXtBDlAAnAMtC_@hD?ZBJRVTJX?XMHSLc@d@iCdAiFJIHAP@?BJ@FFDXAnCBd@PbBHb@T`ANb@Zp@r@fAr@p@NJFHXP`@ZF@j@`@f@VHHRHHJHB~@n@hAj@\\XNHrAnAl@v@d@x@lBhE`DlGhBzDEJSNOb@AZFZDL",
+"average_heartrate": 128.8,
+"average_speed": 3.547,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 20042737393,
+"name": "Zwift - Climb Portal: Col des Aravis at 125% Elevation in Watopia",
+"distance": 6418.6,
+"moving_time": "0:34:16",
+"type": "VirtualRide",
+"start_date": "2026-09-05 07:50:18+00:00",
+"start_date_local": "2026-09-05 15:50:18",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "~j`fAid}y^rAfDF\\?\\OXk@d@GJIZGj@CLGLcAz@Yb@Yf@Yx@K|@MZa@r@_ClE{@tAQPQ`@G\\Cb@@l@RhBVrAp@lCZpBRv@`@x@d@p@b@f@DHFBh@t@xAxAf@p@`@v@n@~AVf@PVx@~@d@^\\^LJ`@b@l@x@HPj@r@|@dBN\\Np@?RGb@@VR|@Rl@D\\@PIj@?\\TlATx@Rb@ZZb@LJ?PKDGB]?i@GaC@oAFQVOL?RNFLr@tBf@nA|@rAVb@L`@Jl@PpBD^Ld@\\x@TTx@r@LTHZJdAH|HHlBRnAZzAb@vANZFB@BF@@BF@@BZ?TSFYC_ABYLYZc@d@g@Vc@DUBy@DQHIF?@CT??BF@Zr@ZfAFz@ApA]tGA|@Dx@ZbCD~@AhBMdCCb@UvAG|@BTDJVVH@@B\\?VMHORy@XcBhAyFBGHEX?BBH@HNB\\AdCPvBVvALd@Rh@^r@h@v@jAfAHBPPHBHHZPHHRJ^XTH^XHBp@d@LHF@HHl@Xv@h@`A|@v@z@j@bAjBdEnE|Iz@jB@NIHIBGJMd@Bb@FTJPFH^PJ@p@A^QV]Hi@AW",
+"average_heartrate": 135.3,
+"average_speed": 3.122,
+"source": "strava",
+"streak": 2
 }
 ]
