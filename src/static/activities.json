@@ -23833,5 +23833,20 @@
 "average_speed": 6.245,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20087774023,
+"name": "Zwift - Climb Portal: Pla d'Adet at 75% Elevation in Watopia",
+"distance": 17061.1,
+"moving_time": "1:05:56",
+"type": "VirtualRide",
+"start_date": "2026-09-08 11:53:23+00:00",
+"start_date_local": "2026-09-08 19:53:23",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "ni`fAug}y^bAtCz@tBJh@?XEJy@x@KXIx@MViA`Aa@p@a@dAK~@M\\sGvLgAhAwBxAg@b@c@d@cA|Aw@j@i@VwCdAsExAiCnAU`@OLiAVg@Te@b@aA`Bw@p@WBq@O[@y@ZiBbAiBd@oFx@yDVs@Te@ZIZF`@RTd@Tt@L`@?tAMhE}@~DW^Of@a@n@EXTt@lAb@h@dALjA@ZEVQLWHoATUpAR^M`@i@dA]jAQnA?lE}@bBOv@QjCS~BBpAb@t@j@~ArCRTNFV?ZMtAmA~@q@^Mf@?|Ar@n@r@PN\\F~A@VFZL~@|@h@ZjDt@Z\\R|@VTzATz@@rALtChAd@ZHPALOFY?c@OeB}@qASk@GaB?YTEZFRTL|@@nAGXFj@Z|DdD`Ap@fA\\\\Dx@Ch@LhBfAnDdCd@@\\Kv@Cv@B`BPvABvDbArB^nCx@bBr@vAx@zAbAhFxAh@^b@?TKpAuA^Ul@MbAIvEHlEn@xC@r@DfCh@`BL`HQh@BNBPRNp@NX`@P`@Al@_@x@KhA@jA^zDbBpBxAb@TbKfDtBx@zFlCdATdCH|ANjCb@xBh@pGxBdDn@~BHpBMpA?n@FbBd@dChAvAb@hAPZ?VOLY?OIMi@[gBe@e@Ug@q@cAmBiBwBo@i@wAy@iEoBs@c@gIaG_LkHc@[}@eA{B}@[QYa@a@kAYc@g@[cC{@_Aw@KWGg@HaDWoAAWBU`@{@@k@Qi@q@qAIc@IgAOi@{ByEAe@J}@Ga@s@}A_BmC[w@Ig@@g@Li@zAiCPe@Hi@Ao@G[_@aAwAeCcAgC[_BM{CUw@e@i@sAy@{DmBc@OaBKuGSq@QaAk@qAeAw@c@AONc@A[IW[]o@SY?YH]XQb@Ad@DXT^TPVFd@?VGZ[THvCxBrAh@~GThBNdF`CdAv@`@j@Nx@LpCRbAx@|BhBbDd@xA@r@EXUn@wAdCQp@@v@`@lAz@~An@bAf@fAFZKtADZzBvENt@JrAbAtBDZCZc@hA?ZVnA?v@GnA@r@DXLTPT|@h@lBn@d@X\\b@n@bB\\Z~Al@b@VlAjAb@ZdMfIxC~BxDfChEnBfBhAxB`CzAnC`@^d@VvBj@NNDRGNOPS@",
+"average_heartrate": 135.3,
+"average_speed": 4.313,
+"source": "strava",
+"streak": 1
 }
 ]
