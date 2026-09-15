@@ -23908,5 +23908,20 @@
 "average_speed": 6.357,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20184660664,
+"name": "Zwift - 06. Sweet Spot Summit",
+"distance": 15316.1,
+"moving_time": "0:52:14",
+"type": "VirtualRide",
+"start_date": "2026-09-15 12:05:01+00:00",
+"start_date_local": "2026-09-15 20:05:01",
+"location_country": "Temotu, Solomon Islands",
+"summary_polyline": "v~`fAem|y^j@b@p@Jb@St@{@`@Kb@F|@`@l@GxBoCj@qBNWf@GXBz@`@NVXhBRb@lBhBv@\\f@ENMXs@^qBPuCE{Bc@iG?aDp@{Fn@uCn@iAbC_B`AsA\\[hAc@bAKb@Hj@`@XFl@?^WBe@UWq@OAUd@Q|AFPKP[?a@Y[kA?WIe@_Ac@uA?]HI`@Ov@Kb@QP_@Bg@Ie@Ug@kAqAYe@Kk@GcBUq@m@[{AUcCE{B^}@@y@KGQ?QFORE`LaAt@UT[GUOGy@AoJpAy@GMIGQ?SPc@l@a@xIkAhAWj@c@Gc@m@aAqFoLOy@@w@Tu@V_@`Ae@f@@`@Pv@t@R`@tC~JVj@`@`@x@FdHOfAQv@Br^dG`@NNRDlELd@ZRj@?TSH[DkBLy@f@oAd@w@VQR@Z\\Jp@o@rEAx@RbAXb@rAp@~Ab@dQnDbAZd@`@DTIl@s@bBMx@FhCE`AeA`CQ~@?dBVzAZx@v@tAvBlCtAbAlCl@d@Rt@z@bC~Dz@r@hAd@xB^fFb@bC?dAInB_@vJiD`BI|B\\`Bp@nATjBDfBKVHNTFXQfALXTNV@`A_@n@EbAN~@ZPNFPEV]`@UDwACg@JQHIRGh@Pb@NNhAd@nA~@|@fA`@z@`@jAH|@GjAe@vCBd@T\\zA~@`@~@Jx@i@dBNrAIT_@Za@H]A_C}@c@Ca@P[h@s@j@Cj@Rn@\\b@nAt@NPBx@Zr@ALYHu@_@]@c@\\@`@n@zAENqAn@Gt@Nv@f@b@vBr@Hd@EnABj@PjAVx@Z\\pBtAx@vAVnARb@ZXbCt@\\V^t@\\Zb@LzAHzAn@\\@\\IrAo@fBB`Aa@b@?tAVh@^V|@DdAR\\h@b@b@FjAq@r@Iv@@n@`@Fx@MbBiAlGsA|Ii@pC]hAAx@b@v@jDvDxA|BfBnBNTV|@l@hAx@|@pAt@b@d@f@fAj@rB^lCGFMEYeBg@mA[]uBgAkAOeAa@{@COG_AyAuAcBmDmC_ByA_@AMNBX|CdC\\~@GXK@IGO}@OUaC{@aBcBi@]OGW?OFENBXv@d@j@v@",
+"average_heartrate": 126.6,
+"average_speed": 4.887,
+"source": "strava",
+"streak": 1
 }
 ]
