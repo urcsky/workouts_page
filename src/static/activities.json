@@ -23983,5 +23983,20 @@
 "average_speed": 6.151,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20281381627,
+"name": "Zwift - Threshold Double Down",
+"distance": 19111.2,
+"moving_time": "1:07:16",
+"type": "VirtualRide",
+"start_date": "2026-09-22 11:53:00+00:00",
+"start_date_local": "2026-09-22 19:53:00",
+"location_country": "Tiroler Kunst Pavillon, 8a, Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "ioo_H}spdApIr@XEJIHe@Cw@gA}Li@_EDo@ZWbBc@hB[r@N`B~@`@D^SL[ReA|@eMHi@VYl@SZUX[hAuBjBeEzAaGFIRAt@TpB\\TATQHa@?{AQiEScC@WRc@j@[xE_BjAi@pGyD~@y@tCoD^m@Py@LI\\C\\BZGlEmC`Ac@hHqB~G_BTO\\m@VQNSF[?a@q@eGCaABwAV}DEkCYmCs@wEy@yCg@uCqAkKoBoUSkDKuDDqFJsBTcBZcA`AqBRy@D_@@aAQsF?gBTMXRH`@PhCv@~Dn@xBT^TNV?VKPYFW@i@YuDCiBRgCl@sDr@eDt@uBP[RQp@KTM`@w@Py@B_AEwDOwHGsAYcC}@uEg@mDCw@NsAx@gCbByD\\Yl@Kx@DdEz@tBx@dBpAbAxAl@zAd@fBxBjKnAnEd@bAZf@jA`AbFdBrBpAnDzC\\d@~@bBv@t@hAj@dDfA|D`B`Af@bBjAhIxGN^?d@KzA@JLN^ApC{An@CzBbBp@ZrBL`APnMfErCv@x@d@zBpBnAp@nBh@`HvAf@Dv@EzE{AxBObADlAP|D|AjBjA`CxBbBrBfAhB|@lBnAhDhBxHpArEjAbCbBxB~@v@jAt@nCfA~Bd@dFp@vCh@bARvAf@xBxAzApAx@`ANXD`@G\\[x@]j@e@XcBZ}Db@eDPqBd@uAn@qBxAoH`HoCtBUTm@~ASPmCR}@^w@~@eBdC]ZgBhAaA`AuAvBwEbJ{@lAa@\\g@XoA\\cCV_CBcDg@k@Ca@Ry@vA}BjFg@zAQp@YdB_A|H]hAWXs@^u@Ry@FuA?]H[RuBzBqAj@}AZaAFa@EeEqAc@?a@VgClE}DdFiAdAuCfB[H]EwAw@a@EoBHc@G_@]c@UwCa@c@K_@UgAaCc@UyB@e@[My@B}BC_AO{@Yo@}@sAeBaByCaBuDqCmB}@aCyAeA[gAEqBRoAZa@V[h@i@|A[^{@v@_AZ}@AsAs@YUo@w@g@mA[yAa@wCsBcQ{AuHg@gGQ{AEq@Bm@Gi@Kg@}@wI?mBZoFA_AK{A{@sGYqAi@mB[aBaAmHo@oGuAsPa@eHCcFDqBNeCb@}BjAcCPo@Fk@@_BQoE?iBJMLATVJj@N|Bz@jEl@rBPVVNV?TKPSJi@?i@]cF",
+"average_heartrate": 126.5,
+"average_speed": 4.735,
+"source": "strava",
+"streak": 1
 }
 ]
