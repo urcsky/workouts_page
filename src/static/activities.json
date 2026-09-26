@@ -24028,5 +24028,20 @@
 "average_speed": 2.954,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20333903423,
+"name": "Zwift - Aerobic Foundation Forge",
+"distance": 14848.6,
+"moving_time": "1:01:12",
+"type": "VirtualRide",
+"start_date": "2026-09-26 08:33:40+00:00",
+"start_date_local": "2026-09-26 16:33:40",
+"location_country": "Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "_po_HatpdAlJv@JALIHOBg@KiBo@oHU}B]aCAYBYHS^QnA_@hBYV@TFtAv@`@L`@?TOTm@NiARkCPsCLuABm@Fi@FQJO|@[f@e@`@q@~@gBjAkCVs@pAiFFKHCH@v@T`@Fj@Nd@DVCHIFMFa@?}AQiEQmB?WBUJSJM\\QhFeBh@WjEcCdBiArAqAdC}CP]Hg@HSJI\\EZBZEzEuCv@]jHqB~G_BXSZk@XQHYFo@Ac@m@eFEaAByARkCBq@@o@CeAU_Cu@eFKi@m@sB]cBy@cGo@wFc@}FMiAq@mIWoDI}BA}A?cCDaBNaCVyATq@|@iBNc@Jg@Bo@?}@Q_FAwABOJGN?JHJTD`@HvAJv@t@xDT|@Vt@NTVPZ@TMPYFU@]Ag@YoDCg@BkATyBj@oDj@mCl@eBXo@RURIf@ERMTa@XcAFg@AwAUuLIiBWsB_A{Ec@}CEi@?]H{@Rw@h@_Bf@mAdAwBZSVEj@?rAPrCn@p@Vv@Z`@Vx@n@t@z@t@tAb@tAl@fChArF|A|FRn@Xn@NZf@l@`@Zf@VfDhAt@Zv@b@bAt@bAx@vApA\\d@r@pARZb@`@RLp@ZrBt@lEbBvBdAjAx@lDtC`DbCPTHZ?NMhBBPJNP@VIjCwA\\EPBvB~Ah@Xf@HzAFx@NzMlEtBj@h@Rp@b@tBlBr@`@\\LlA\\jEv@nBf@r@Bl@Ex@SnBs@r@S|@K`AAlAF`APpDzAbAj@n@d@tBnBbAjAv@`A~@~Ab@z@`BtE\\lAfAbFnAnE^z@p@nAt@fAn@r@n@h@nAx@dAf@fA`@`AVz@N`Fn@tCf@nAXtAb@hAp@|BfBbAjANTJVB\\G\\IXg@~@QPOHiB^gCZuALeCJgBb@sAh@i@Z_Ap@sD`D}CxCiCpBQTOZ[~@SRUFoBH_@H[P]XY^iAbBu@|@eCbB_@^_@b@qAtBmCdFgAxB[f@_@b@c@\\e@TqA\\i@HsAJ}BBk@EwBa@i@Ca@R_@f@[n@yBbFi@|AQn@W~A}@xHKf@Ob@QZWTs@Zu@Pu@Dw@A[B]HYRWTaAlAWRWPw@XyAZ}@Ha@Ca@I_DcAa@Gc@J[^oA|BqApByCtDgAbAwBrAs@XY?sAw@_@GoCD",
+"average_heartrate": 112.2,
+"average_speed": 4.044,
+"source": "strava",
+"streak": 2
 }
 ]
