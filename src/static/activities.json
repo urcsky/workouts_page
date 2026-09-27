@@ -24043,5 +24043,20 @@
 "average_speed": 4.044,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20351577635,
+"name": "Zwift - Climb Portal: Mt Fuji at 50% Elevation in Watopia",
+"distance": 26974.3,
+"moving_time": "1:17:53",
+"type": "VirtualRide",
+"start_date": "2026-09-27 12:01:44+00:00",
+"start_date_local": "2026-09-27 20:01:44",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "~i`fAkf}y^rBjFHt@iAxAYxAeA|@g@x@_@~@OfA]t@gI`OwLhMiFfGeFpEcAr@aBv@qBVeFIkHs@uEWeDFoCx@oBtA{AlBwDvJcB`F_A`B_A|@s@LeBB_Eq@aAGgAL_Bb@}@b@g@b@sAhBeAxBi@j@iAp@eGpCqDtByCrBsArA[jA@v@tDhL^tC^dGRfHAv@Qx@[d@iAXkHx@oA?}@c@oFyDy@Si@Bu@^Oh@e@hEU~ERfAZh@f@b@dCjAfHpC~BlA|@zArA|DJh@Aj@]zCe@~A}@fAmExCe@n@]fGW`LRbA^d@dD|A`I~CTj@APUXk@H_F?qEy@gDkAgFsDuJmF}FeE_BaByEuG_Am@{De@oDSqDx@oBr@}@DmKkAcJwA{A[yFqBcCe@u@?mAViDrAiAReFmAqJsCu@L_DnBo@FQEQWsAsHQc@_@SoGe@yBFuAh@uBdB_A\\w@KcEuBcBc@o@?m@JsCtA{BL{B?_FMg@Go@[gDwC{@k@c@KuA\\eCjAqBf@]`@u@|D}@lJ_@nC[~@aApAoAf@yDRoARo@TiHnGeBnAmA?wE[[F]TIZB\\DR\\VdA^fGvAvANz@?jCUxA?fDTxR|DZTJh@OR_@D}Do@qCSgEE_BNqAz@_DnEa@ZsBj@yALcD?aAHi@Zk@r@aFtHqA`@{FbAiAb@o@t@sAxF{@`GOzHoB~C}DpFwBlDuAbD]lBAjBh@`EFfAMx@{AxCMlAIbRG|Bg@zCmBxEa@vAWrBI`CAhDJ|DbAhFp@jI?rDa@jHFp@PVZNj@GX]^iErAmHfAwKfC{J\\i@rDqD|@oAdBmGd@qAd@a@`@QbB]V[FeAQwCPm@hBcApEiB|@m@hBeC~A}C^Yn@?ZZ@ZuBnD{C`Kc@x@gCxCo@zA]nAOnBP|DClB[jB_AvB@RLT`@Pd@E^Ur@oAb@oAJuASkD@mA\\yBd@wAXc@lAa@fCSp@UzCgBzAq@bC_@|Ec@dB]v@c@Xc@r@wCX[l@SdAMtCKnIkAzAEtCb@tCjAtBHxCc@dEoAbFgA`Eq@rBQlC?|AHbKbBdDb@pCDzCc@fK}BlB]tEc@lH}AhDLnEf@|DVpUNX~@v@\\^Ah@SZc@F[Em@Wc@o@Wi@?c@PQTOn@{DC",
+"average_heartrate": 132.7,
+"average_speed": 5.772,
+"source": "strava",
+"streak": 3
 }
 ]
