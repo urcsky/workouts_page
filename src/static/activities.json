@@ -24058,5 +24058,20 @@
 "average_speed": 5.772,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20377888619,
+"name": "Zwift - Threshold Double Down",
+"distance": 33213.9,
+"moving_time": "1:05:17",
+"type": "VirtualRide",
+"start_date": "2026-09-29 11:54:53+00:00",
+"start_date_local": "2026-09-29 19:54:53",
+"location_country": "Franklin Street Cycle Track, Monroe Ward, Richmond, Virginia, 23284, United States",
+"summary_polyline": "_sddFdavwMqIvPyBbEwBtEwEbJ]l@s@TSVe@xAaDnGQRy@XWZIf@?x@Mf@uGfMkH|N_FfJUf@?^PRJ@JEPWhJgRxKgTf@}@RUn@O\\[H[DuAJ]tC_Gh@y@\\Il@HzBvB`@ZrM|FxEjC|@X^CJMLg@PeB|FgUFcADkT?uODoFOSiBCw@ESCa@QODMNsFrKkG`MqBtDgDdH}ElJ[d@e@NYPc@vAkD`HQNw@XQTK\\AfAI^sQd^uEvIQ`@ARDPJJN?XWrQs^nEmI^g@l@MVUNa@@}@Fi@nCuFl@gANKb@Eb@Hj@b@|@dAh@`@vAt@jInDtCvAbCtAr@VP?PGJQLk@N{AvFsTJo@@iADiS?_PDaFMUkBC{@Ey@S[\\sNdY{DnHaBnDuE`Jg@t@s@VIHe@|AgDvGIJeAb@QXERChAKd@wFrKiIpP}EdJYp@?TFNLFNAJKhRu_@xDkH`@k@v@UVYLe@?{@Tw@|CiGVa@NKb@A`@Ll@d@fBdBhLfFfGdD`@Pb@FPCLMNk@N}AvFsTJm@Bq@DcT?}OD}EG[SI_CCg@Ec@QQFMNkRd_@gDfHiF|JSVg@PWPMZg@zAwCzFILu@XYTM^CjAK`@sQd^}EfJId@FRLFNAVY`S}`@dDiGNSRMj@MX]Fk@B_AH[|CkGR[TW\\Eh@Lb@XlArAh@`@pM|FtFxCZJ\\?VWJa@NaBxFuTHe@B}@FgTA}MBcHQQqCGiAUOL_CnEsLzU_CjEaBpDqFjKSVg@NUPg@|AgDxGKLu@TWVK^ClAMb@qRr_@aExHEP@RFNNF\\Q~@uBnPo\\vDcH`@i@h@KZWL_@@}@Fg@xCiGp@aAb@Eb@H\\TdBhB\\RtLnFhGbDb@NP?PELQLi@N}AvFsTHo@Bo@DcT?_PD}EIWWGsCEu@SQFMP[v@aCnE_KdSkAtBoDtHaFrJSRg@NURo@jB_DhGWRi@NWVK^CnAM`@kF`KyHrOkGtLGR?PHNLHNCLMfRs_@bE{Hb@e@l@KV[Jc@?{@Ji@zCgGb@q@NKd@A`@Nv@n@|@bAj@^tKzEdClArC`Bt@PPANMPi@TsBvFsTHiADcT?cODyFEYSMiB?}@Gc@QQBMNqFnKyGzMiBfDeDbHaFrJWZq@ROPk@fBaDlGQNu@VQRIZExAKXwFrKyIjQkEfI[t@B\\HJV?TQx@kBhM_W",
+"average_heartrate": 127.6,
+"average_speed": 8.479,
+"source": "strava",
+"streak": 1
 }
 ]
