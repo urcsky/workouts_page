@@ -24118,5 +24118,20 @@
 "average_speed": 6.538,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 20460008577,
+"name": "Zwift - Climb Portal: La Super Planche des Belles Filles at 100% Elevation in Watopia",
+"distance": 13434.0,
+"moving_time": "1:00:49",
+"type": "VirtualRide",
+"start_date": "2026-10-05 12:18:30+00:00",
+"start_date_local": "2026-10-05 20:18:30",
+"location_country": "Puma, Vanikoro, Temotu, Solomon Islands",
+"summary_polyline": "bi`fAmh}y^`AnCjAxCHb@?VMTw@x@GXEf@IVYZi@^_@j@Wb@Uv@QhAMX_BtCmA|BcBrCkAbCqBpDqAzCgBzCeA~Be@vAm@rCu@~BW~@i@`Cs@xD_AdDc@fB]bBc@hDk@|C{@bDI`@AZ@z@GlC?rCHbA`@~AHl@?t@ItB?~@FZZVFL?LCNMPQ?IEKOCSEo@B_BE}@Q{BMy@Sc@}@eBa@uAU[MKIMSu@O]MOEAQMKUCKAW@cAKoAAu@ESOSUOIASKGICM@_@NoAp@mDd@cBh@eARi@@UAMKSEAY@KFYZoAvBuBpCiA`Bs@hAEBYf@GBYf@Wr@Gl@EfBKnAGh@YnAMh@[x@Ud@y@hAWl@]tAW|AB^LT\\RLDHHh@X\\`@DJ@TCVGTIPa@b@G@]RSBCBUBCBq@?IGc@k@Sa@Mc@EcBIc@KUWYMSM[CO?m@Bg@j@eDDe@@a@O}@e@aBMq@OuACaABo@Ji@jAqEf@wA^w@DC\\y@@UESKK_@?i@b@cAnAg@x@g@hAo@nAmA`Ba@z@EBe@hA[~@WnAYxBOhBCBGl@EZw@rCQr@SbAKdACv@@xBIxDqAbOGnA@ZFh@`AxCFZ?b@CVEHOHS@EBY?UOEI_@g@Wk@Yy@Q}@Sq@OSGEY[uAgBECk@u@e@g@CKWWo@}@]]OSO]Eg@@u@L}ACcBJy@X_A`@eA\\cAj@}A^y@f@}@Tk@^cBb@cD\\}DB_@?gBDi@F]A[M[OUMGIAACOCa@BCBY@CBa@BABS@ABS@AD[BCBM@AB[BABMBABQ@ABQBCBg@PWRKTGNETHvDMj@EDG?IC]?c@TGDQZET?`@DTHTb@\\^Fb@A^OV[La@?c@GWEIQQUGEIJa@DWKoDH]P[XU~@[`@GfAYnBYd@?`@VPb@Af@Gf@Ch@@pACh@YbDa@vCQbAY`AO^cAnBwB`GUx@E`@A^BdAObC?`@F^L\\RXvE`GlAxATTPXl@bCPb@h@`AXZf@Fd@KVYBi@Ge@w@aCK_@G]?{@HsAlAgNHmD?aDDs@Hm@XuAhAiEJw@PuB\\aC\\wAj@yAv@wA~AaCfAaC`@o@d@m@j@i@VQZF@^MZq@rA]x@",
+"average_heartrate": 132.3,
+"average_speed": 3.682,
+"source": "strava",
+"streak": 1
 }
 ]
