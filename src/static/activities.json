@@ -24163,5 +24163,20 @@
 "average_speed": 2.813,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20515246319,
+"name": "Zwift - Sweet Spot Anchor",
+"distance": 20162.9,
+"moving_time": "1:04:13",
+"type": "VirtualRide",
+"start_date": "2026-10-09 12:17:03+00:00",
+"start_date_local": "2026-10-09 20:17:03",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "qwo_HeupdAnQxAj@IHe@A_AcA}Lg@mD@u@HQPIzAe@tB_@`@HvAz@`@Nd@CTSRq@PmAt@aLHi@X[l@SZUz@qAdCkFZcAfAoEHMRCrDr@TIP[Bc@CiCI{BUaCBo@V_@zHuCfGqDdAy@bDyD^m@P{@JK\\G\\BZCzEuCbAc@xGkBdHaB\\URe@b@[FSDW?k@s@kGAk@@eAXwEC{BOoBy@oF}@eDg@kCyAoL_CsZIcED_FLwBT}AXaA|@eBTw@Fi@@eASeH?a@DSVEV\\F^JdBLz@|@hE\\lAV^XNXATMTo@@k@[iEAmAP_Cb@yCz@_Ev@_C`@k@~@QPQ`@}@Py@CwDOgIKeCOwAcAmFc@uCIsAHcAt@aCdBaET]VOh@Ez@D~Dz@bC`A`BrAn@z@v@pBd@`BrB~JvA`FZv@`@n@j@j@n@\\zE~A|BxAdDvCzAhC~@x@hK~DrAn@vA`AxIbHPl@MrBL\\RBTGlCwAj@CfDzB`@J~AF`APxMlEfCn@bAn@xBnB~@h@nA^hI`Br@Dh@GfF}ApBKrAHdAPxD~AjBlAjBfB~AjBtAvBpAtCbApCdBpHnAnE`@`Ax@vA|AlBdCdBnChAxBb@fH~@xEfAlAn@pCxBtAfBH\\E^Wt@k@|@QJiAVqC^{F\\kBf@uAl@mBrAkH~GcDfC_AtBq@RqBJ}@d@{CdEeC`BaAdAkB|C}DxH]h@aA~@g@XsA\\{BTaCBaDg@k@Cc@Vw@tA{BfFi@|Ai@rC}@xH]jASXu@`@oA\\oCFq@b@eAlAq@h@s@\\}A^aBHcEoAc@I_@Fa@`@gClEwD|EiAbA{BtAs@T]Iw@g@_@MoCBc@Gc@a@a@QyDm@_@UgAaCa@SyB@c@[O{@B}BC_AOw@Ys@}@qAeBcByC_BuDqCmB{@aBgA_Ac@eAOgA@mALmAZe@T[d@g@~A]b@y@t@{@\\_A@sAo@s@m@k@_Aq@aCwAyK{@yHyAsHi@eG[yAQc@uAk@]@cH|AoGjB}DpBgBpAOXWt@E|@r@xMdAfMvBd_@RhB\\nBp@bDt@rC@^G\\a@h@i@^iDtAwDv@cBIw@Rm@n@wBjDe@b@k@TsCf@wCv@qAP_FOsBL}Ad@_FjB{IzB",
+"average_heartrate": 119.6,
+"average_speed": 5.233,
+"source": "strava",
+"streak": 1
 }
 ]
