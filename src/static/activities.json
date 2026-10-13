@@ -24208,5 +24208,20 @@
 "average_speed": 4.288,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20567570064,
+"name": "Zwift - 2x15 FTP Intervals",
+"distance": 24293.8,
+"moving_time": "0:55:42",
+"type": "VirtualRide",
+"start_date": "2026-10-13 12:15:02+00:00",
+"start_date_local": "2026-10-13 20:15:02",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "fktcCmmhu^_GsUBcAfAoD?mCi@cFqDgTcAoUW]e@GcE~@_A?wAq@yIqJ}FoL}EuE_BgAkDaAeF}@oFmBqB?yA`BB\\dAdADTKNqCUo@LXj@tGvCHZGZs@T_I\\kAZB\\TJ`NbDRVi@r@}FrDsCnA_@d@@Zb@h@jOfBVTE^_HdCNp@|BtCr@jCDxAKx@mAzBqApAeAn@cBh@kAHu@MaAi@}CyC_Ai@kAEkBf@aACq@e@o@}AOoCy@q@UkAmAaCm@YqBp@cB`CqANgEbAuA?u@i@q@wBAe@r@eA@c@Wo@k@Y{@`@e@dBgClAaGfBqAQo@Pq@rBgAzByAlFJv@z@zABr@O^cAv@w@dFcBbAUn@LvAxBzFDr@W|@w@d@W?sDmAuAFe@v@G`EW~@y@VkCiAg@?i@d@[lCw@j@sAc@}BwBq@Im@j@aInMIv@R\\pEzBVn@Ar@o@pAKl@b@t@`Bx@Ln@[h@_Bz@Ih@d@p@tBx@Ll@S~@_@`@{@VkIMwCfAqAdBwATgBx@Wf@?z@mB\\y@j@Gl@HpCOf@yBbA{AXq@p@[bA@rAv@`B`FvCHj@OnCNd@p@n@jObCn@\\vBxBrBn@bLbBvHXpA~@lBzBPv@OfCTd@XLrOCzBNTt@GrBqFtFEvCWdCc@xBi@bAaAr@@fCf@V|NC~ANpAjCxA|DjBz@n@xAI`DeBhF?|@Tx@bBnA|@TjAG~B}@n@G`B?|@PnBpA`AhCtBpBr@|A`CxBvA`AlB?nB}@lEc@vBPrCk@lDyA|Do@lBs@`FmDnAm@`A@tAt@x@NzB?^Mb@{@h@_@vAM~C|@tGtDlCDxBKtBJfBi@z@@zMrBfBr@xDbA`A`ATlB^NhB@`@f@ClBsA~@U^Cr@N`@hClA`Bb@bAB|@hBZTp@EjAmAbBM~@uAvBDx@f@r@CbAqA\\_A@w@o@gCL_@dBcAJu@UuAq@iAk@]cAHmC`AcACc@c@I{APwAhAmAfAgBBe@UsAVYdBQl@YPq@AyAwAyAyAy@uJeN]_ASkCm@aBiDuBoAwBsAyAwFeFc@oACgDPiI^i@lBwAdBsEZkB?qFW{Es@eCkGwKQgA^_AfE_FNgA{C_MoDqKoLkd@CmAbAcDJ}Bi@{FiAmG",
+"average_heartrate": 125.1,
+"average_speed": 7.269,
+"source": "strava",
+"streak": 1
 }
 ]
